@@ -25,7 +25,3 @@ jobs:
           git add data/warframe_data.json
           git commit -m "Weekly scrape: $(date -u +'%Y-%m-%dT%H:%M:%SZ')" || echo "No changes"
           git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: Trigger Vercel Deploy Hook
-        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_XdMGmAFP6BILkMTCvCQARKhfTasd/4DrfSjTzQr
