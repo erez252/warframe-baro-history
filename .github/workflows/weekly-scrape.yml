@@ -1,12 +1,14 @@
 name: weekly-scrape
 on:
   schedule:
-    - cron: '0 2 * * 1' # every Monday 02:00 UTC (05:00 local) — 02:00 UTC (05:00) 
+    - cron: '0 2 * * 1'
   workflow_dispatch: {}
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # This is the key line to add.
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
