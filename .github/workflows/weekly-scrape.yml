@@ -15,7 +15,7 @@ jobs:
       - run: npm ci
       - run: node scripts/scrape.js
         env:
-          TARGET_URL: 'https://your-wiki-page.example'
+          TARGET_URL: 'https://wiki.warframe.com/w/Baro_Ki%27Teer/Trades'
       - name: Commit data
         run: |
           git config user.name "github-actions[bot]"
