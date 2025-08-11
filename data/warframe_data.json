@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2025-08-11T23:40:42.212Z",
+  "scrapedAt": "2025-08-11T23:53:10.126Z",
   "source": "https://wiki.warframe.com/w/Baro_Ki%27Teer/Trades",
   "items": [
     {
@@ -7,2919 +7,3753 @@
       "itemType": "Mod",
       "credits": 150000,
       "ducats": 300,
-      "date": "2024-12-27T13:00:00.000Z"
+      "date": "2024-12-27T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Volcanic_Edge",
+      "wikiThumbnail": "https://wiki.warframe.com/images/VolcanicEdgeMod.png?4cf08"
     },
     {
       "itemName": "Primed Steady Hands",
       "itemType": "Mod (Primed)",
       "credits": 220000,
       "ducats": 300,
-      "date": "2025-04-18T13:00:00.000Z"
+      "date": "2025-04-18T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Steady_Hands",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrimedSteadyHandsMod.png/300px-PrimedSteadyHandsMod.png?35d54"
     },
     {
       "itemName": "Ki'teer Arrow Skin",
       "itemType": "Cosmetic (Weapon)",
       "credits": 300000,
       "ducats": 375,
-      "date": "2025-04-25T13:00:00.000Z"
+      "date": "2025-04-25T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Ki%27teer_Arrow_Skin",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/KiTeerArrowSkin.png/300px-KiTeerArrowSkin.png?47f0a"
     },
     {
       "itemName": "Cutter Fighter Decoration",
       "itemType": "Decoration",
       "credits": 100000,
       "ducats": 100,
-      "date": "2025-03-07T13:00:00.000Z"
+      "date": "2025-03-07T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Fighters",
+      "wikiThumbnail": "https://wiki.warframe.com/images/KosmaCutter.png?f275d"
     },
     {
       "itemName": "Neo O1 Relic",
       "itemType": "Void Relic",
       "credits": 55000,
       "ducats": 125,
-      "date": "2025-05-30T13:00:00.000Z"
+      "date": "2025-05-30T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Neo_O1",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/NeoRelicIntact.png/300px-NeoRelicIntact.png?6dc86"
     },
     {
       "itemName": "The Lotus Eaters Login Music",
       "itemType": "Somachord",
       "credits": 150000,
       "ducats": 165,
-      "date": "2025-07-25T13:00:00.000Z"
+      "date": "2025-07-25T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Somachord",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/TheLotusEatersLoginMusic.png/300px-TheLotusEatersLoginMusic.png?d43a1"
     },
     {
       "itemName": "Fass Floof",
       "itemType": "Decoration",
       "credits": 125000,
       "ducats": 150,
-      "date": "2025-03-21T13:00:00.000Z"
+      "date": "2025-03-21T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Floofs",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/FassFloof.png/300px-FassFloof.png?9138c"
     },
     {
       "itemName": "Right Prisma Edo Knee Plates",
       "itemType": "Cosmetic (Armor)",
       "credits": 55000,
       "ducats": 100,
-      "date": "2025-08-08T13:00:00.000Z"
+      "date": "2025-08-08T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Armor_(Cosmetic)",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/LeftPrismaEdoKneePlates.png/300px-LeftPrismaEdoKneePlates.png?0116a"
     },
     {
       "itemName": "Deimos Carnis Prex",
       "itemType": "Decoration",
       "credits": 100000,
       "ducats": 75,
-      "date": "2025-07-11T13:00:00.000Z"
+      "date": "2025-07-11T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Prex",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/DeimosCarnisPrex.png/300px-DeimosCarnisPrex.png?c02b0"
     },
     {
       "itemName": "Flak Fighter Decoration",
       "itemType": "Decoration",
       "credits": 100000,
       "ducats": 100,
-      "date": "2024-11-01T13:00:00.000Z"
+      "date": "2024-11-01T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Fighters",
+      "wikiThumbnail": "https://wiki.warframe.com/images/KosmaFlak.png?69401"
     },
     {
       "itemName": "Primed Chamber",
       "itemType": "Mod",
       "credits": 1000000,
       "ducats": 2995,
-      "date": "2022-06-17T13:00:00.000Z"
+      "date": "2022-06-17T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Chamber",
+      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedChamberMod.png?5e76c"
     },
     {
       "itemName": "Prova Vandal",
       "itemType": "Weapon",
       "credits": 250000,
       "ducats": 410,
-      "date": "2025-06-27T13:00:00.000Z"
+      "date": "2025-06-27T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Prova_Vandal",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/ProvaVandal.png/300px-ProvaVandal.png?8a8cb"
     },
     {
       "itemName": "Entrati Eye Glyph",
       "itemType": "Glyph",
       "credits": 1900,
       "ducats": 99,
-      "date": "2025-08-08T13:00:00.000Z"
+      "date": "2025-08-08T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Glyph#Other_Glyphs",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/EntratiEyeGlyph.png/300px-EntratiEyeGlyph.png?fe740"
     },
     {
       "itemName": "Ki'teer Tribute Glyph",
       "itemType": "Glyph",
       "credits": 50000,
       "ducats": 80,
-      "date": "2025-04-25T13:00:00.000Z"
+      "date": "2025-04-25T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Glyph#Other_Glyphs",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/Ki%27teerTributeGlyph.png/300px-Ki%27teerTributeGlyph.png?4a6e4"
     },
     {
       "itemName": "Primed Point Blank",
       "itemType": "Mod (Primed)",
       "credits": 110000,
       "ducats": 300,
-      "date": "2025-05-16T13:00:00.000Z"
+      "date": "2025-05-16T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Point_Blank",
+      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedPointBlankMod.png?1e405"
     },
     {
       "itemName": "Pedestal Prime",
       "itemType": "Decoration",
       "credits": 1000000,
       "ducats": null,
-      "date": "2025-04-04T13:00:00.000Z"
+      "date": "2025-04-04T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Miscellaneous",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PedestalPrime.png/300px-PedestalPrime.png?fa563"
     },
     {
       "itemName": "Deimos Scissus Prex",
       "itemType": "Decoration",
       "credits": 100000,
       "ducats": 75,
-      "date": "2025-02-07T13:00:00.000Z"
+      "date": "2025-02-07T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Prex",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/DeimosScissusPrex.png/300px-DeimosScissusPrex.png?5333a"
     },
     {
       "itemName": "Right Prisma Daedalus Knee Plates",
       "itemType": "Cosmetic (Armor)",
       "credits": 75000,
       "ducats": 65,
-      "date": "2025-04-11T13:00:00.000Z"
+      "date": "2025-04-11T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Armor_(Cosmetic)",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/LeftPrismaDaedalusShinGuard.png/300px-LeftPrismaDaedalusShinGuard.png?6e5e4"
     },
     {
       "itemName": "Axi A8 Relic",
       "itemType": "Void Relic",
       "credits": 55000,
       "ducats": 125,
-      "date": null
+      "date": null,
+      "wikiURL": "https://wiki.warframe.com/w/Axi_A8",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/AxiRelicIntact.png/300px-AxiRelicIntact.png?6cadf"
     },
     {
       "itemName": "Empyrean Vignette",
       "itemType": "Cosmetic (Orbiter)",
       "credits": 200000,
       "ducats": 155,
-      "date": "2025-06-13T13:00:00.000Z"
+      "date": "2025-06-13T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter#Vignettes",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/EmpyreanVignette.png/300px-EmpyreanVignette.png?ffebd"
     },
     {
       "itemName": "Prisma Twin Gremlins",
       "itemType": "Weapon",
       "credits": 220000,
       "ducats": 500,
-      "date": "2025-08-08T13:00:00.000Z"
+      "date": "2025-08-08T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Prisma_Twin_Gremlins",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrismaTwinGremlins.png/300px-PrismaTwinGremlins.png?95972"
     },
     {
       "itemName": "Lunar Renewal Rabbit Emblem",
       "itemType": "Cosmetic (Emblem)",
       "credits": 45000,
       "ducats": 55,
-      "date": "2025-02-21T13:00:00.000Z"
+      "date": "2025-02-21T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Warframe_Cosmetics#Other_Emblems",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/LunarRenewalRabbitEmblem.png/300px-LunarRenewalRabbitEmblem.png?0c217"
     },
     {
       "itemName": "Renayla Sugatra",
       "itemType": "Cosmetic (Weapon)",
       "credits": 250000,
       "ducats": 250,
-      "date": "2025-03-07T13:00:00.000Z"
+      "date": "2025-03-07T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Weapon_Cosmetics#Sugatra",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/RenaylaSugatra.png/300px-RenaylaSugatra.png?608dc"
     },
     {
       "itemName": "Kavat Sentinel Tail",
       "itemType": "Cosmetic (Sentinel)",
       "credits": 250000,
       "ducats": 400,
-      "date": "2024-08-23T13:00:00.000Z"
+      "date": "2024-08-23T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Sentinel_Cosmetics#Attachments",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/KavatSentinelTail.png/300px-KavatSentinelTail.png?fecac"
     },
     {
       "itemName": "Noggle Statue - The New War Veso-R",
       "itemType": "Decoration",
       "credits": 300000,
       "ducats": 75,
-      "date": "2025-05-30T13:00:00.000Z"
+      "date": "2025-05-30T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Noggles",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/BobbleheadTheNewWarVeso-R.png/300px-BobbleheadTheNewWarVeso-R.png?441d0"
     },
     {
       "itemName": "The Stranger's Hood (Operator)",
       "itemType": "Cosmetic (Operator)",
       "credits": 500000,
       "ducats": 550,
-      "date": "2025-05-16T13:00:00.000Z"
+      "date": "2025-05-16T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Operator/Customization#Hoods",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/TheStranger%27sHood%28Operator%29.png/300px-TheStranger%27sHood%28Operator%29.png?52653"
     },
     {
       "itemName": "Jolt",
       "itemType": "Mod",
       "credits": 150000,
       "ducats": 300,
-      "date": "2025-07-11T13:00:00.000Z"
+      "date": "2025-07-11T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Jolt",
+      "wikiThumbnail": "https://wiki.warframe.com/images/JoltMod.png?728db"
     },
     {
       "itemName": "Inaros Tomb Scene",
       "itemType": "Captura Scene",
       "credits": 175000,
       "ducats": 325,
-      "date": "2025-06-13T13:00:00.000Z"
+      "date": "2025-06-13T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Captura",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/InarosTombScene.png/300px-InarosTombScene.png?b3479"
     },
     {
       "itemName": "Prisma Machete",
       "itemType": "Weapon",
       "credits": 200000,
       "ducats": 400,
-      "date": "2025-07-25T13:00:00.000Z"
+      "date": "2025-07-25T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Prisma_Machete",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrismaMachete.png/300px-PrismaMachete.png?02d9d"
     },
     {
       "itemName": "Ki'teer Moa Pet Skin",
       "itemType": "Cosmetic (MOA)",
       "credits": 325000,
       "ducats": 500,
-      "date": "2025-05-30T13:00:00.000Z"
+      "date": "2025-05-30T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/MOA_(Companion)",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/KiteerMoaPetSkin.png/300px-KiteerMoaPetSkin.png?b7d68"
     },
     {
       "itemName": "Despair Emblem",
       "itemType": "Cosmetic (Emblem)",
       "credits": 60000,
       "ducats": 55,
-      "date": "2025-03-21T13:00:00.000Z"
+      "date": "2025-03-21T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Warframe_Cosmetics#Other_Emblems",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/DespairEmblem.png/300px-DespairEmblem.png?37ebd"
     },
     {
       "itemName": "Fanged Fusillade",
       "itemType": "Mod",
       "credits": 150000,
       "ducats": 375,
-      "date": "2024-12-13T13:00:00.000Z"
+      "date": "2024-12-13T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Fanged_Fusillade",
+      "wikiThumbnail": "https://wiki.warframe.com/images/FangedFusilladeMod.png?70340"
     },
     {
       "itemName": "Left Prisma Edo Shoulder Plates",
       "itemType": "Cosmetic (Armor)",
       "credits": 55000,
       "ducats": 100,
-      "date": "2025-08-08T13:00:00.000Z"
+      "date": "2025-08-08T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Armor_(Cosmetic)",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/LeftPrismaEdoShoulderPlates.png/300px-LeftPrismaEdoShoulderPlates.png?7b776"
     },
     {
       "itemName": "Deimos Jugulus Prex",
       "itemType": "Decoration",
       "credits": 100000,
       "ducats": 75,
-      "date": "2024-11-29T13:00:00.000Z"
+      "date": "2024-11-29T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Prex",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/DeimosJugulusPrex.png/300px-DeimosJugulusPrex.png?a42b7"
     },
     {
       "itemName": "In Mah Belly Glyph",
       "itemType": "Glyph",
       "credits": 50000,
       "ducats": 80,
-      "date": "2024-10-18T13:00:00.000Z"
+      "date": "2024-10-18T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Glyph#Other_Glyphs",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/InMahBellyGlyph.png/300px-InMahBellyGlyph.png?4e2e3"
     },
     {
       "itemName": "Left Eos Prime Shoulder Plates",
       "itemType": "Cosmetic (Armor)",
       "credits": 75000,
       "ducats": 50,
-      "date": "2025-05-30T13:00:00.000Z"
+      "date": "2025-05-30T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Armor_(Cosmetic)",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrimedEosShoulderPlate.png/300px-PrimedEosShoulderPlate.png?13245"
     },
     {
       "itemName": "Ava-Clem Community Glyph",
       "itemType": "Glyph",
       "credits": 33333,
       "ducats": 20,
-      "date": null
+      "date": null,
+      "wikiURL": "https://wiki.warframe.com/w/Glyph#Other_Glyphs",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/Ava-ClemCommunityGlyph.png/300px-Ava-ClemCommunityGlyph.png?781e8"
     },
     {
       "itemName": "Domus Syandana",
       "itemType": "Cosmetic (Syandana)",
       "credits": 400000,
       "ducats": 600,
-      "date": "2025-05-16T13:00:00.000Z"
+      "date": "2025-05-16T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Syandana",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/DomusSyandana.png/300px-DomusSyandana.png?facc3"
     },
     {
       "itemName": "Blue Ki'teer Safari K-Drive Scrawl",
       "itemType": "Cosmetic (K-Drive)",
       "credits": 75000,
       "ducats": 75,
-      "date": "2025-07-11T13:00:00.000Z"
+      "date": "2025-07-11T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/K-Drive#Others",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/BlueKiteerSafariKDriveScrawl.png/300px-BlueKiteerSafariKDriveScrawl.png?c129e"
     },
     {
       "itemName": "Noggle Statue - Octavia",
       "itemType": "Decoration",
       "credits": 275000,
       "ducats": 50,
-      "date": "2025-05-02T13:00:00.000Z"
+      "date": "2025-05-02T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Noggles",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/BobbleheadOctavia.png/300px-BobbleheadOctavia.png?96f54"
     },
     {
       "itemName": "Primed Morphic Transformer",
       "itemType": "Mod (Primed)",
       "credits": 150000,
       "ducats": 350,
-      "date": "2025-05-02T13:00:00.000Z"
+      "date": "2025-05-02T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Morphic_Transformer",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrimedMorphicTransformerMod.png/300px-PrimedMorphicTransformerMod.png?d4a3f"
     },
     {
       "itemName": "Transmuter Operator Hood",
       "itemType": "Cosmetic (Operator)",
       "credits": 450000,
       "ducats": 450,
-      "date": "2025-05-30T13:00:00.000Z"
+      "date": "2025-05-30T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Operator/Customization#Hoods",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/TransmuterOperatorHood.png/300px-TransmuterOperatorHood.png?e1add"
     },
     {
       "itemName": "Mahd Luxxum Ornament",
       "itemType": "Decoration",
       "credits": 100000,
       "ducats": 100,
-      "date": "2024-12-13T13:00:00.000Z"
+      "date": "2024-12-13T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Luxxum_Ornaments",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/MahdLuxxumOrnament.png/300px-MahdLuxxumOrnament.png?b6ccf"
     },
     {
       "itemName": "Lunar Renewal Dragon Emblem",
       "itemType": "Cosmetic (Emblem)",
       "credits": 45000,
       "ducats": 55,
-      "date": "2025-02-21T13:00:00.000Z"
+      "date": "2025-02-21T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Warframe_Cosmetics#Other_Emblems",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/LunarRenewalDragonEmblem.png/300px-LunarRenewalDragonEmblem.png?4411f"
     },
     {
       "itemName": "Primed Target Cracker",
       "itemType": "Mod (Primed)",
       "credits": 150000,
       "ducats": 400,
-      "date": "2025-03-21T13:00:00.000Z"
+      "date": "2025-03-21T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Target_Cracker",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrimedTargetCrackerMod.png/300px-PrimedTargetCrackerMod.png?008ba"
     },
     {
       "itemName": "Tigris Elixis Skin",
       "itemType": "Cosmetic (Weapon)",
       "credits": 275000,
       "ducats": 300,
-      "date": "2025-07-25T13:00:00.000Z"
+      "date": "2025-07-25T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Tigris_Elixis_Skin",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/TigrisElixisSkin.png/300px-TigrisElixisSkin.png?6ebaf"
     },
     {
       "itemName": "3 Day Affinity Booster",
       "itemType": "Booster",
       "credits": 200000,
       "ducats": 450,
-      "date": "2025-07-25T13:00:00.000Z"
+      "date": "2025-07-25T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Affinity_Booster",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/AffinityBooster.png/300px-AffinityBooster.png?1e12d"
     },
     {
       "itemName": "Masker's Theodolite Crewsuit Leggings",
       "itemType": "Cosmetic (Operator)",
       "credits": 275000,
       "ducats": 300,
-      "date": "2025-06-13T13:00:00.000Z"
+      "date": "2025-06-13T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Operator/Customization#Transference_Suits",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/Masker%27sTheodoliteCrewsuitLeggings.png/300px-Masker%27sTheodoliteCrewsuitLeggings.png?4dd42"
     },
     {
       "itemName": "Primed Dual Rounds",
       "itemType": "Mod (Primed)",
       "credits": 250000,
       "ducats": 400,
-      "date": "2025-07-25T13:00:00.000Z"
+      "date": "2025-07-25T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Dual_Rounds",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrimedDualRoundsMod.png/300px-PrimedDualRoundsMod.png?d182e"
     },
     {
       "itemName": "Prisma Yamako Syandana",
       "itemType": "Cosmetic (Syandana)",
       "credits": 250000,
       "ducats": 400,
-      "date": "2025-04-18T13:00:00.000Z"
+      "date": "2025-04-18T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Syandana",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrismaYamakoSyandana.png/300px-PrismaYamakoSyandana.png?40816"
     },
     {
       "itemName": "Deimos Flagellocanth Prex",
       "itemType": "Decoration",
       "credits": 100000,
       "ducats": 75,
-      "date": "2025-07-25T13:00:00.000Z"
+      "date": "2025-07-25T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Prex",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/DeimosFlagellocanthPrex.png/300px-DeimosFlagellocanthPrex.png?fe209"
     },
     {
       "itemName": "De Nas Pistol Skin",
       "itemType": "Cosmetic (Weapon)",
       "credits": 300000,
       "ducats": 400,
-      "date": "2025-08-08T13:00:00.000Z"
+      "date": "2025-08-08T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/De_Nas_Pistol_Skin",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/DeNasPistolSkin.png/300px-DeNasPistolSkin.png?9260d"
     },
     {
       "itemName": "Liset Prisma Skin",
       "itemType": "Cosmetic (Landing Craft)",
       "credits": 150000,
       "ducats": 120,
-      "date": "2025-04-11T13:00:00.000Z"
+      "date": "2025-04-11T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Liset#Skins",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/LisetPrismaSkin.png/300px-LisetPrismaSkin.png?73ae4"
     },
     {
       "itemName": "Prisma Latron Chest Plate",
       "itemType": "Cosmetic (Armor)",
       "credits": 200000,
       "ducats": 275,
-      "date": "2025-04-11T13:00:00.000Z"
+      "date": "2025-04-11T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Armor_(Cosmetic)",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrismaLatronChestPlate.png/300px-PrismaLatronChestPlate.png?84f25"
     },
     {
       "itemName": "Volatile Ogris Skin",
       "itemType": "Cosmetic (Weapon)",
       "credits": 325000,
       "ducats": 350,
-      "date": "2025-05-30T13:00:00.000Z"
+      "date": "2025-05-30T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Volatile_Ogris_Skin",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/VolatileOgrisSkin.png/300px-VolatileOgrisSkin.png?ef5a2"
     },
     {
       "itemName": "Pyra Sugatra",
       "itemType": "Cosmetic (Weapon)",
       "credits": 200000,
       "ducats": 100,
-      "date": "2025-07-11T13:00:00.000Z"
+      "date": "2025-07-11T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Weapon_Cosmetics#Sugatra",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PyraSugatra.png/300px-PyraSugatra.png?23aa9"
     },
     {
       "itemName": "Prisma Dual Cleavers",
       "itemType": "Weapon",
       "credits": 200000,
       "ducats": 490,
-      "date": "2025-04-11T13:00:00.000Z"
+      "date": "2025-04-11T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Prisma_Dual_Cleavers",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrismaDualCleavers.png/300px-PrismaDualCleavers.png?20b93"
     },
     {
       "itemName": "Prisma Lotus Flame Sigil",
       "itemType": "Cosmetic (Sigil)",
       "credits": 60000,
       "ducats": 55,
-      "date": "2025-04-11T13:00:00.000Z"
+      "date": "2025-04-11T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Sigils#Baro_Ki'Teer_Sigils",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrismaLotusFlameSigil.png/300px-PrismaLotusFlameSigil.png?376eb"
     },
     {
       "itemName": "Empyrean Login Music",
       "itemType": "Somachord",
       "credits": 155000,
       "ducats": 160,
-      "date": "2025-05-16T13:00:00.000Z"
+      "date": "2025-05-16T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Somachord",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/EmpyreanLoginMusic.png/300px-EmpyreanLoginMusic.png?b4c4c"
     },
     {
       "itemName": "Lemnas Staff Skin",
       "itemType": "Cosmetic (Weapon)",
       "credits": 275000,
       "ducats": 350,
-      "date": "2025-03-21T13:00:00.000Z"
+      "date": "2025-03-21T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Lemnas_Staff_Skin",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/LemnasStaffSkin.png/300px-LemnasStaffSkin.png?258ff"
     },
     {
       "itemName": "Falcon Mod Pack",
       "itemType": "Pack",
       "credits": 50000,
       "ducats": 250,
-      "date": null
+      "date": null,
+      "wikiURL": "https://wiki.warframe.com/w/Mod_Pack#Falcon_Mod_Pack",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/FalconModPackPlaceholder.png/300px-FalconModPackPlaceholder.png?b0e85"
     },
     {
       "itemName": "Primed Magazine Warp",
       "itemType": "Mod (Primed)",
       "credits": 200000,
       "ducats": 280,
-      "date": "2025-07-11T13:00:00.000Z"
+      "date": "2025-07-11T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Magazine_Warp",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrimedMagazineWarpMod.png/300px-PrimedMagazineWarpMod.png?06791"
     },
     {
       "itemName": "Ki'teer Cornu Diadem",
       "itemType": "Cosmetic (Operator)",
       "credits": 375000,
       "ducats": 525,
-      "date": "2025-05-02T13:00:00.000Z"
+      "date": "2025-05-02T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Operator/Customization#Facial_Accessories",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/Ki%27teerCornuDiadem.png/300px-Ki%27teerCornuDiadem.png?937fa"
     },
     {
       "itemName": "Ki'teer Sekhara",
       "itemType": "Cosmetic (Sigil)",
       "credits": 200000,
       "ducats": 400,
-      "date": "2025-04-25T13:00:00.000Z"
+      "date": "2025-04-25T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Warframe_Cosmetics#Other_Emblems",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/Ki%27Teer_Sekhara.png/300px-Ki%27Teer_Sekhara.png?04c38"
     },
     {
       "itemName": "Ki'teer Presence",
       "itemType": "Emote",
       "credits": 1000000,
       "ducats": null,
-      "date": "2025-05-02T13:00:00.000Z"
+      "date": "2025-05-02T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Emotes",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/BaroPresence.PNG/300px-BaroPresence.PNG?815fa"
     },
     {
       "itemName": "Primed Cleanse Corpus",
       "itemType": "Mod (Primed)",
       "credits": 140000,
       "ducats": 350,
-      "date": "2024-12-13T13:00:00.000Z"
+      "date": "2024-12-13T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Cleanse_Corpus",
+      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedCleanseCorpusMod.png?af42a"
     },
     {
       "itemName": "Orokin Tower Extraction Scene",
       "itemType": "Captura Scene",
       "credits": 175000,
       "ducats": 325,
-      "date": "2025-03-21T13:00:00.000Z"
+      "date": "2025-03-21T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Captura",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/OrokinTowerExtractionScene.png/300px-OrokinTowerExtractionScene.png?97b19"
     },
     {
       "itemName": "Ki'teer Kavat Armor",
       "itemType": "Cosmetic (Kavat)",
       "credits": 275000,
       "ducats": 500,
-      "date": "2025-05-16T13:00:00.000Z"
+      "date": "2025-05-16T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Kavat_Cosmetics#Armor",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/KiTeerKavatArmor.png/300px-KiTeerKavatArmor.png?98b38"
     },
     {
       "itemName": "Baruuk Immortal Skin",
       "itemType": "Cosmetic (Warframe Skin)",
       "credits": 100000,
       "ducats": 550,
-      "date": "2025-06-27T13:00:00.000Z"
+      "date": "2025-06-27T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Baruuk/Equip",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/BaruukImmortalSkin.png/300px-BaruukImmortalSkin.png?eb427"
     },
     {
       "itemName": "Paracesis Elixis Skin",
       "itemType": "Cosmetic (Weapon)",
       "credits": 350000,
       "ducats": 350,
-      "date": "2025-08-08T13:00:00.000Z"
+      "date": "2025-08-08T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Paracesis_Elixis_Skin",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/ParacesisElixisSkin.png/300px-ParacesisElixisSkin.png?db5ba"
     },
     {
       "itemName": "Harkonar Wraith Leg Armor",
       "itemType": "Cosmetic (Armor)",
       "credits": 150000,
       "ducats": 350,
-      "date": "2025-06-13T13:00:00.000Z"
+      "date": "2025-06-13T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Armor_(Cosmetic)",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/WraithHarkonarLegArmour.png/300px-WraithHarkonarLegArmour.png?c0088"
     },
     {
       "itemName": "Harkonar Wraith Chest Armor",
       "itemType": "Cosmetic (Armor)",
       "credits": 250000,
       "ducats": 300,
-      "date": "2025-06-13T13:00:00.000Z"
+      "date": "2025-06-13T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Armor_(Cosmetic)",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/WraithHarkonarChestArmour.png/300px-WraithHarkonarChestArmour.png?a0151"
     },
     {
       "itemName": "Scimitar Cydonia Skin",
       "itemType": "Cosmetic (Landing Craft)",
       "credits": 340000,
       "ducats": 375,
-      "date": "2025-07-11T13:00:00.000Z"
+      "date": "2025-07-11T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Scimitar#Skins",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/ScimitarCydoniaSkin.png/300px-ScimitarCydoniaSkin.png?0544c"
     },
     {
       "itemName": "Javi Evolution Scrawling",
       "itemType": "Decoration",
       "credits": 100000,
       "ducats": 90,
-      "date": "2025-07-11T13:00:00.000Z"
+      "date": "2025-07-11T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Miscellaneous",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/JaviEvolutionScrawling.png/300px-JaviEvolutionScrawling.png?8af91"
     },
     {
       "itemName": "Prisma Latron Leg Plate",
       "itemType": "Cosmetic (Armor)",
       "credits": 175000,
       "ducats": 300,
-      "date": "2025-04-11T13:00:00.000Z"
+      "date": "2025-04-11T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Armor_(Cosmetic)",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrismaLatronLegPlate.png/300px-PrismaLatronLegPlate.png?6f38b"
     },
     {
       "itemName": "Ki'teer Earpiece",
       "itemType": "Cosmetic (Operator)",
       "credits": 400000,
       "ducats": 500,
-      "date": "2025-08-08T13:00:00.000Z"
+      "date": "2025-08-08T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Operator/Customization#Facial_Accessories",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/Ki%27teerEarpiece.png/300px-Ki%27teerEarpiece.png?093b9"
     },
     {
       "itemName": "Ki'teer Diax Syandana",
       "itemType": "Cosmetic (Syandana)",
       "credits": 450000,
       "ducats": 325,
-      "date": "2025-07-11T13:00:00.000Z"
+      "date": "2025-07-11T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Syandana",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/Ki%27teerDiaxSyandana.png/300px-Ki%27teerDiaxSyandana.png?6450b"
     },
     {
       "itemName": "Ki'teer Greth Leg Plates",
       "itemType": "Cosmetic (Armor)",
       "credits": 350000,
       "ducats": 400,
-      "date": "2025-07-11T13:00:00.000Z"
+      "date": "2025-07-11T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Armor_(Cosmetic)",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/Ki%27teerGrethLegPlates.png/300px-Ki%27teerGrethLegPlates.png?a8005"
     },
     {
       "itemName": "Harpi Fighter Decoration",
       "itemType": "Decoration",
       "credits": 100000,
       "ducats": 100,
-      "date": "2025-05-02T13:00:00.000Z"
+      "date": "2025-05-02T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Fighters",
+      "wikiThumbnail": "https://wiki.warframe.com/images/TaroHarpi.png?46652"
     },
     {
       "itemName": "Abyss of Dagath Login Music",
       "itemType": "Somachord",
       "credits": 155000,
       "ducats": 150,
-      "date": "2025-05-30T13:00:00.000Z"
+      "date": "2025-05-30T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Somachord",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/AbyssOfDagathLoginMusic.png/300px-AbyssOfDagathLoginMusic.png?ae61c"
     },
     {
       "itemName": "Eminence",
       "itemType": "Color Palette",
       "credits": 220000,
       "ducats": 220,
-      "date": "2025-07-11T13:00:00.000Z"
+      "date": "2025-07-11T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Color_Picker_Extension#Eminence",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/Eminence.png/300px-Eminence.png?4e943"
     },
     {
       "itemName": "Ki'teer Razza Syandana",
       "itemType": "Cosmetic (Syandana)",
       "credits": 350000,
       "ducats": 400,
-      "date": "2025-07-25T13:00:00.000Z"
+      "date": "2025-07-25T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Syandana",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/Ki%27teerRazzaSyandana.png/300px-Ki%27teerRazzaSyandana.png?2b3af"
     },
     {
       "itemName": "Desert Skate Floof",
       "itemType": "Decoration",
       "credits": 100000,
       "ducats": 125,
-      "date": "2025-05-16T13:00:00.000Z"
+      "date": "2025-05-16T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Floofs",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/DesertSkateFloof.png/300px-DesertSkateFloof.png?a0d35"
     },
     {
       "itemName": "Exo-Sac Archwing Skin",
       "itemType": "Cosmetic (Archwing)",
       "credits": 300000,
       "ducats": 400,
-      "date": "2025-03-21T13:00:00.000Z"
+      "date": "2025-03-21T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Exo-Sac_Archwing_Skin",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/Exo-SacArchwingSkin.png/300px-Exo-SacArchwingSkin.png?ef4cd"
     },
     {
       "itemName": "Mulciber Chest Plate",
       "itemType": "Cosmetic (Armor)",
       "credits": 250000,
       "ducats": 325,
-      "date": "2025-05-16T13:00:00.000Z"
+      "date": "2025-05-16T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Armor_(Cosmetic)",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/MulciberChestPlate.png/300px-MulciberChestPlate.png?eb0fa"
     },
     {
       "itemName": "Axi V8 Relic",
       "itemType": "Void Relic",
       "credits": 55000,
       "ducats": 125,
-      "date": "2025-08-08T13:00:00.000Z"
+      "date": "2025-08-08T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Axi_V8",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/AxiRelicIntact.png/300px-AxiRelicIntact.png?6cadf"
     },
     {
       "itemName": "Primed Cleanse Grineer",
       "itemType": "Mod (Primed)",
       "credits": 140000,
       "ducats": 350,
-      "date": "2025-08-08T13:00:00.000Z"
+      "date": "2025-08-08T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Cleanse_Grineer",
+      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedCleanseGrineerMod.png?5d576"
     },
     {
       "itemName": "Flare Varleon & Lizzie Poster Display",
       "itemType": "Decoration",
       "credits": 125000,
       "ducats": 90,
-      "date": null
+      "date": null,
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Displays",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/FlareVarleon%26LizziePosterDisplay.png/300px-FlareVarleon%26LizziePosterDisplay.png?d9fae"
     },
     {
       "itemName": "Ki'teer Atmos Diadem",
       "itemType": "Cosmetic (Operator)",
       "credits": 375000,
       "ducats": 525,
-      "date": "2025-04-25T13:00:00.000Z"
+      "date": "2025-04-25T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Operator/Customization#Facial_Accessories",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/Ki%27teerAtmosDiadem.png/300px-Ki%27teerAtmosDiadem.png?73f41"
     },
     {
       "itemName": "Primed Cleanse Orokin",
       "itemType": "Mod (Primed)",
       "credits": 140000,
       "ducats": 350,
-      "date": "2025-03-21T13:00:00.000Z"
+      "date": "2025-03-21T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Cleanse_Orokin",
+      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedCleanseOrokinMod.png?c71bd"
     },
     {
       "itemName": "High Voltage",
       "itemType": "Mod",
       "credits": 150000,
       "ducats": 300,
-      "date": "2025-02-07T13:00:00.000Z"
+      "date": "2025-02-07T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/High_Voltage",
+      "wikiThumbnail": "https://wiki.warframe.com/images/HighVoltageMod.png?6e178"
     },
     {
       "itemName": "Ki'teer Ephemera",
       "itemType": "Cosmetic (Ephemera)",
       "credits": 150000,
       "ducats": 100,
-      "date": "2025-05-30T13:00:00.000Z"
+      "date": "2025-05-30T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Ephemera#Ki'Teer",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/KiteerEphemera.png/300px-KiteerEphemera.png?7e25d"
     },
     {
       "itemName": "Right Eos Prime Spurs",
       "itemType": "Cosmetic (Armor)",
       "credits": 50000,
       "ducats": 65,
-      "date": "2025-05-30T13:00:00.000Z"
+      "date": "2025-05-30T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Armor_(Cosmetic)",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrimedEosSpurs.png/300px-PrimedEosSpurs.png?d4018"
     },
     {
       "itemName": "Prisma Kavat Glyph",
       "itemType": "Glyph",
       "credits": 50000,
       "ducats": 80,
-      "date": "2025-04-11T13:00:00.000Z"
+      "date": "2025-04-11T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Glyph#Other_Glyphs",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrismaKavatGlyph.png/300px-PrismaKavatGlyph.png?fbefc"
     },
     {
       "itemName": "Primed Pressure Point",
       "itemType": "Mod (Primed)",
       "credits": 300000,
       "ducats": 385,
-      "date": "2025-06-13T13:00:00.000Z"
+      "date": "2025-06-13T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Pressure_Point",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrimedPressurePointMod.png/300px-PrimedPressurePointMod.png?d530f"
     },
     {
       "itemName": "Astral Twilight",
       "itemType": "Mod (Stance)",
       "credits": 175000,
       "ducats": 385,
-      "date": "2025-03-07T13:00:00.000Z"
+      "date": "2025-03-07T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Astral_Twilight",
+      "wikiThumbnail": "https://wiki.warframe.com/images/AstralTwilightMod.png?cdd1e"
     },
     {
       "itemName": "5 x Corrupted Heavy Gunner Specter",
       "itemType": "Consumable",
       "credits": 40000,
       "ducats": 100,
-      "date": "2025-05-02T13:00:00.000Z"
+      "date": "2025-05-02T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Specter#Miscellaneous_Specters",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/CorruptedHeavyGunnerSpecter.png/300px-CorruptedHeavyGunnerSpecter.png?4201f"
     },
     {
       "itemName": "Primed Bane of Infested",
       "itemType": "Mod (Primed)",
       "credits": 140000,
       "ducats": 400,
-      "date": "2024-11-29T13:00:00.000Z"
+      "date": "2024-11-29T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Bane_of_Infested",
+      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedBaneofInfestedMod.png?8aa87"
     },
     {
       "itemName": "Zylok",
       "itemType": "Weapon",
       "credits": 200000,
       "ducats": 500,
-      "date": "2025-05-02T13:00:00.000Z"
+      "date": "2025-05-02T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Zylok",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/Zylok.png/300px-Zylok.png?9a401"
     },
     {
       "itemName": "Opticor Elixis Skin",
       "itemType": "Cosmetic (Weapon)",
       "credits": 250000,
       "ducats": 325,
-      "date": "2025-06-13T13:00:00.000Z"
+      "date": "2025-06-13T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Opticor_Elixis_Skin",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/OpticorElixisSkin.png/300px-OpticorElixisSkin.png?6bb14"
     },
     {
       "itemName": "Zephyr Immortal Skin",
       "itemType": "Cosmetic (Warframe Skin)",
       "credits": 100000,
       "ducats": 550,
-      "date": "2025-07-25T13:00:00.000Z"
+      "date": "2025-07-25T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Zephyr/Equip",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/ZephyrImmortalSkin.png/300px-ZephyrImmortalSkin.png?bcf8b"
     },
     {
       "itemName": "Zanuka Hunter Beacon",
       "itemType": "Consumable",
       "credits": 125000,
       "ducats": 200,
-      "date": "2025-06-27T13:00:00.000Z"
+      "date": "2025-06-27T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Death_Mark#Assassin_Death_Marks",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/ZanukaHunterBeacon.png/300px-ZanukaHunterBeacon.png?95aa9"
     },
     {
       "itemName": "Condrix Sigil",
       "itemType": "Cosmetic (Sigil)",
       "credits": 45000,
       "ducats": 45,
-      "date": "2025-05-30T13:00:00.000Z"
+      "date": "2025-05-30T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Sigils#Baro_Ki'Teer_Sigils",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/CondrixSigil.png/300px-CondrixSigil.png?470bc"
     },
     {
       "itemName": "Zag Luxxum Ornament",
       "itemType": "Decoration",
       "credits": 100000,
       "ducats": 100,
-      "date": "2024-09-20T13:00:00.000Z"
+      "date": "2024-09-20T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Luxxum_Ornaments",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/ZagLuxxumOrnament.png/300px-ZagLuxxumOrnament.png?8b4ea"
     },
     {
       "itemName": "Xiphos Prisma Skin",
       "itemType": "Cosmetic (Landing Craft)",
       "credits": 400000,
       "ducats": 220,
-      "date": "2025-04-11T13:00:00.000Z"
+      "date": "2025-04-11T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Xiphos#Skins",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/XiphosPrismaSkin.png/300px-XiphosPrismaSkin.png?62bca"
     },
     {
       "itemName": "Primed Flow",
       "itemType": "Mod (Primed)",
       "credits": 110000,
       "ducats": 350,
-      "date": "2025-05-30T13:00:00.000Z"
+      "date": "2025-05-30T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Flow",
+      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedFlowMod.png?5f2d5"
     },
     {
       "itemName": "Gara Immortal Skin",
       "itemType": "Cosmetic (Warframe Skin)",
       "credits": 100000,
       "ducats": 550,
-      "date": "2025-05-30T13:00:00.000Z"
+      "date": "2025-05-30T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Gara/Equip",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/GaraImmortalSkin.png/300px-GaraImmortalSkin.png?b633f"
     },
     {
       "itemName": "Peculiar Audience",
       "itemType": "Mod",
       "credits": 200000,
       "ducats": 250,
-      "date": "2025-06-27T13:00:00.000Z"
+      "date": "2025-06-27T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Peculiar_Audience",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PeculiarAudienceMod.png/300px-PeculiarAudienceMod.png?c035d"
     },
     {
       "itemName": "Javi's Scrawling",
       "itemType": "Cosmetic (Orbiter)",
       "credits": 200000,
       "ducats": 275,
-      "date": "2025-07-25T13:00:00.000Z"
+      "date": "2025-07-25T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter#Stencils",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/Javi%27sScrawling.png/300px-Javi%27sScrawling.png?8c0ea"
     },
     {
       "itemName": "Eos Prime Chest Plate",
       "itemType": "Cosmetic (Armor)",
       "credits": 75000,
       "ducats": 125,
-      "date": "2025-05-30T13:00:00.000Z"
+      "date": "2025-05-30T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Armor_(Cosmetic)",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrimedEosChestPlate.png/300px-PrimedEosChestPlate.png?c4bf4"
     },
     {
       "itemName": "Asra Luxxum Ornament",
       "itemType": "Decoration",
       "credits": 100000,
       "ducats": 100,
-      "date": "2025-06-27T13:00:00.000Z"
+      "date": "2025-06-27T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Luxxum_Ornaments",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/AsraLuxxumOrnament.png/300px-AsraLuxxumOrnament.png?5be00"
     },
     {
       "itemName": "Primed Smite Corpus",
       "itemType": "Mod (Primed)",
       "credits": 140000,
       "ducats": 350,
-      "date": "2025-03-07T13:00:00.000Z"
+      "date": "2025-03-07T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Smite_Corpus",
+      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedSmiteCorpusMod.png?a3daa"
     },
     {
       "itemName": "Masker's Theodolite Crewsuit Sleeves",
       "itemType": "Cosmetic (Operator)",
       "credits": 275000,
       "ducats": 300,
-      "date": "2025-06-13T13:00:00.000Z"
+      "date": "2025-06-13T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Operator/Customization#Transference_Suits",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/Masker%27sTheodoliteCrewsuitSleeves.png/300px-Masker%27sTheodoliteCrewsuitSleeves.png?efd6c"
     },
     {
       "itemName": "Tannukai Leg Plates",
       "itemType": "Cosmetic (Armor)",
       "credits": 115000,
       "ducats": 275,
-      "date": "2025-07-25T13:00:00.000Z"
+      "date": "2025-07-25T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Armor_(Cosmetic)",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/TannukaiArmorLeg.png/300px-TannukaiArmorLeg.png?dca47"
     },
     {
       "itemName": "Sands of Inaros Blueprint",
       "itemType": "Quest",
       "credits": 25000,
       "ducats": 100,
-      "date": null
+      "date": null,
+      "wikiURL": "https://wiki.warframe.com/w/Sands_of_Inaros",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/SandsofInaros.png/300px-SandsofInaros.png?8198b"
     },
     {
       "itemName": "Prisma Hecate Syandana",
       "itemType": "Cosmetic (Syandana)",
       "credits": 300000,
       "ducats": 250,
-      "date": "2025-08-08T13:00:00.000Z"
+      "date": "2025-08-08T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Syandana",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrismaHecateSyandana.png/300px-PrismaHecateSyandana.png?ab4be"
     },
     {
       "itemName": "Prisma Gorgon",
       "itemType": "Weapon",
       "credits": 50000,
       "ducats": 600,
-      "date": "2025-07-25T13:00:00.000Z"
+      "date": "2025-07-25T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Prisma_Gorgon",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrismaGorgon.png/300px-PrismaGorgon.png?59620"
     },
     {
       "itemName": "Ki'teer Sentinel Wings",
       "itemType": "Cosmetic (Sentinel)",
       "credits": 250000,
       "ducats": 400,
-      "date": "2025-05-02T13:00:00.000Z"
+      "date": "2025-05-02T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Sentinel_Cosmetics#Attachments",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/KiTeerSentinelWing.png/300px-KiTeerSentinelWing.png?9adbb"
     },
     {
       "itemName": "Machete Wraith",
       "itemType": "Weapon",
       "credits": 250000,
       "ducats": 410,
-      "date": "2025-06-13T13:00:00.000Z"
+      "date": "2025-06-13T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Machete_Wraith",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/MacheteWraith.png/300px-MacheteWraith.png?1c3b6"
     },
     {
       "itemName": "Pack Leader Sigil",
       "itemType": "Cosmetic (Sigil)",
       "credits": 45000,
       "ducats": 55,
-      "date": "2025-06-27T13:00:00.000Z"
+      "date": "2025-06-27T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Sigils#Baro_Ki'Teer_Sigils",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PackLeaderSigil.png/300px-PackLeaderSigil.png?38aab"
     },
     {
       "itemName": "Wysar Day of the Dead Kavat Armor",
       "itemType": "Cosmetic (Kavat)",
       "credits": 175000,
       "ducats": 400,
-      "date": "2024-10-18T13:00:00.000Z"
+      "date": "2024-10-18T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Kavat_Cosmetics#Armor",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/DOTDWysarKavatArmor.png/300px-DOTDWysarKavatArmor.png?a7eb4"
     },
     {
       "itemName": "Odonata Elixis Skin",
       "itemType": "Cosmetic (Archwing)",
       "credits": 250000,
       "ducats": 350,
-      "date": "2025-04-25T13:00:00.000Z"
+      "date": "2025-04-25T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Odonata_Elixis_Skin",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/ElixisOdonataSkin.png/300px-ElixisOdonataSkin.png?f0595"
     },
     {
       "itemName": "Mara Detron",
       "itemType": "Weapon",
       "credits": 200000,
       "ducats": 500,
-      "date": "2025-05-16T13:00:00.000Z"
+      "date": "2025-05-16T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Mara_Detron",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/MaraDetron.png/300px-MaraDetron.png?ee5b8"
     },
     {
       "itemName": "Noggle Statue - The New War Teshin",
       "itemType": "Decoration",
       "credits": 300000,
       "ducats": 75,
-      "date": "2024-12-13T13:00:00.000Z"
+      "date": "2024-12-13T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Noggles",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/BobbleheadTheNewWarTeshin.png/300px-BobbleheadTheNewWarTeshin.png?9cb31"
     },
     {
       "itemName": "Wisp Immortal Skin",
       "itemType": "Cosmetic (Warframe Skin)",
       "credits": 100000,
       "ducats": 550,
-      "date": "2025-05-02T13:00:00.000Z"
+      "date": "2025-05-02T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Wisp/Equip",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/WispImmortalSkin.png/300px-WispImmortalSkin.png?7ad6f"
     },
     {
       "itemName": "Wintercress Syandana",
       "itemType": "Cosmetic (Syandana)",
       "credits": 275000,
       "ducats": 325,
-      "date": "2024-12-27T13:00:00.000Z"
+      "date": "2024-12-27T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Syandana",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/WintercressSyandana.png/300px-WintercressSyandana.png?ea230"
     },
     {
       "itemName": "Reshantur Child's Tablet",
       "itemType": "Decoration",
       "credits": 100000,
       "ducats": 100,
-      "date": "2025-05-02T13:00:00.000Z"
+      "date": "2025-05-02T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Miscellaneous",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/ReshanturChild%27sTablet.png/300px-ReshanturChild%27sTablet.png?a52f6"
     },
     {
       "itemName": "Whispers in the Walls Login Music",
       "itemType": "Somachord",
       "credits": 170000,
       "ducats": 165,
-      "date": "2025-05-30T13:00:00.000Z"
+      "date": "2025-05-30T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Somachord",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/WhispersInTheWallsLoginMusic.png/300px-WhispersInTheWallsLoginMusic.png?b1367"
     },
     {
       "itemName": "Primed Expel Grineer",
       "itemType": "Mod (Primed)",
       "credits": 140000,
       "ducats": 350,
-      "date": "2025-02-21T13:00:00.000Z"
+      "date": "2025-02-21T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Expel_Grineer",
+      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedExpelGrineerMod.png?51ca9"
     },
     {
       "itemName": "Split Flights",
       "itemType": "Mod",
       "credits": 200000,
       "ducats": 300,
-      "date": "2025-03-07T13:00:00.000Z"
+      "date": "2025-03-07T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Split_Flights",
+      "wikiThumbnail": "https://wiki.warframe.com/images/SplitFlightsMod.png?0cfaf"
     },
     {
       "itemName": "Dual Sword Lemnas Skin",
       "itemType": "Cosmetic (Weapon)",
       "credits": 300000,
       "ducats": 350,
-      "date": "2025-05-02T13:00:00.000Z"
+      "date": "2025-05-02T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Dual_Sword_Lemnas_Skin",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/DualSwordLemnasSkin.png/300px-DualSwordLemnasSkin.png?3385e"
     },
     {
       "itemName": "Weaver Fighter Decoration",
       "itemType": "Decoration",
       "credits": 100000,
       "ducats": 100,
-      "date": "2024-11-15T13:00:00.000Z"
+      "date": "2024-11-15T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Fighters",
+      "wikiThumbnail": "https://wiki.warframe.com/images/TaroWeaver.png?c868c"
     },
     {
       "itemName": "3 Day Resource Booster",
       "itemType": "Booster",
       "credits": 150000,
       "ducats": 400,
-      "date": "2025-04-18T13:00:00.000Z"
+      "date": "2025-04-18T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Resource_Booster",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/ResourceBooster.png/300px-ResourceBooster.png?7bac3"
     },
     {
       "itemName": "Left Elixis Latron Shoulder Plate",
       "itemType": "Cosmetic (Armor)",
       "credits": 220000,
       "ducats": 325,
-      "date": null
+      "date": null,
+      "wikiURL": "https://wiki.warframe.com/w/Armor_(Cosmetic)",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/ElixisLatronA.png/300px-ElixisLatronA.png?27b19"
     },
     {
       "itemName": "Vulkar Wraith",
       "itemType": "Weapon",
       "credits": 300000,
       "ducats": 450,
-      "date": "2025-05-16T13:00:00.000Z"
+      "date": "2025-05-16T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Vulkar_Wraith",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/VulkarWraith.png/300px-VulkarWraith.png?581ef"
     },
     {
       "itemName": "Chroma Immortal Skin",
       "itemType": "Cosmetic (Warframe Skin)",
       "credits": 100000,
       "ducats": 550,
-      "date": "2025-05-16T13:00:00.000Z"
+      "date": "2025-05-16T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Chroma/Equip",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/ChromaImmortalSkin.png/300px-ChromaImmortalSkin.png?fc7c1"
     },
     {
       "itemName": "Voruna in Action Glyph",
       "itemType": "Glyph",
       "credits": 60000,
       "ducats": 75,
-      "date": "2025-08-08T13:00:00.000Z"
+      "date": "2025-08-08T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Glyph#Other_Glyphs",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/VorunaInActionGlyph.png/300px-VorunaInActionGlyph.png?55d15"
     },
     {
       "itemName": "Vome-Fass Glyph",
       "itemType": "Glyph",
       "credits": 50000,
       "ducats": 80,
-      "date": "2025-03-07T13:00:00.000Z"
+      "date": "2025-03-07T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Glyph#Other_Glyphs",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/Vome-FassGlyph.png/300px-Vome-FassGlyph.png?c8d70"
     },
     {
       "itemName": "Vome Floof",
       "itemType": "Decoration",
       "credits": 125000,
       "ducats": 150,
-      "date": "2025-03-21T13:00:00.000Z"
+      "date": "2025-03-21T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Floofs",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/VomeFloof.png/300px-VomeFloof.png?f418a"
     },
     {
       "itemName": "Domestik Dais Drone",
       "itemType": "Decoration",
       "credits": 650000,
       "ducats": 800,
-      "date": "2025-06-13T13:00:00.000Z"
+      "date": "2025-06-13T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Domestik_Drone",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/DomestikDaisDrone.png/300px-DomestikDaisDrone.png?d1d1a"
     },
     {
       "itemName": "Pummel",
       "itemType": "Mod",
       "credits": 150000,
       "ducats": 300,
-      "date": "2024-11-01T13:00:00.000Z"
+      "date": "2024-11-01T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Pummel",
+      "wikiThumbnail": "https://wiki.warframe.com/images/PummelMod.png?de7d3"
     },
     {
       "itemName": "Axi A2 Relic",
       "itemType": "Void Relic",
       "credits": 45000,
       "ducats": 50,
-      "date": "2025-04-18T13:00:00.000Z"
+      "date": "2025-04-18T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Axi_A2",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/AxiRelicIntact.png/300px-AxiRelicIntact.png?6cadf"
     },
     {
       "itemName": "Jade Shadows Login Music",
       "itemType": "Somachord",
       "credits": 170000,
       "ducats": 150,
-      "date": "2025-05-30T13:00:00.000Z"
+      "date": "2025-05-30T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Somachord",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/JadeShadowsLoginMusic.png/300px-JadeShadowsLoginMusic.png?f4743"
     },
     {
       "itemName": "Elixis Latron Pistol Skin",
       "itemType": "Cosmetic (Weapon)",
       "credits": 215000,
       "ducats": 400,
-      "date": "2025-06-27T13:00:00.000Z"
+      "date": "2025-06-27T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Elixis_Latron_Pistol_Skin",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/ElixisLatronPistolSkin.png/300px-ElixisLatronPistolSkin.png?c2383"
     },
     {
       "itemName": "Primed Shotgun Ammo Mutation",
       "itemType": "Mod (Primed)",
       "credits": 140000,
       "ducats": 400,
-      "date": "2024-05-31T13:00:00.000Z"
+      "date": "2024-05-31T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Shotgun_Ammo_Mutation",
+      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedShotgunAmmoMutationMod.png?8205e"
     },
     {
       "itemName": "Rathuum Display",
       "itemType": "Decoration",
       "credits": 125000,
       "ducats": 90,
-      "date": "2025-07-11T13:00:00.000Z"
+      "date": "2025-07-11T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Displays",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/RathuumDisplay.png/300px-RathuumDisplay.png?bd7c7"
     },
     {
       "itemName": "Primed Sniper Ammo Mutation",
       "itemType": "Mod (Primed)",
       "credits": 140000,
       "ducats": 400,
-      "date": "2025-05-30T13:00:00.000Z"
+      "date": "2025-05-30T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Sniper_Ammo_Mutation",
+      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedSniperAmmoMutationMod.png?adf03"
     },
     {
       "itemName": "Primed Regen",
       "itemType": "Mod (Primed)",
       "credits": 220000,
       "ducats": 300,
-      "date": "2025-06-13T13:00:00.000Z"
+      "date": "2025-06-13T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Regen",
+      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedRegenMod.png?ec65b"
     },
     {
       "itemName": "Viper Wraith",
       "itemType": "Weapon",
       "credits": 75000,
       "ducats": 400,
-      "date": "2025-06-13T13:00:00.000Z"
+      "date": "2025-06-13T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Viper_Wraith",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/ViperWraith.png/300px-ViperWraith.png?e61ac"
     },
     {
       "itemName": "Void Angel Glyph",
       "itemType": "Glyph",
       "credits": 50000,
       "ducats": 80,
-      "date": "2025-06-27T13:00:00.000Z"
+      "date": "2025-06-27T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Glyph#Other_Glyphs",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/Voi_AngelGlyph.png/300px-Voi_AngelGlyph.png?e215b"
     },
     {
       "itemName": "3 Day Mod Drop Chance Booster",
       "itemType": "Booster",
       "credits": 175000,
       "ducats": 500,
-      "date": "2025-04-04T13:00:00.000Z"
+      "date": "2025-04-04T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Mod_Drop_Chance_Booster",
+      "wikiThumbnail": "https://wiki.warframe.com/images/ModDropChanceBooster.png?c7a3d"
     },
     {
       "itemName": "Fae Path Ephemera",
       "itemType": "Cosmetic (Ephemera)",
       "credits": 1000,
       "ducats": 15,
-      "date": null
+      "date": null,
+      "wikiURL": "https://wiki.warframe.com/w/Ephemera#Fae_Path",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/FaePathEphemera.png/300px-FaePathEphemera.png?20b7b"
     },
     {
       "itemName": "Eos Prime Armor Set",
       "itemType": "Cosmetic (Armor)",
       "credits": 260000,
       "ducats": 285,
-      "date": "2025-05-02T13:00:00.000Z"
+      "date": "2025-05-02T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Armor_(Cosmetic)",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/EosPrimeArmorSet.png/300px-EosPrimeArmorSet.png?3f572"
     },
     {
       "itemName": "Void Surplus",
       "itemType": "Pack",
       "credits": 50000,
       "ducats": null,
-      "date": null
+      "date": null,
+      "wikiURL": "https://wiki.warframe.com/w/Void_Surplus",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/VoidSurplus.png/300px-VoidSurplus.png?8331f"
     },
     {
       "itemName": "Vez Luxxum Ornament",
       "itemType": "Decoration",
       "credits": 100000,
       "ducats": 100,
-      "date": "2025-03-21T13:00:00.000Z"
+      "date": "2025-03-21T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Luxxum_Ornaments",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/VezLuxxumOrnament.png/300px-VezLuxxumOrnament.png?959dc"
     },
     {
       "itemName": "Dvad Luxxum Ornament",
       "itemType": "Decoration",
       "credits": 100000,
       "ducats": 100,
-      "date": "2025-07-25T13:00:00.000Z"
+      "date": "2025-07-25T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Luxxum_Ornaments",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/DvadLuxxumOrnament.png/300px-DvadLuxxumOrnament.png?bde2c"
     },
     {
       "itemName": "Altra Sentinel Mask",
       "itemType": "Cosmetic (Sentinel)",
       "credits": 400000,
       "ducats": 450,
-      "date": "2025-06-27T13:00:00.000Z"
+      "date": "2025-06-27T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Sentinel_Cosmetics#Attachments",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/AltraSentinelMask.png/300px-AltraSentinelMask.png?d2470"
     },
     {
       "itemName": "Vermillion Storm",
       "itemType": "Mod (Stance)",
       "credits": 175000,
       "ducats": 385,
-      "date": "2025-06-13T13:00:00.000Z"
+      "date": "2025-06-13T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Vermillion_Storm",
+      "wikiThumbnail": "https://wiki.warframe.com/images/VermillionStormMod.png?43dd1"
     },
     {
       "itemName": "Don't Be Afraid Poster",
       "itemType": "Decoration",
       "credits": 110000,
       "ducats": 100,
-      "date": "2025-01-24T13:00:00.000Z"
+      "date": "2025-01-24T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Posters",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/DontBeAfraidPoster.png/300px-DontBeAfraidPoster.png?ec6c4"
     },
     {
       "itemName": "Tannukai Chest Plate",
       "itemType": "Cosmetic (Armor)",
       "credits": 150000,
       "ducats": 300,
-      "date": "2025-07-25T13:00:00.000Z"
+      "date": "2025-07-25T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Armor_(Cosmetic)",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/TannukaiArmorChest.png/300px-TannukaiArmorChest.png?d035a"
     },
     {
       "itemName": "Primed Ammo Stock",
       "itemType": "Mod (Primed)",
       "credits": 200000,
       "ducats": 280,
-      "date": "2025-07-25T13:00:00.000Z"
+      "date": "2025-07-25T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Ammo_Stock",
+      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedAmmoStockMod.png?852bf"
     },
     {
       "itemName": "Puspa Luxxum Ornament",
       "itemType": "Decoration",
       "credits": 100000,
       "ducats": 100,
-      "date": "2025-02-21T13:00:00.000Z"
+      "date": "2025-02-21T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Luxxum_Ornaments",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PuspaLuxxumOrnament.png/300px-PuspaLuxxumOrnament.png?300fd"
     },
     {
       "itemName": "Vastilok",
       "itemType": "Weapon",
       "credits": 325000,
       "ducats": 550,
-      "date": "2025-05-16T13:00:00.000Z"
+      "date": "2025-05-16T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Vastilok",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/Vastilok.png/300px-Vastilok.png?fdf3e"
     },
     {
       "itemName": "Primed Chilling Grasp",
       "itemType": "Mod (Primed)",
       "credits": 125000,
       "ducats": 350,
-      "date": "2025-06-13T13:00:00.000Z"
+      "date": "2025-06-13T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Chilling_Grasp",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrimedChillingGraspMod.png/300px-PrimedChillingGraspMod.png?8bffd"
     },
     {
       "itemName": "Cookie Kubrow Glyph",
       "itemType": "Glyph",
       "credits": 50000,
       "ducats": 80,
-      "date": "2024-12-27T13:00:00.000Z"
+      "date": "2024-12-27T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Glyph#Cookie",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/CookieKubrowGlyph.png/300px-CookieKubrowGlyph.png?18629"
     },
     {
       "itemName": "Ki'teer Leg Plates",
       "itemType": "Cosmetic (Armor)",
       "credits": 150000,
       "ducats": 300,
-      "date": "2025-06-27T13:00:00.000Z"
+      "date": "2025-06-27T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Warframe_Cosmetics#Armor",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/KiTeerLegPlate.png/300px-KiTeerLegPlate.png?15963"
     },
     {
       "itemName": "Ki'teer",
       "itemType": "Color Palette",
       "credits": 300000,
       "ducats": 150,
-      "date": "2025-04-25T13:00:00.000Z"
+      "date": "2025-04-25T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Color_Picker_Extension#Ki'teer",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/Ki%27teer.png/300px-Ki%27teer.png?aab68"
     },
     {
       "itemName": "Prisma Avia Chest Plate",
       "itemType": "Cosmetic (Armor)",
       "credits": 220000,
       "ducats": 250,
-      "date": "2025-04-11T13:00:00.000Z"
+      "date": "2025-04-11T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Armor_(Cosmetic)",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrismaAviaChestPlate.png/300px-PrismaAviaChestPlate.png?7909e"
     },
     {
       "itemName": "Prisma Lenz",
       "itemType": "Weapon",
       "credits": 200000,
       "ducats": 575,
-      "date": "2025-07-11T13:00:00.000Z"
+      "date": "2025-07-11T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Prisma_Lenz",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrismaLenz.png/300px-PrismaLenz.png?ca162"
     },
     {
       "itemName": "Twin Grakatas Towsun Skin",
       "itemType": "Cosmetic (Weapon)",
       "credits": 300000,
       "ducats": 300,
-      "date": "2025-08-08T13:00:00.000Z"
+      "date": "2025-08-08T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Twin_Grakatas_Towsun_Skin",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/TwinGrakatasTowsunSkin.png/300px-TwinGrakatasTowsunSkin.png?49eba"
     },
     {
       "itemName": "Tiberon Elixis Skin",
       "itemType": "Cosmetic (Weapon)",
       "credits": 275000,
       "ducats": 315,
-      "date": "2025-05-02T13:00:00.000Z"
+      "date": "2025-05-02T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Tiberon_Elixis_Skin",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/TiberonElixisSkin.png/300px-TiberonElixisSkin.png?6f94d"
     },
     {
       "itemName": "Thermite Rounds",
       "itemType": "Mod",
       "credits": 150000,
       "ducats": 300,
-      "date": "2024-04-05T13:00:00.000Z"
+      "date": "2024-04-05T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Thermite_Rounds",
+      "wikiThumbnail": "https://wiki.warframe.com/images/ThermiteRoundsMod.png?6bc25"
     },
     {
       "itemName": "The Old Blood Login Music",
       "itemType": "Somachord",
       "credits": 170000,
       "ducats": 140,
-      "date": "2025-04-18T13:00:00.000Z"
+      "date": "2025-04-18T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Somachord",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/TheOldBloodLoginMusic.png/300px-TheOldBloodLoginMusic.png?be5c7"
     },
     {
       "itemName": "The New War Login Music",
       "itemType": "Somachord",
       "credits": 160000,
       "ducats": 145,
-      "date": "2025-08-08T13:00:00.000Z"
+      "date": "2025-08-08T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Somachord",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/TheNewWarLoginMusic.png/300px-TheNewWarLoginMusic.png?8835d"
     },
     {
       "itemName": "Collision Force",
       "itemType": "Mod",
       "credits": 250000,
       "ducats": 400,
-      "date": "2025-01-24T13:00:00.000Z"
+      "date": "2025-01-24T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Collision_Force",
+      "wikiThumbnail": "https://wiki.warframe.com/images/CollisionForceMod.png?358fc"
     },
     {
       "itemName": "Prisma Thrax Sigil",
       "itemType": "Cosmetic (Sigil)",
       "credits": 55000,
       "ducats": 50,
-      "date": "2025-04-11T13:00:00.000Z"
+      "date": "2025-04-11T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Sigils#Baro_Ki'Teer_Sigils",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrismaThraxSigil.png/300px-PrismaThraxSigil.png?ae4fa"
     },
     {
       "itemName": "Ki'teer Syandana",
       "itemType": "Cosmetic (Syandana)",
       "credits": 500000,
       "ducats": 500,
-      "date": "2025-06-13T13:00:00.000Z"
+      "date": "2025-06-13T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Syandana",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/Ki%27teerSyandana.png/300px-Ki%27teerSyandana.png?439dd"
     },
     {
       "itemName": "Primed Ravage",
       "itemType": "Mod (Primed)",
       "credits": 100000,
       "ducats": 280,
-      "date": "2025-07-11T13:00:00.000Z"
+      "date": "2025-07-11T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Ravage",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrimedRavageMod.png/300px-PrimedRavageMod.png?450ba"
     },
     {
       "itemName": "Dragon Mod Pack",
       "itemType": "Pack",
       "credits": 100000,
       "ducats": 500,
-      "date": null
+      "date": null,
+      "wikiURL": "https://wiki.warframe.com/w/Mod_Pack#Dragon_Mod_Pack",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/DragonModPackPlaceholder.png/300px-DragonModPackPlaceholder.png?b87f4"
     },
     {
       "itemName": "3 Day Credit Booster",
       "itemType": "Booster",
       "credits": 75000,
       "ducats": 350,
-      "date": "2025-04-11T13:00:00.000Z"
+      "date": "2025-04-11T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Credit_Booster",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/CreditBooster.png/300px-CreditBooster.png?f08f8"
     },
     {
       "itemName": "Kavat Sentinel Wings",
       "itemType": "Cosmetic (Sentinel)",
       "credits": 250000,
       "ducats": 400,
-      "date": "2024-08-23T13:00:00.000Z"
+      "date": "2024-08-23T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Sentinel_Cosmetics#Attachments",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/KavatSentinelWings.png/300px-KavatSentinelWings.png?e820e"
     },
     {
       "itemName": "Limbo Immortal Skin",
       "itemType": "Cosmetic (Warframe Skin)",
       "credits": 100000,
       "ducats": 550,
-      "date": "2025-03-07T13:00:00.000Z"
+      "date": "2025-03-07T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Limbo/Equip",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/LimboImmortalSkin.png/300px-LimboImmortalSkin.png?b9415"
     },
     {
       "itemName": "Gotva Prime",
       "itemType": "Weapon",
       "credits": 625000,
       "ducats": 675,
-      "date": "2025-06-13T13:00:00.000Z"
+      "date": "2025-06-13T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Gotva_Prime",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/GotvaPrime.png/300px-GotvaPrime.png?d08b7"
     },
     {
       "itemName": "Tempo Royale",
       "itemType": "Mod (Stance)",
       "credits": 175000,
       "ducats": 385,
-      "date": "2025-04-04T13:00:00.000Z"
+      "date": "2025-04-04T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Tempo_Royale",
+      "wikiThumbnail": "https://wiki.warframe.com/images/TempoRoyaleMod.png?561e3"
     },
     {
       "itemName": "Display - Argyle",
       "itemType": "Decoration",
       "credits": 75000,
       "ducats": 100,
-      "date": "2025-01-10T13:00:00.000Z"
+      "date": "2025-01-10T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Displays",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/DisplayArgyle.png/300px-DisplayArgyle.png?319eb"
     },
     {
       "itemName": "Vericres",
       "itemType": "Weapon",
       "credits": 200000,
       "ducats": 410,
-      "date": "2025-05-02T13:00:00.000Z"
+      "date": "2025-05-02T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Vericres",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/Vericres.png/300px-Vericres.png?bcc94"
     },
     {
       "itemName": "Prisma Jet Sentinel Wings",
       "itemType": "Cosmetic (Sentinel)",
       "credits": 200000,
       "ducats": 300,
-      "date": "2025-04-11T13:00:00.000Z"
+      "date": "2025-04-11T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Sentinel_Cosmetics#Attachments",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrismaJetWings.png/300px-PrismaJetWings.png?b1a28"
     },
     {
       "itemName": "Excalibur Proto-Armor in Action Glyph",
       "itemType": "Glyph",
       "credits": 60000,
       "ducats": 75,
-      "date": "2025-05-30T13:00:00.000Z"
+      "date": "2025-05-30T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Glyph#Other_Glyphs",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/ExcaliburProto-ArmorInActionGlyph.png/300px-ExcaliburProto-ArmorInActionGlyph.png?24cfc"
     },
     {
       "itemName": "Paracyst Zebra Skin",
       "itemType": "Cosmetic (Weapon)",
       "credits": 300000,
       "ducats": 325,
-      "date": "2025-07-25T13:00:00.000Z"
+      "date": "2025-07-25T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Paracyst_Zebra_Skin",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/ParacystZebraSkin.png/300px-ParacystZebraSkin.png?cd528"
     },
     {
       "itemName": "Techrot Glyph",
       "itemType": "Glyph",
       "credits": 1901,
       "ducats": 98,
-      "date": "2025-07-11T13:00:00.000Z"
+      "date": "2025-07-11T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Glyph#Other_Glyphs",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/TechrotGlyph.png/300px-TechrotGlyph.png?7e878"
     },
     {
       "itemName": "Taxon Desert-Camo Skin",
       "itemType": "Cosmetic (Sentinel)",
       "credits": 150000,
       "ducats": 200,
-      "date": "2024-12-13T13:00:00.000Z"
+      "date": "2024-12-13T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Taxon/Equip",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/DesertTaxonSkin.png/300px-DesertTaxonSkin.png?91c32"
     },
     {
       "itemName": "Sima Luxxum Ornament",
       "itemType": "Decoration",
       "credits": 100000,
       "ducats": 100,
-      "date": "2024-11-29T13:00:00.000Z"
+      "date": "2024-11-29T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Luxxum_Ornaments",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/SimaLuxxumOrnament.png/300px-SimaLuxxumOrnament.png?21971"
     },
     {
       "itemName": "Noggle Statue - Mag with Itzal",
       "itemType": "Decoration",
       "credits": 200000,
       "ducats": 90,
-      "date": "2025-05-02T13:00:00.000Z"
+      "date": "2025-05-02T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Noggles",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/BobbleheadMagArchwing.png/300px-BobbleheadMagArchwing.png?b50a4"
     },
     {
       "itemName": "Right Prisma Daedalus Shoulder Guard",
       "itemType": "Cosmetic (Armor)",
       "credits": 75000,
       "ducats": 65,
-      "date": "2025-04-11T13:00:00.000Z"
+      "date": "2025-04-11T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Armor_(Cosmetic)",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/LeftPrismaDaedalusShoulderGuard.png/300px-LeftPrismaDaedalusShoulderGuard.png?3e863"
     },
     {
       "itemName": "Glaring Emblem",
       "itemType": "Cosmetic (Emblem)",
       "credits": 50000,
       "ducats": 50,
-      "date": "2025-04-18T13:00:00.000Z"
+      "date": "2025-04-18T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Sigils#Baro_Ki'Teer_Sigils",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/GlaringSigil.png/300px-GlaringSigil.png?1eea9"
     },
     {
       "itemName": "Taktis Fighter Decoration",
       "itemType": "Decoration",
       "credits": 100000,
       "ducats": 100,
-      "date": "2024-09-20T13:00:00.000Z"
+      "date": "2024-09-20T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Fighters",
+      "wikiThumbnail": "https://wiki.warframe.com/images/KosmaTaktis.png?b4b86"
     },
     {
       "itemName": "Prisma Arrows",
       "itemType": "Cosmetic (Weapon)",
       "credits": 75000,
       "ducats": 350,
-      "date": "2025-04-11T13:00:00.000Z"
+      "date": "2025-04-11T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Prisma_Arrows",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrismaArrow.png/300px-PrismaArrow.png?77821"
     },
     {
       "itemName": "Prisma Lotus Glyph",
       "itemType": "Glyph",
       "credits": 50000,
       "ducats": 80,
-      "date": "2025-04-11T13:00:00.000Z"
+      "date": "2025-04-11T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Glyph#Other_Glyphs",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrismaLotusGlyph.png/300px-PrismaLotusGlyph.png?24749"
     },
     {
       "itemName": "Supra Vandal",
       "itemType": "Weapon",
       "credits": 275000,
       "ducats": 500,
-      "date": "2025-05-30T13:00:00.000Z"
+      "date": "2025-05-30T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Supra_Vandal",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/SupraVandal.png/300px-SupraVandal.png?b1f12"
     },
     {
       "itemName": "Ignis Towsun Skin",
       "itemType": "Cosmetic (Weapon)",
       "credits": 300000,
       "ducats": 300,
-      "date": "2025-05-16T13:00:00.000Z"
+      "date": "2025-05-16T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Ignis_Towsun_Skin",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/IgnisTowsunSkin.png/300px-IgnisTowsunSkin.png?1e2a6"
     },
     {
       "itemName": "Primed Expel Infested",
       "itemType": "Mod (Primed)",
       "credits": 140000,
       "ducats": 350,
-      "date": "2025-02-07T13:00:00.000Z"
+      "date": "2025-02-07T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Expel_Infested",
+      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedExpelInfestedMod.png?dac79"
     },
     {
       "itemName": "Stalker Beacon",
       "itemType": "Consumable",
       "credits": 125000,
       "ducats": 200,
-      "date": "2025-08-08T13:00:00.000Z"
+      "date": "2025-08-08T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Death_Mark#Assassin_Death_Marks",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/StalkerBeacon.png/300px-StalkerBeacon.png?3aed1"
     },
     {
       "itemName": "Garv & Latrox Poster",
       "itemType": "Decoration",
       "credits": 100000,
       "ducats": 80,
-      "date": "2025-01-10T13:00:00.000Z"
+      "date": "2025-01-10T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Posters",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/GarvLatroxPoster.png/300px-GarvLatroxPoster.png?266d0"
     },
     {
       "itemName": "Primed Firestorm",
       "itemType": "Mod (Primed)",
       "credits": 175000,
       "ducats": 350,
-      "date": "2025-08-08T13:00:00.000Z"
+      "date": "2025-08-08T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Firestorm",
+      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedFirestormMod.png?b7dd8"
     },
     {
       "itemName": "Javi Genome Scrawling",
       "itemType": "Decoration",
       "credits": 100000,
       "ducats": 90,
-      "date": "2025-05-16T13:00:00.000Z"
+      "date": "2025-05-16T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Miscellaneous",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/JaviGenomeScrawling.png/300px-JaviGenomeScrawling.png?ec6f0"
     },
     {
       "itemName": "Sonicor Elixis Skin",
       "itemType": "Cosmetic (Weapon)",
       "credits": 175000,
       "ducats": 380,
-      "date": "2025-04-25T13:00:00.000Z"
+      "date": "2025-04-25T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Sonicor_Elixis_Skin",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/SonicorElixisSkin.png/300px-SonicorElixisSkin.png?f139d"
     },
     {
       "itemName": "Drippy Sigil",
       "itemType": "Cosmetic (Sigil)",
       "credits": 45000,
       "ducats": 50,
-      "date": "2025-08-08T13:00:00.000Z"
+      "date": "2025-08-08T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Sigils#Baro_Ki'Teer_Sigils",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/DrippySigil.png/300px-DrippySigil.png?2bbac"
     },
     {
       "itemName": "Scorch",
       "itemType": "Mod",
       "credits": 150000,
       "ducats": 300,
-      "date": "2024-08-09T13:00:00.000Z"
+      "date": "2024-08-09T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Scorch_(Mod)",
+      "wikiThumbnail": "https://wiki.warframe.com/images/ScorchMod.png?d189b"
     },
     {
       "itemName": "Secret History Replica",
       "itemType": "Decoration",
       "credits": 100000,
       "ducats": 75,
-      "date": "2025-01-10T13:00:00.000Z"
+      "date": "2025-01-10T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Miscellaneous",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/SecretHistoryReplica.png/300px-SecretHistoryReplica.png?cbc3f"
     },
     {
       "itemName": "Scoria Diadem",
       "itemType": "Cosmetic (Operator)",
       "credits": 300000,
       "ducats": 550,
-      "date": "2025-07-25T13:00:00.000Z"
+      "date": "2025-07-25T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Operator/Customization#Facial_Accessories",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/ScoriaDiadem.png/300px-ScoriaDiadem.png?40c41"
     },
     {
       "itemName": "Shell Shock",
       "itemType": "Mod",
       "credits": 150000,
       "ducats": 300,
-      "date": "2025-05-02T13:00:00.000Z"
+      "date": "2025-05-02T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Shell_Shock",
+      "wikiThumbnail": "https://wiki.warframe.com/images/ShellShockMod.png?85cab"
     },
     {
       "itemName": "Prisma Naberus",
       "itemType": "Cosmetic (Armor)",
       "credits": 140000,
       "ducats": 220,
-      "date": "2025-04-11T13:00:00.000Z"
+      "date": "2025-04-11T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Armor_(Cosmetic)",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrismaNaberus.png/300px-PrismaNaberus.png?44d56"
     },
     {
       "itemName": "Ki'teer Domestik Drone",
       "itemType": "Decoration",
       "credits": 500000,
       "ducats": 700,
-      "date": "2025-04-25T13:00:00.000Z"
+      "date": "2025-04-25T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Domestik_Drone",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/KiteerDomestikDrone.png/300px-KiteerDomestikDrone.png?dce29"
     },
     {
       "itemName": "Clatharc Planter",
       "itemType": "Decoration",
       "credits": 100000,
       "ducats": 125,
-      "date": "2025-05-30T13:00:00.000Z"
+      "date": "2025-05-30T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Miscellaneous",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/ClatharcPlanter.png/300px-ClatharcPlanter.png?52c8d"
     },
     {
       "itemName": "Maim",
       "itemType": "Mod",
       "credits": 150000,
       "ducats": 375,
-      "date": "2024-08-23T13:00:00.000Z"
+      "date": "2024-08-23T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Maim",
+      "wikiThumbnail": "https://wiki.warframe.com/images/MaimMod.png?46506"
     },
     {
       "itemName": "Scattering Inferno",
       "itemType": "Mod",
       "credits": 150000,
       "ducats": 300,
-      "date": "2025-07-25T13:00:00.000Z"
+      "date": "2025-07-25T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Scattering_Inferno",
+      "wikiThumbnail": "https://wiki.warframe.com/images/ScatteringInfernoMod.png?e2175"
     },
     {
       "itemName": "Scaldra Glyph",
       "itemType": "Glyph",
       "credits": 1906,
       "ducats": 93,
-      "date": "2025-05-16T13:00:00.000Z"
+      "date": "2025-05-16T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Glyph#Other_Glyphs",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/ScaldraGlyph.png/300px-ScaldraGlyph.png?07bdb"
     },
     {
       "itemName": "Deimos Velocipod Prex",
       "itemType": "Decoration",
       "credits": 100000,
       "ducats": 75,
-      "date": "2025-01-10T13:00:00.000Z"
+      "date": "2025-01-10T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Prex",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/DeimosVelocipodPrex.png/300px-DeimosVelocipodPrex.png?7ef2c"
     },
     {
       "itemName": "Mesa Immortal Skin",
       "itemType": "Cosmetic (Warframe Skin)",
       "credits": 100000,
       "ducats": 550,
-      "date": "2025-04-04T13:00:00.000Z"
+      "date": "2025-04-04T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Mesa/Equip",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/MesaImmortalSkin.png/300px-MesaImmortalSkin.png?79953"
     },
     {
       "itemName": "Mark of the Beast",
       "itemType": "Mod",
       "credits": 115000,
       "ducats": 300,
-      "date": "2024-12-27T13:00:00.000Z"
+      "date": "2024-12-27T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Mark_of_the_Beast",
+      "wikiThumbnail": "https://wiki.warframe.com/images/MarkoftheBeastMod.png?def57"
     },
     {
       "itemName": "Heart of Deimos Login Music",
       "itemType": "Somachord",
       "credits": 160000,
       "ducats": 155,
-      "date": "2025-04-04T13:00:00.000Z"
+      "date": "2025-04-04T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Somachord",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/HeartOfDeimosLoginMusic.png/300px-HeartOfDeimosLoginMusic.png?663be"
     },
     {
       "itemName": "Right Prisma Edo Shoulder Plates",
       "itemType": "Cosmetic (Armor)",
       "credits": 55000,
       "ducats": 100,
-      "date": "2025-08-08T13:00:00.000Z"
+      "date": "2025-08-08T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Armor_(Cosmetic)",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/LeftPrismaEdoShoulderPlates.png/300px-LeftPrismaEdoShoulderPlates.png?7b776"
     },
     {
       "itemName": "Tannukai Shoulder Plates",
       "itemType": "Cosmetic (Armor)",
       "credits": 125000,
       "ducats": 315,
-      "date": "2025-07-25T13:00:00.000Z"
+      "date": "2025-07-25T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Armor_(Cosmetic)",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/TannukaiArmorArm.png/300px-TannukaiArmorArm.png?cf90f"
     },
     {
       "itemName": "Right Eos Prime Shoulder Plates",
       "itemType": "Cosmetic (Armor)",
       "credits": 75000,
       "ducats": 50,
-      "date": "2025-05-30T13:00:00.000Z"
+      "date": "2025-05-30T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Armor_(Cosmetic)",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrimedEosShoulderPlate.png/300px-PrimedEosShoulderPlate.png?13245"
     },
     {
       "itemName": "Liset Cydonia Skin",
       "itemType": "Cosmetic (Landing Craft)",
       "credits": 300000,
       "ducats": 400,
-      "date": "2025-07-25T13:00:00.000Z"
+      "date": "2025-07-25T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Liset#Skins",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/LisetCydoniaSkin.png/300px-LisetCydoniaSkin.png?07c25"
     },
     {
       "itemName": "Lotus Ephemera",
       "itemType": "Cosmetic (Ephemera)",
       "credits": 450000,
       "ducats": 250,
-      "date": "2025-05-16T13:00:00.000Z"
+      "date": "2025-05-16T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Ephemera#Lotus",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/LotusEphemera.png/300px-LotusEphemera.png?40f10"
     },
     {
       "itemName": "Rhino Palatine Sigil",
       "itemType": "Cosmetic (Sigil)",
       "credits": 55000,
       "ducats": 45,
-      "date": "2025-07-25T13:00:00.000Z"
+      "date": "2025-07-25T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Sigils#Event_Sigils",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/RhinoPalatineSigil.png/300px-RhinoPalatineSigil.png?ec0be"
     },
     {
       "itemName": "Prisma Avia Ankle Plate",
       "itemType": "Cosmetic (Armor)",
       "credits": 175000,
       "ducats": 225,
-      "date": "2025-04-11T13:00:00.000Z"
+      "date": "2025-04-11T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Armor_(Cosmetic)",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrismaAviaLegPlate.png/300px-PrismaAviaLegPlate.png?54407"
     },
     {
       "itemName": "Grustrag Three Beacon",
       "itemType": "Consumable",
       "credits": 125000,
       "ducats": 200,
-      "date": "2025-06-13T13:00:00.000Z"
+      "date": "2025-06-13T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Death_Mark#Assassin_Death_Marks",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/GrustragThreeBeacon.png/300px-GrustragThreeBeacon.png?a4ea1"
     },
     {
       "itemName": "Rhapsody in Blue",
       "itemType": "Decoration",
       "credits": 100000,
       "ducats": 80,
-      "date": "2025-06-27T13:00:00.000Z"
+      "date": "2025-06-27T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Posters",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/RhapsodyInBlue.png/300px-RhapsodyInBlue.png?db1a7"
     },
     {
       "itemName": "Reshantur Cult Syandana",
       "itemType": "Cosmetic (Syandana)",
       "credits": 350000,
       "ducats": 400,
-      "date": "2025-05-30T13:00:00.000Z"
+      "date": "2025-05-30T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Syandana",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/ReshanturCultSyandana.png/300px-ReshanturCultSyandana.png?af3c5"
     },
     {
       "itemName": "Dark Sword Day of the Dead Skin",
       "itemType": "Cosmetic (Weapon)",
       "credits": 250000,
       "ducats": 320,
-      "date": "2024-10-18T13:00:00.000Z"
+      "date": "2024-10-18T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Day_of_the_Dead_Skins",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/DarkSwordDayOfTheDeadSkin.png/300px-DarkSwordDayOfTheDeadSkin.png?222cc"
     },
     {
       "itemName": "Bronze Kavat Bust",
       "itemType": "Decoration",
       "credits": 250000,
       "ducats": 220,
-      "date": "2025-05-16T13:00:00.000Z"
+      "date": "2025-05-16T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Miscellaneous",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/KavatBust.png/300px-KavatBust.png?351ab"
     },
     {
       "itemName": "Beachcomber Domestik Drone",
       "itemType": "Decoration",
       "credits": 625000,
       "ducats": 800,
-      "date": "2024-11-01T13:00:00.000Z"
+      "date": "2024-11-01T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Domestik_Drone",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/BeachcomberDomestikDrone.png/300px-BeachcomberDomestikDrone.png?57696"
     },
     {
       "itemName": "Combo Killer",
       "itemType": "Mod",
       "credits": 115000,
       "ducats": 300,
-      "date": "2025-01-24T13:00:00.000Z"
+      "date": "2025-01-24T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Combo_Killer",
+      "wikiThumbnail": "https://wiki.warframe.com/images/ComboKillerMod.png?34233"
     },
     {
       "itemName": "Deimos Fass Prex",
       "itemType": "Decoration",
       "credits": 100000,
       "ducats": 75,
-      "date": "2025-03-07T13:00:00.000Z"
+      "date": "2025-03-07T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Prex",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/DeimosFassPrex.png/300px-DeimosFassPrex.png?23785"
     },
     {
       "itemName": "TennoCon Crt Glyph",
       "itemType": "Glyph",
       "credits": 1000,
       "ducats": 15,
-      "date": "2025-05-30T13:00:00.000Z"
+      "date": "2025-05-30T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Glyph#Other_Glyphs",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/TennoConCrtGlyph.png/300px-TennoConCrtGlyph.png?66846"
     },
     {
       "itemName": "Bronze Kubrow Bust",
       "itemType": "Decoration",
       "credits": 250000,
       "ducats": 220,
-      "date": "2025-03-07T13:00:00.000Z"
+      "date": "2025-03-07T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Miscellaneous",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/BronzeKubrowBust.png/300px-BronzeKubrowBust.png?e65d4"
     },
     {
       "itemName": "Primed Continuity",
       "itemType": "Mod (Primed)",
       "credits": 100000,
       "ducats": 350,
-      "date": "2025-03-21T13:00:00.000Z"
+      "date": "2025-03-21T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Continuity",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrimedContinuityMod.png/300px-PrimedContinuityMod.png?6a171"
     },
     {
       "itemName": "Void Trader",
       "itemType": "Color Palette",
       "credits": 250000,
       "ducats": 200,
-      "date": "2025-08-08T13:00:00.000Z"
+      "date": "2025-08-08T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Color_Picker_Extension#Void_Trader",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/VoidTrader.png/300px-VoidTrader.png?9a0ab"
     },
     {
       "itemName": "Ordis Reified Statue",
       "itemType": "Decoration",
       "credits": 275000,
       "ducats": 350,
-      "date": "2025-04-04T13:00:00.000Z"
+      "date": "2025-04-04T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Miscellaneous",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/OrdisReifiedStatue.png/300px-OrdisReifiedStatue.png?bdff2"
     },
     {
       "itemName": "Rakta Syandana",
       "itemType": "Cosmetic (Syandana)",
       "credits": 350000,
       "ducats": 325,
-      "date": "2025-06-27T13:00:00.000Z"
+      "date": "2025-06-27T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Rakta_Syandana",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/RaktaSyandana.png/300px-RaktaSyandana.png?95eaa"
     },
     {
       "itemName": "Railjack Retrofit Login Music",
       "itemType": "Somachord",
       "credits": 165000,
       "ducats": 150,
-      "date": "2025-06-27T13:00:00.000Z"
+      "date": "2025-06-27T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Somachord",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/EmpyreanLoginMusic.png/300px-EmpyreanLoginMusic.png?b4c4c"
     },
     {
       "itemName": "Quanta Vandal",
       "itemType": "Weapon",
       "credits": 300000,
       "ducats": 450,
-      "date": "2025-05-02T13:00:00.000Z"
+      "date": "2025-05-02T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Quanta_Vandal",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/QuantaVandal.png/300px-QuantaVandal.png?6fa9f"
     },
     {
       "itemName": "Corpus Glyph",
       "itemType": "Glyph",
       "credits": 55000,
       "ducats": 70,
-      "date": "2025-04-18T13:00:00.000Z"
+      "date": "2025-04-18T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Glyph#Other_Glyphs",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/CorpusGlyph.png/300px-CorpusGlyph.png?9e530"
     },
     {
       "itemName": "Aged Claret of Denas",
       "itemType": "Decoration",
       "credits": 100000,
       "ducats": 100,
-      "date": "2024-11-15T13:00:00.000Z"
+      "date": "2024-11-15T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Miscellaneous",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/AgedClaretOfDenas.png/300px-AgedClaretOfDenas.png?7bcaf"
     },
     {
       "itemName": "Elixis Latron Chest Plate",
       "itemType": "Cosmetic (Armor)",
       "credits": 200000,
       "ducats": 275,
-      "date": null
+      "date": null,
+      "wikiURL": "https://wiki.warframe.com/w/Armor_(Cosmetic)",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/ElixisLatronC.png/300px-ElixisLatronC.png?b8843"
     },
     {
       "itemName": "Primed Counterbalance",
       "itemType": "Mod (Primed)",
       "credits": 220000,
       "ducats": 300,
-      "date": "2025-05-02T13:00:00.000Z"
+      "date": "2025-05-02T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Counterbalance",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrimedCounterbalanceMod.png/300px-PrimedCounterbalanceMod.png?00f67"
     },
     {
       "itemName": "Voltaic Strike",
       "itemType": "Mod",
       "credits": 150000,
       "ducats": 300,
-      "date": "2025-06-27T13:00:00.000Z"
+      "date": "2025-06-27T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Voltaic_Strike",
+      "wikiThumbnail": "https://wiki.warframe.com/images/VoltaicStrikeMod.png?8d877"
     },
     {
       "itemName": "Akka Luxxum Ornament",
       "itemType": "Decoration",
       "credits": 100000,
       "ducats": 100,
-      "date": "2025-08-08T13:00:00.000Z"
+      "date": "2025-08-08T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Luxxum_Ornaments",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/AkkaLuxxumOrnament.png/300px-AkkaLuxxumOrnament.png?c82f4"
     },
     {
       "itemName": "Anpu Sugatra",
       "itemType": "Cosmetic (Weapon)",
       "credits": 250000,
       "ducats": 250,
-      "date": "2025-05-30T13:00:00.000Z"
+      "date": "2025-05-30T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Weapon_Cosmetics#Sugatra",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/AnpuDanglingBit.png/300px-AnpuDanglingBit.png?74d68"
     },
     {
       "itemName": "Lunar Renewal Tiger Sigil",
       "itemType": "Cosmetic (Sigil)",
       "credits": 45000,
       "ducats": 55,
-      "date": "2025-02-21T13:00:00.000Z"
+      "date": "2025-02-21T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Sigils#Baro_Ki'Teer_Sigils",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/LunarRenewalTigerSigil.png/300px-LunarRenewalTigerSigil.png?6d0fb"
     },
     {
       "itemName": "Hydroid Immortal Skin",
       "itemType": "Cosmetic (Warframe Skin)",
       "credits": 100000,
       "ducats": 550,
-      "date": "2025-06-13T13:00:00.000Z"
+      "date": "2025-06-13T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Hydroid/Equip",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/HydroidImmortalSkin.png/300px-HydroidImmortalSkin.png?ac6f6"
     },
     {
       "itemName": "Primed Bane of Corpus",
       "itemType": "Mod (Primed)",
       "credits": 140000,
       "ducats": 400,
-      "date": "2025-06-27T13:00:00.000Z"
+      "date": "2025-06-27T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Bane_of_Corpus",
+      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedBaneofCorpusMod.png?71160"
     },
     {
       "itemName": "Prisma Veritux",
       "itemType": "Weapon (Archwing)",
       "credits": 150000,
       "ducats": 550,
-      "date": "2025-04-11T13:00:00.000Z"
+      "date": "2025-04-11T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Prisma_Veritux",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrismaVerituxFix.png/300px-PrismaVerituxFix.png?96b16"
     },
     {
       "itemName": "Prisma Uru Syandana",
       "itemType": "Cosmetic (Syandana)",
       "credits": 275000,
       "ducats": 350,
-      "date": "2025-04-11T13:00:00.000Z"
+      "date": "2025-04-11T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Syandana",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrismaUruSyandana.png/300px-PrismaUruSyandana.png?522c5"
     },
     {
       "itemName": "Prisma Tetra",
       "itemType": "Weapon",
       "credits": 50000,
       "ducats": 400,
-      "date": "2025-07-25T13:00:00.000Z"
+      "date": "2025-07-25T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Prisma_Tetra",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrismaTetra.png/300px-PrismaTetra.png?f36a2"
     },
     {
       "itemName": "Primed Quickdraw",
       "itemType": "Mod (Primed)",
       "credits": 120000,
       "ducats": 375,
-      "date": "2025-04-04T13:00:00.000Z"
+      "date": "2025-04-04T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Quickdraw",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrimedQuickdrawMod.png/300px-PrimedQuickdrawMod.png?03558"
     },
     {
       "itemName": "Prisma Skana",
       "itemType": "Weapon",
       "credits": 175000,
       "ducats": 510,
-      "date": "2025-06-27T13:00:00.000Z"
+      "date": "2025-06-27T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Prisma_Skana",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrismaSkana.png/300px-PrismaSkana.png?517e0"
     },
     {
       "itemName": "Prisma Companion Poster",
       "itemType": "Decoration",
       "credits": 110000,
       "ducats": 90,
-      "date": "2025-04-11T13:00:00.000Z"
+      "date": "2025-04-11T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Posters",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrismaCompanionPoster.png/300px-PrismaCompanionPoster.png?d6850"
     },
     {
       "itemName": "Prisma Sigil",
       "itemType": "Cosmetic (Sigil)",
       "credits": 50000,
       "ducats": 50,
-      "date": "2025-04-11T13:00:00.000Z"
+      "date": "2025-04-11T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Sigils#Baro_Ki'Teer_Sigils",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrismaSigil.png/300px-PrismaSigil.png?1ac23"
     },
     {
       "itemName": "Prisma Shade",
       "itemType": "Sentinel",
       "credits": 300000,
       "ducats": 500,
-      "date": "2025-04-11T13:00:00.000Z"
+      "date": "2025-04-11T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Prisma_Shade",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrismaShade.png/300px-PrismaShade.png?4432c"
     },
     {
       "itemName": "Altra Sentinel Wings",
       "itemType": "Cosmetic (Sentinel)",
       "credits": 500000,
       "ducats": 400,
-      "date": "2025-06-27T13:00:00.000Z"
+      "date": "2025-06-27T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Sentinel_Cosmetics#Attachments",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/AltraSentinelWings.png/300px-AltraSentinelWings.png?0a040"
     },
     {
       "itemName": "Prisma Rostam Kubrow Armor",
       "itemType": "Cosmetic (Kubrow)",
       "credits": 175000,
       "ducats": 400,
-      "date": "2025-04-11T13:00:00.000Z"
+      "date": "2025-04-11T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Kubrow_Cosmetics#Armor",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrismaRostamKubrowArmor.png/300px-PrismaRostamKubrowArmor.png?d384e"
     },
     {
       "itemName": "Deimos Lobotriscid Prex",
       "itemType": "Decoration",
       "credits": 100000,
       "ducats": 75,
-      "date": "2025-01-24T13:00:00.000Z"
+      "date": "2025-01-24T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Prex",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/DeimosLobotriscidPrex.png/300px-DeimosLobotriscidPrex.png?6042e"
     },
     {
       "itemName": "Archwing Articula",
       "itemType": "Decoration",
       "credits": 330000,
       "ducats": 100,
-      "date": "2025-07-25T13:00:00.000Z"
+      "date": "2025-07-25T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Articula",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/ArchwingArticula.png/300px-ArchwingArticula.png?b9a69"
     },
     {
       "itemName": "Javi Ophiuchus Scrawling",
       "itemType": "Decoration",
       "credits": 100000,
       "ducats": 90,
-      "date": "2025-07-25T13:00:00.000Z"
+      "date": "2025-07-25T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Miscellaneous",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/JaviOphiuchusScrawling.png/300px-JaviOphiuchusScrawling.png?d6e56"
     },
     {
       "itemName": "Mantis Prisma Skin",
       "itemType": "Cosmetic (Landing Craft)",
       "credits": 375000,
       "ducats": 230,
-      "date": "2025-04-11T13:00:00.000Z"
+      "date": "2025-04-11T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Mantis#Skins",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/MantisPrismaSkin.png/300px-MantisPrismaSkin.png?b9179"
     },
     {
       "itemName": "Prisma Obex",
       "itemType": "Weapon",
       "credits": 175000,
       "ducats": 500,
-      "date": "2025-08-08T13:00:00.000Z"
+      "date": "2025-08-08T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Prisma_Obex",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrismaObex.png/300px-PrismaObex.png?ff26a"
     },
     {
       "itemName": "Scimitar Prisma Skin",
       "itemType": "Cosmetic (Landing Craft)",
       "credits": 450000,
       "ducats": 210,
-      "date": "2025-04-11T13:00:00.000Z"
+      "date": "2025-04-11T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Scimitar#Skins",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/ScimitarPrismaSkin.png/300px-ScimitarPrismaSkin.png?a3f4f"
     },
     {
       "itemName": "Corrupted Bombard Specter Blueprint",
       "itemType": "Consumable",
       "credits": 50000,
       "ducats": 100,
-      "date": "2025-05-02T13:00:00.000Z"
+      "date": "2025-05-02T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Specter#Miscellaneous_Specters",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/CorruptedBombardSpecter.png/300px-CorruptedBombardSpecter.png?ba123"
     },
     {
       "itemName": "Prisma Mech Head Sentinel Mask",
       "itemType": "Cosmetic (Sentinel)",
       "credits": 200000,
       "ducats": 175,
-      "date": "2025-04-11T13:00:00.000Z"
+      "date": "2025-04-11T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Sentinel_Cosmetics#Attachments",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrismaMechHead.png/300px-PrismaMechHead.png?22716"
     },
     {
       "itemName": "Primed Rubedo-Lined Barrel",
       "itemType": "Mod (Primed)",
       "credits": 175000,
       "ducats": 350,
-      "date": "2025-05-30T13:00:00.000Z"
+      "date": "2025-05-30T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Rubedo-Lined_Barrel",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrimedRubedo-LinedBarrelMod.png/300px-PrimedRubedo-LinedBarrelMod.png?35a11"
     },
     {
       "itemName": "Inaros Floof",
       "itemType": "Decoration",
       "credits": 90000,
       "ducats": 120,
-      "date": "2025-04-18T13:00:00.000Z"
+      "date": "2025-04-18T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Floofs",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/InarosFloof.png/300px-InarosFloof.png?df985"
     },
     {
       "itemName": "Full Contact",
       "itemType": "Mod",
       "credits": 220000,
       "ducats": 365,
-      "date": "2024-07-12T13:00:00.000Z"
+      "date": "2024-07-12T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Full_Contact",
+      "wikiThumbnail": "https://wiki.warframe.com/images/FullContactMod.png?3d88f"
     },
     {
       "itemName": "Prisma Lotus Bloom Sigil",
       "itemType": "Cosmetic (Sigil)",
       "credits": 60000,
       "ducats": 55,
-      "date": "2025-04-11T13:00:00.000Z"
+      "date": "2025-04-11T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Sigils#Baro_Ki'Teer_Sigils",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrismaLotusBloomSigil.png/300px-PrismaLotusBloomSigil.png?a5e49"
     },
     {
       "itemName": "Angels of the Zariman Login Music",
       "itemType": "Somachord",
       "credits": 180000,
       "ducats": 160,
-      "date": "2025-05-16T13:00:00.000Z"
+      "date": "2025-05-16T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Somachord",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/AngelsOfTheZarimanLoginMusic.png/300px-AngelsOfTheZarimanLoginMusic.png?ff0a2"
     },
     {
       "itemName": "Prisma Kubrow Glyph",
       "itemType": "Glyph",
       "credits": 50000,
       "ducats": 80,
-      "date": "2025-04-11T13:00:00.000Z"
+      "date": "2025-04-11T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Glyph#Other_Glyphs",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrismaKubrowGlyph.png/300px-PrismaKubrowGlyph.png?ae633"
     },
     {
       "itemName": "Prisma Koi Sentinel Tail",
       "itemType": "Cosmetic (Sentinel)",
       "credits": 200000,
       "ducats": 200,
-      "date": "2025-04-11T13:00:00.000Z"
+      "date": "2025-04-11T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Sentinel_Cosmetics#Attachments",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrismaKoiTail.png/300px-PrismaKoiTail.png?30713"
     },
     {
       "itemName": "Prisma Grinlok",
       "itemType": "Weapon",
       "credits": 220000,
       "ducats": 500,
-      "date": "2025-07-11T13:00:00.000Z"
+      "date": "2025-07-11T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Prisma_Grinlok",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrismaGrinlok.png/300px-PrismaGrinlok.png?def14"
     },
     {
       "itemName": "Axi A5 Relic",
       "itemType": "Void Relic",
       "credits": 55000,
       "ducats": 125,
-      "date": "2025-07-11T13:00:00.000Z"
+      "date": "2025-07-11T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Axi_A5",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/AxiRelicIntact.png/300px-AxiRelicIntact.png?6cadf"
     },
     {
       "itemName": "Altra Sentinel Skin",
       "itemType": "Cosmetic (Sentinel)",
       "credits": 425000,
       "ducats": 500,
-      "date": "2025-08-08T13:00:00.000Z"
+      "date": "2025-08-08T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Sentinel_Cosmetics#Skins",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/AltraSentinelSkin.png/300px-AltraSentinelSkin.png?88b0a"
     },
     {
       "itemName": "Nexus Gene-Masking Kit",
       "itemType": "Cosmetic (Kavat)",
       "credits": 300000,
       "ducats": 200,
-      "date": "2025-07-11T13:00:00.000Z"
+      "date": "2025-07-11T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Kavat_Cosmetics#Gene-Masking_Kits",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/KavatNexusBundle.png/300px-KavatNexusBundle.png?795be"
     },
     {
       "itemName": "Prisma Grakata",
       "itemType": "Weapon",
       "credits": 100000,
       "ducats": 610,
-      "date": "2025-08-08T13:00:00.000Z"
+      "date": "2025-08-08T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Prisma_Grakata",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrismaGrakata.png/300px-PrismaGrakata.png?a1a5f"
     },
     {
       "itemName": "Prisma Edo Chest Plate",
       "itemType": "Cosmetic (Armor)",
       "credits": 250000,
       "ducats": 225,
-      "date": "2025-08-08T13:00:00.000Z"
+      "date": "2025-08-08T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Armor_(Cosmetic)",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrismaEdoChestPlate.png/300px-PrismaEdoChestPlate.png?5b8ab"
     },
     {
       "itemName": "Prisma Dual Decurions",
       "itemType": "Weapon (Archwing)",
       "credits": 175000,
       "ducats": 525,
-      "date": "2025-04-11T13:00:00.000Z"
+      "date": "2025-04-11T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Prisma_Dual_Decurions",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrismaDualDecurions.png/300px-PrismaDualDecurions.png?25327"
     },
     {
       "itemName": "Prisma Daedalus Chest Plate",
       "itemType": "Cosmetic (Armor)",
       "credits": 100000,
       "ducats": 150,
-      "date": "2025-04-11T13:00:00.000Z"
+      "date": "2025-04-11T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Armor_(Cosmetic)",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrismaDaedalusChestPlate.png/300px-PrismaDaedalusChestPlate.png?dd4cf"
     },
     {
       "itemName": "Ivara in Action Glyph",
       "itemType": "Glyph",
       "credits": 60000,
       "ducats": 75,
-      "date": "2025-04-04T13:00:00.000Z"
+      "date": "2025-04-04T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Glyph#Other_Glyphs",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/IvaraInActionGlyph.png/300px-IvaraInActionGlyph.png?01ff1"
     },
     {
       "itemName": "Mirage Immortal Skin",
       "itemType": "Cosmetic (Warframe Skin)",
       "credits": 100000,
       "ducats": 550,
-      "date": "2025-04-04T13:00:00.000Z"
+      "date": "2025-04-04T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Mirage/Equip",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/MirageImmortalSkin.png/300px-MirageImmortalSkin.png?e5317"
     },
     {
       "itemName": "Buzz Kill",
       "itemType": "Mod",
       "credits": 150000,
       "ducats": 375,
-      "date": "2025-05-16T13:00:00.000Z"
+      "date": "2025-05-16T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Buzz_Kill",
+      "wikiThumbnail": "https://wiki.warframe.com/images/BuzzKillMod.png?5a31b"
     },
     {
       "itemName": "Primed Animal Instinct",
       "itemType": "Mod (Primed)",
       "credits": 200000,
       "ducats": 300,
-      "date": "2025-04-04T13:00:00.000Z"
+      "date": "2025-04-04T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Animal_Instinct",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrimedAnimalInstinctMod.png/300px-PrimedAnimalInstinctMod.png?f8874"
     },
     {
       "itemName": "Primed Cleanse Infested",
       "itemType": "Mod (Primed)",
       "credits": 140000,
       "ducats": 350,
-      "date": "2024-12-13T13:00:00.000Z"
+      "date": "2024-12-13T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Cleanse_Infested",
+      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedCleanseInfestedMod.png?ad704"
     },
     {
       "itemName": "Elixis Latron Leg Plate",
       "itemType": "Cosmetic (Armor)",
       "credits": 175000,
       "ducats": 300,
-      "date": null
+      "date": null,
+      "wikiURL": "https://wiki.warframe.com/w/Armor_(Cosmetic)",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/ElixisLatronL.png/300px-ElixisLatronL.png?6e121"
     },
     {
       "itemName": "Ki'teer Sentinel Tail",
       "itemType": "Cosmetic (Sentinel)",
       "credits": 250000,
       "ducats": 400,
-      "date": "2025-06-13T13:00:00.000Z"
+      "date": "2025-06-13T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Sentinel_Cosmetics#Attachments",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/KiTeerSentinelTail.png/300px-KiTeerSentinelTail.png?51167"
     },
     {
       "itemName": "Prisma Avia Shoulder Plate",
       "itemType": "Cosmetic (Armor)",
       "credits": 200000,
       "ducats": 300,
-      "date": "2025-04-11T13:00:00.000Z"
+      "date": "2025-04-11T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Armor_(Cosmetic)",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrismaAviaShoulderPlate.png/300px-PrismaAviaShoulderPlate.png?868e7"
     },
     {
       "itemName": "Sweeping Serration",
       "itemType": "Mod",
       "credits": 150000,
       "ducats": 375,
-      "date": "2024-05-31T13:00:00.000Z"
+      "date": "2024-05-31T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Sweeping_Serration",
+      "wikiThumbnail": "https://wiki.warframe.com/images/SweepingSerrationMod.png?1f17e"
     },
     {
       "itemName": "Anpu Staff Skin",
       "itemType": "Cosmetic (Weapon)",
       "credits": 250000,
       "ducats": 325,
-      "date": "2025-05-30T13:00:00.000Z"
+      "date": "2025-05-30T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Anpu_Staff_Skin",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/AnpuStaffSkin.png/300px-AnpuStaffSkin.png?d6c32"
     },
     {
       "itemName": "Prisma Angstrum",
       "itemType": "Weapon",
       "credits": 210000,
       "ducats": 475,
-      "date": "2025-04-18T13:00:00.000Z"
+      "date": "2025-04-18T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Prisma_Angstrum",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrismaAngstrum.png/300px-PrismaAngstrum.png?33189"
     },
     {
       "itemName": "Primed Tactical Pump",
       "itemType": "Mod (Primed)",
       "credits": 140000,
       "ducats": 300,
-      "date": "2025-07-11T13:00:00.000Z"
+      "date": "2025-07-11T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Tactical_Pump",
+      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedTacticalPumpMod.png?4705f"
     },
     {
       "itemName": "Nikana Elixis Skin",
       "itemType": "Cosmetic (Weapon)",
       "credits": 275000,
       "ducats": 375,
-      "date": "2025-04-25T13:00:00.000Z"
+      "date": "2025-04-25T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Nikana_Elixis_Skin",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/NikanaElixisSkin.png/300px-NikanaElixisSkin.png?d6e2e"
     },
     {
       "itemName": "Primed Stabilizer",
       "itemType": "Mod (Primed)",
       "credits": 220000,
       "ducats": 300,
-      "date": "2025-04-18T13:00:00.000Z"
+      "date": "2025-04-18T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Stabilizer",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrimedStabilizerMod.png/300px-PrimedStabilizerMod.png?b85a2"
     },
     {
       "itemName": "Primed Smite the Murmur",
       "itemType": "Mod (Primed)",
       "credits": 130000,
       "ducats": 375,
-      "date": "2025-06-27T13:00:00.000Z"
+      "date": "2025-06-27T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Smite_The_Murmur",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrimedSmiteTheMurmurMod.png/300px-PrimedSmiteTheMurmurMod.png?1f745"
     },
     {
       "itemName": "Primed Smite Orokin",
       "itemType": "Mod (Primed)",
       "credits": 140000,
       "ducats": 350,
-      "date": "2025-05-16T13:00:00.000Z"
+      "date": "2025-05-16T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Smite_Orokin",
+      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedSmiteOrokinMod.png?e61d7"
     },
     {
       "itemName": "Primed Smite Infested",
       "itemType": "Mod (Primed)",
       "credits": 140000,
       "ducats": 350,
-      "date": "2025-08-08T13:00:00.000Z"
+      "date": "2025-08-08T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Smite_Infested",
+      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedSmiteInfestedMod.png?64c6e"
     },
     {
       "itemName": "Harkonar Wraith Arm Armor",
       "itemType": "Cosmetic (Armor)",
       "credits": 150000,
       "ducats": 350,
-      "date": "2025-06-13T13:00:00.000Z"
+      "date": "2025-06-13T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Armor_(Cosmetic)",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/WraithHarkonarArmArmour.png/300px-WraithHarkonarArmArmour.png?7f7d5"
     },
     {
       "itemName": "Primed Smite Grineer",
       "itemType": "Mod (Primed)",
       "credits": 140000,
       "ducats": 350,
-      "date": "2025-07-25T13:00:00.000Z"
+      "date": "2025-07-25T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Smite_Grineer",
+      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedSmiteGrineerMod.png?de706"
     },
     {
       "itemName": "Primed Slip Magazine",
       "itemType": "Mod (Primed)",
       "credits": 200000,
       "ducats": 280,
-      "date": "2024-12-27T13:00:00.000Z"
+      "date": "2024-12-27T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Slip_Magazine",
+      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedSlipMagazineMod.png?f79a0"
     },
     {
       "itemName": "Redeemer Elixis Skin",
       "itemType": "Cosmetic (Weapon)",
       "credits": 250000,
       "ducats": 325,
-      "date": "2025-07-11T13:00:00.000Z"
+      "date": "2025-07-11T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Redeemer_Elixis_Skin",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/RedeemerElixisSkin.png/300px-RedeemerElixisSkin.png?10a48"
     },
     {
       "itemName": "Primed Redirection",
       "itemType": "Mod (Primed)",
       "credits": 225000,
       "ducats": 350,
-      "date": "2025-07-25T13:00:00.000Z"
+      "date": "2025-07-25T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Redirection",
+      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedRedirectionMod.png?05aa6"
     },
     {
       "itemName": "Ki'teer Shoulder Plates",
       "itemType": "Cosmetic (Armor)",
       "credits": 110000,
       "ducats": 350,
-      "date": "2025-06-27T13:00:00.000Z"
+      "date": "2025-06-27T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Warframe_Cosmetics#Armor",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/KiTeerShoulderPlate.png/300px-KiTeerShoulderPlate.png?09300"
     },
     {
       "itemName": "Ki'teer Kubrow Armor",
       "itemType": "Cosmetic (Kubrow)",
       "credits": 250000,
       "ducats": 500,
-      "date": "2025-04-25T13:00:00.000Z"
+      "date": "2025-04-25T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Kubrow_Cosmetics#Armor",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/KiTeerKubrowArmor.png/300px-KiTeerKubrowArmor.png?f68bf"
     },
     {
       "itemName": "Primed Reach",
       "itemType": "Mod (Primed)",
       "credits": 220000,
       "ducats": 300,
-      "date": "2025-08-08T13:00:00.000Z"
+      "date": "2025-08-08T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Reach",
+      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedReachMod.png?58fbb"
     },
     {
       "itemName": "Reshantur Cult Spear Skin",
       "itemType": "Cosmetic (Weapon)",
       "credits": 325000,
       "ducats": 350,
-      "date": "2025-02-07T13:00:00.000Z"
+      "date": "2025-02-07T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Reshantur_Cult_Spear_Skin",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/ReshanturCultSpearSkin.png/300px-ReshanturCultSpearSkin.png?71e32"
     },
     {
       "itemName": "Primed Fever Strike",
       "itemType": "Mod (Primed)",
       "credits": 200000,
       "ducats": 350,
-      "date": "2025-06-27T13:00:00.000Z"
+      "date": "2025-06-27T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Fever_Strike",
+      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedFeverStrikeMod.png?3d976"
     },
     {
       "itemName": "Ki'teer Chest Plate",
       "itemType": "Cosmetic (Armor)",
       "credits": 250000,
       "ducats": 150,
-      "date": "2025-06-27T13:00:00.000Z"
+      "date": "2025-06-27T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Warframe_Cosmetics#Armor",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/KiTeerChestPlate.png/300px-KiTeerChestPlate.png?80996"
     },
     {
       "itemName": "Karishh's Dinnerware",
       "itemType": "Decoration",
       "credits": 130000,
       "ducats": 110,
-      "date": "2025-06-13T13:00:00.000Z"
+      "date": "2025-06-13T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Miscellaneous",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/Karishh%27sDinnerware.png/300px-Karishh%27sDinnerware.png?4a2dd"
     },
     {
       "itemName": "Left Eos Prime Spurs",
       "itemType": "Cosmetic (Armor)",
       "credits": 50000,
       "ducats": 65,
-      "date": "2025-05-30T13:00:00.000Z"
+      "date": "2025-05-30T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Armor_(Cosmetic)",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrimedEosSpurs.png/300px-PrimedEosSpurs.png?d4018"
     },
     {
       "itemName": "Paris Abra Skin",
       "itemType": "Cosmetic (Weapon)",
       "credits": 275000,
       "ducats": 315,
-      "date": "2025-06-13T13:00:00.000Z"
+      "date": "2025-06-13T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Paris_Abra_Skin",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/ParisAbraSkin.png/300px-ParisAbraSkin.png?201e7"
     },
     {
       "itemName": "Kavat Sentinel Mask",
       "itemType": "Cosmetic (Sentinel)",
       "credits": 200000,
       "ducats": 500,
-      "date": "2024-08-23T13:00:00.000Z"
+      "date": "2024-08-23T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Sentinel_Cosmetics#Attachments",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/KavatSentinelMask.png/300px-KavatSentinelMask.png?ea343"
     },
     {
       "itemName": "Lunar Renewal Snake Emblem",
       "itemType": "Cosmetic (Emblem)",
       "credits": 1,
       "ducats": null,
-      "date": "2025-02-21T13:00:00.000Z"
+      "date": "2025-02-21T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Warframe_Cosmetics#Other_Emblems",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/LunarRenewalSnakeEmblem.png/300px-LunarRenewalSnakeEmblem.png?eed60"
     },
     {
       "itemName": "Glaxion Vandal",
       "itemType": "Weapon",
       "credits": 250000,
       "ducats": 475,
-      "date": "2025-06-27T13:00:00.000Z"
+      "date": "2025-06-27T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Glaxion_Vandal",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/GlaxionVandal.png/300px-GlaxionVandal.png?f5763"
     },
     {
       "itemName": "Primed Fulmination",
       "itemType": "Mod (Primed)",
       "credits": 175000,
       "ducats": 350,
-      "date": "2025-05-16T13:00:00.000Z"
+      "date": "2025-05-16T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Fulmination",
+      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedFulminationMod.png?7ce72"
     },
     {
       "itemName": "Xaku Prex",
       "itemType": "Decoration",
       "credits": 100000,
       "ducats": 75,
-      "date": "2025-06-13T13:00:00.000Z"
+      "date": "2025-06-13T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Prex",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/XakuPrex.png/300px-XakuPrex.png?6fe2a"
     },
     {
       "itemName": "Primed Charged Shell",
       "itemType": "Mod (Primed)",
       "credits": 200000,
       "ducats": 350,
-      "date": "2025-05-30T13:00:00.000Z"
+      "date": "2025-05-30T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Charged_Shell",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrimedChargedShellMod.png/300px-PrimedChargedShellMod.png?3f969"
     },
     {
       "itemName": "Primed Pistol Gambit",
       "itemType": "Mod (Primed)",
       "credits": 220000,
       "ducats": 400,
-      "date": "2025-06-13T13:00:00.000Z"
+      "date": "2025-06-13T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Pistol_Gambit",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrimedPistolGambitMod.png/300px-PrimedPistolGambitMod.png?3ede1"
     },
     {
       "itemName": "Primed Fast Hands",
       "itemType": "Mod (Primed)",
       "credits": 120000,
       "ducats": 375,
-      "date": "2024-11-01T13:00:00.000Z"
+      "date": "2024-11-01T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Fast_Hands",
+      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedFastHandsMod.png?11d5d"
     },
     {
       "itemName": "Pack Leader Emblem",
       "itemType": "Cosmetic (Emblem)",
       "credits": 50000,
       "ducats": 50,
-      "date": "2025-05-16T13:00:00.000Z"
+      "date": "2025-05-16T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Sigils#Baro_Ki'Teer_Sigils",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PackLeaderSigil.png/300px-PackLeaderSigil.png?38aab"
     },
     {
       "itemName": "Ki'teer Foros Chest Plate",
       "itemType": "Cosmetic (Armor)",
       "credits": 200000,
       "ducats": 175,
-      "date": "2025-04-25T13:00:00.000Z"
+      "date": "2025-04-25T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Armor_(Cosmetic)",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/KiTeerForosChestPlate.png/300px-KiTeerForosChestPlate.png?3827b"
     },
     {
       "itemName": "Primed Expel the Murmur",
       "itemType": "Mod (Primed)",
       "credits": 130000,
       "ducats": 375,
-      "date": "2025-07-25T13:00:00.000Z"
+      "date": "2025-07-25T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Expel_The_Murmur",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrimedExpelTheMurmurMod.png/300px-PrimedExpelTheMurmurMod.png?31ac2"
     },
     {
       "itemName": "5 x Corrupted Bombard Specter",
       "itemType": "Consumable",
       "credits": 50000,
       "ducats": 100,
-      "date": "2025-02-07T13:00:00.000Z"
+      "date": "2025-02-07T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Specter#Miscellaneous_Specters",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/CorruptedBombardSpecter.png/300px-CorruptedBombardSpecter.png?ba123"
     },
     {
       "itemName": "Baruuk Doan Silhouette Glyph",
       "itemType": "Glyph",
       "credits": 60000,
       "ducats": 75,
-      "date": "2025-06-27T13:00:00.000Z"
+      "date": "2025-06-27T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Glyph#Other_Glyphs",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/BaruukDoanSilhouetteGlyph.png/300px-BaruukDoanSilhouetteGlyph.png?21829"
     },
     {
       "itemName": "Telamon Dance of Death",
       "itemType": "Decoration",
       "credits": 100000,
       "ducats": 125,
-      "date": "2024-12-13T13:00:00.000Z"
+      "date": "2024-12-13T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Miscellaneous",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/TelamonDanceOfDeath.png/300px-TelamonDanceOfDeath.png?c97eb"
     },
     {
       "itemName": "Harkonar Wraith Cloak",
       "itemType": "Cosmetic (Syandana)",
       "credits": 500000,
       "ducats": 400,
-      "date": "2025-06-13T13:00:00.000Z"
+      "date": "2025-06-13T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Syandana",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/HarkonarWraithCloak.png/300px-HarkonarWraithCloak.png?1e353"
     },
     {
       "itemName": "Primed Expel Corpus",
       "itemType": "Mod (Primed)",
       "credits": 140000,
       "ducats": 350,
-      "date": "2024-06-14T13:00:00.000Z"
+      "date": "2024-06-14T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Expel_Corpus",
+      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedExpelCorpusMod.png?99807"
     },
     {
       "itemName": "Primed Deadly Efficiency",
       "itemType": "Mod (Primed)",
       "credits": 300000,
       "ducats": 375,
-      "date": "2025-08-08T13:00:00.000Z"
+      "date": "2025-08-08T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Deadly_Efficiency",
+      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedDeadlyEfficiencyMod.png?c8e7b"
     },
     {
       "itemName": "Primed Expel Orokin",
       "itemType": "Mod (Primed)",
       "credits": 140000,
       "ducats": 350,
-      "date": "2025-05-02T13:00:00.000Z"
+      "date": "2025-05-02T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Expel_Orokin",
+      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedExpelOrokinMod.png?2497c"
     },
     {
       "itemName": "Primed Convulsion",
       "itemType": "Mod (Primed)",
       "credits": 175000,
       "ducats": 350,
-      "date": "2025-07-25T13:00:00.000Z"
+      "date": "2025-07-25T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Convulsion",
+      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedConvulsionMod.png?72f2e"
     },
     {
       "itemName": "Primed Rifle Ammo Mutation",
       "itemType": "Mod (Primed)",
       "credits": 140000,
       "ducats": 400,
-      "date": "2025-06-27T13:00:00.000Z"
+      "date": "2025-06-27T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Rifle_Ammo_Mutation",
+      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedRifleAmmoMutationMod.png?a943f"
     },
     {
       "itemName": "Ki'teer Sugatra",
       "itemType": "Cosmetic (Weapon)",
       "credits": 250000,
       "ducats": 250,
-      "date": "2025-07-11T13:00:00.000Z"
+      "date": "2025-07-11T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Weapon_Cosmetics#Sugatra",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/KiTeerSugatra.png/300px-KiTeerSugatra.png?484f2"
     },
     {
       "itemName": "Coccyst Sugatra",
       "itemType": "Cosmetic (Weapon)",
       "credits": 200000,
       "ducats": 250,
-      "date": "2025-08-08T13:00:00.000Z"
+      "date": "2025-08-08T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Weapon_Cosmetics#Sugatra",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/CoccystSugatra.png/300px-CoccystSugatra.png?2ecea"
     },
     {
       "itemName": "Left Prisma Edo Knee Plates",
       "itemType": "Cosmetic (Armor)",
       "credits": 55000,
       "ducats": 100,
-      "date": "2025-08-08T13:00:00.000Z"
+      "date": "2025-08-08T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Armor_(Cosmetic)",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/LeftPrismaEdoKneePlates.png/300px-LeftPrismaEdoKneePlates.png?0116a"
     },
     {
       "itemName": "Ki'teer Straed Syandana",
       "itemType": "Cosmetic (Syandana)",
       "credits": 500000,
       "ducats": 500,
-      "date": "2025-05-02T13:00:00.000Z"
+      "date": "2025-05-02T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Syandana",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/Ki%27teerStraedSyandana.png/300px-Ki%27teerStraedSyandana.png?a06b0"
     },
     {
       "itemName": "Primed Bane of Grineer",
       "itemType": "Mod (Primed)",
       "credits": 140000,
       "ducats": 400,
-      "date": "2025-01-10T13:00:00.000Z"
+      "date": "2025-01-10T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Bane_of_Grineer",
+      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedBaneofGrineerMod.png?0218c"
     },
     {
       "itemName": "Primed Cryo Rounds",
       "itemType": "Mod (Primed)",
       "credits": 110000,
       "ducats": 350,
-      "date": "2025-07-11T13:00:00.000Z"
+      "date": "2025-07-11T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Cryo_Rounds",
+      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedCryoRoundsMod.png?26fea"
     },
     {
       "itemName": "Pedestal Umbra",
       "itemType": "Decoration",
       "credits": 1000000,
       "ducats": null,
-      "date": "2025-07-11T13:00:00.000Z"
+      "date": "2025-07-11T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Miscellaneous",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PedestalUmbra.png/300px-PedestalUmbra.png?9a06b"
     },
     {
       "itemName": "Primed Pack Leader",
       "itemType": "Mod (Primed)",
       "credits": 200000,
       "ducats": 300,
-      "date": "2025-01-10T13:00:00.000Z"
+      "date": "2025-01-10T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Pack_Leader",
+      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedPackLeaderMod.png?4e618"
     },
     {
       "itemName": "Parazon Poster",
       "itemType": "Decoration",
       "credits": 125000,
       "ducats": 100,
-      "date": "2025-05-02T13:00:00.000Z"
+      "date": "2025-05-02T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Posters",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/ParazonPoster.png/300px-ParazonPoster.png?9d6c4"
     },
     {
       "itemName": "Orokin Catalyst",
       "itemType": "Consumable",
       "credits": 400000,
       "ducats": 700,
-      "date": null
+      "date": null,
+      "wikiURL": "https://wiki.warframe.com/w/Orokin_Catalyst",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/OrokinCatalyst.png/300px-OrokinCatalyst.png?1d542"
     },
     {
       "itemName": "Rapier Tributaker Skin",
       "itemType": "Cosmetic (Weapon)",
       "credits": 400000,
       "ducats": 375,
-      "date": "2025-07-25T13:00:00.000Z"
+      "date": "2025-07-25T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Rapier_Tributaker_Skin",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/RapierTributakerSkin.png/300px-RapierTributakerSkin.png?c857d"
     },
     {
       "itemName": "Axi M5 Relic",
       "itemType": "Void Relic",
       "credits": 55000,
       "ducats": 125,
-      "date": "2025-04-04T13:00:00.000Z"
+      "date": "2025-04-04T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Axi_M5",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/AxiRelicIntact.png/300px-AxiRelicIntact.png?6cadf"
     },
     {
       "itemName": "Opticor Vandal",
       "itemType": "Weapon",
       "credits": 550000,
       "ducats": 650,
-      "date": "2025-07-11T13:00:00.000Z"
+      "date": "2025-07-11T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Opticor_Vandal",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/OpticorVandal.png/300px-OpticorVandal.png?64244"
     },
     {
       "itemName": "Diriga Desert-Camo Skin",
       "itemType": "Cosmetic (Sentinel)",
       "credits": 150000,
       "ducats": 225,
-      "date": "2025-05-16T13:00:00.000Z"
+      "date": "2025-05-16T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Diriga/Equip",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/DirigaDesertCamoSkin.png/300px-DirigaDesertCamoSkin.png?ecc4c"
     },
     {
       "itemName": "Noggle Statue - Zealoid Prelate",
       "itemType": "Decoration",
       "credits": 300000,
       "ducats": 75,
-      "date": "2025-06-13T13:00:00.000Z"
+      "date": "2025-06-13T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Noggles",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/BobbleheadZealoidPrelate.png/300px-BobbleheadZealoidPrelate.png?69791"
     },
     {
       "itemName": "Ki'teer Foros Shoulder Plates",
       "itemType": "Cosmetic (Armor)",
       "credits": 100000,
       "ducats": 310,
-      "date": "2025-04-25T13:00:00.000Z"
+      "date": "2025-04-25T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Armor_(Cosmetic)",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/KiTeerForosShoulderPlate.png/300px-KiTeerForosShoulderPlate.png?9c166"
     },
     {
       "itemName": "Masker's Theodolite Crewsuit",
       "itemType": "Cosmetic (Operator)",
       "credits": 275000,
       "ducats": 300,
-      "date": "2025-06-13T13:00:00.000Z"
+      "date": "2025-06-13T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Operator/Customization#Transference_Suits",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/Masker%27sTheodoliteCrewsuit.png/300px-Masker%27sTheodoliteCrewsuit.png?00f36"
     },
     {
       "itemName": "Ki'teer Greth Shoulder Plates",
       "itemType": "Cosmetic (Armor)",
       "credits": 350000,
       "ducats": 400,
-      "date": "2025-07-11T13:00:00.000Z"
+      "date": "2025-07-11T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Armor_(Cosmetic)",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/Ki%27teerGrethShoulderPlates.png/300px-Ki%27teerGrethShoulderPlates.png?a9b30"
     },
     {
       "itemName": "Noggle Statue - Excalibur with Odonata",
       "itemType": "Decoration",
       "credits": 200000,
       "ducats": 90,
-      "date": "2025-05-02T13:00:00.000Z"
+      "date": "2025-05-02T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Noggles",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/BobbleheadExcaliburArchwing.png/300px-BobbleheadExcaliburArchwing.png?29e9e"
     },
     {
       "itemName": "Deimos Kymaeros Prex",
       "itemType": "Decoration",
       "credits": 100000,
       "ducats": 75,
-      "date": "2025-02-21T13:00:00.000Z"
+      "date": "2025-02-21T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Prex",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/DeimosKymaerosPrex.png/300px-DeimosKymaerosPrex.png?e9c41"
     },
     {
       "itemName": "10th Anniversary Login Music",
       "itemType": "Somachord",
       "credits": 165000,
       "ducats": 145,
-      "date": "2025-03-21T13:00:00.000Z"
+      "date": "2025-03-21T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Somachord",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/10thAnniversaryLoginMusic.png/300px-10thAnniversaryLoginMusic.png?d4ef4"
     },
     {
       "itemName": "Noggle Statue - Erra",
       "itemType": "Decoration",
       "credits": 300000,
       "ducats": 75,
-      "date": "2025-03-07T13:00:00.000Z"
+      "date": "2025-03-07T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Noggles",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/BobbleheadErra.png/300px-BobbleheadErra.png?6251f"
     },
     {
       "itemName": "Noggle Statue - Baro Ki'teer",
       "itemType": "Decoration",
       "credits": 250000,
       "ducats": 70,
-      "date": "2025-08-08T13:00:00.000Z"
+      "date": "2025-08-08T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Noggles",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/BobbleheadBaroKiTeer.png/300px-BobbleheadBaroKiTeer.png?d0f0e"
     },
     {
       "itemName": "Dante Unbound Login Music",
       "itemType": "Somachord",
       "credits": 150000,
       "ducats": 150,
-      "date": "2025-07-11T13:00:00.000Z"
+      "date": "2025-07-11T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Somachord",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/DanteUnboundLoginMusic.png/300px-DanteUnboundLoginMusic.png?d5ace"
     },
     {
       "itemName": "Halikar Wraith",
       "itemType": "Weapon",
       "credits": 350000,
       "ducats": 450,
-      "date": "2025-05-30T13:00:00.000Z"
+      "date": "2025-05-30T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Halikar_Wraith",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/HalikarWraith.png/300px-HalikarWraith.png?ada65"
     },
     {
       "itemName": "Ki'teer Stencil",
       "itemType": "Cosmetic (Orbiter)",
       "credits": 175000,
       "ducats": 250,
-      "date": "2025-05-02T13:00:00.000Z"
+      "date": "2025-05-02T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter#Stencils",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/KiTeerStencil.png/300px-KiTeerStencil.png?64f5a"
     },
     {
       "itemName": "Left Prisma Daedalus Shoulder Guard",
       "itemType": "Cosmetic (Armor)",
       "credits": 75000,
       "ducats": 65,
-      "date": "2025-04-11T13:00:00.000Z"
+      "date": "2025-04-11T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Armor_(Cosmetic)",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/LeftPrismaDaedalusShoulderGuard.png/300px-LeftPrismaDaedalusShoulderGuard.png?3e863"
     },
     {
       "itemName": "Ki'teer Atmos Earpiece",
       "itemType": "Cosmetic (Operator)",
       "credits": 400000,
       "ducats": 500,
-      "date": "2025-06-27T13:00:00.000Z"
+      "date": "2025-06-27T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Operator/Customization#Facial_Accessories",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/Ki%27teerAtmosEarpiece.png/300px-Ki%27teerAtmosEarpiece.png?9c73f"
     },
     {
       "itemName": "Nexus Fur Pattern",
       "itemType": "Cosmetic (Kubrow)",
       "credits": 300000,
       "ducats": 150,
-      "date": "2025-07-25T13:00:00.000Z"
+      "date": "2025-07-25T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Kubrow_Cosmetics#Gene-Masking_Kits",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/NexusFurPattern.png/300px-NexusFurPattern.png?a1ae7"
     },
     {
       "itemName": "Basilisk Fighter Decoration",
       "itemType": "Decoration",
       "credits": 100000,
       "ducats": 100,
-      "date": "2025-02-21T13:00:00.000Z"
+      "date": "2025-02-21T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Fighters",
+      "wikiThumbnail": "https://wiki.warframe.com/images/TaroBasilisk.png?17eda"
     },
     {
       "itemName": "Mulciber Shoulder Plate",
       "itemType": "Cosmetic (Armor)",
       "credits": 215000,
       "ducats": 315,
-      "date": "2025-05-16T13:00:00.000Z"
+      "date": "2025-05-16T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Armor_(Cosmetic)",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/MulciberShoulderPlate.png/300px-MulciberShoulderPlate.png?80474"
     },
     {
       "itemName": "Crash Course",
       "itemType": "Mod",
       "credits": 200000,
       "ducats": 330,
-      "date": "2024-02-23T13:00:00.000Z"
+      "date": "2024-02-23T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Crash_Course",
+      "wikiThumbnail": "https://wiki.warframe.com/images/CrashCourseMod.png?52762"
     },
     {
       "itemName": "Koi Sentinel Tail",
       "itemType": "Cosmetic (Sentinel)",
       "credits": 200000,
       "ducats": 200,
-      "date": null
+      "date": null,
+      "wikiURL": "https://wiki.warframe.com/w/Sentinel_Cosmetics#Attachments",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PetFishtailWings.png/300px-PetFishtailWings.png?1d881"
     },
     {
       "itemName": "Mulciber Knee Plate",
       "itemType": "Cosmetic (Armor)",
       "credits": 200000,
       "ducats": 300,
-      "date": "2025-05-16T13:00:00.000Z"
+      "date": "2025-05-16T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Armor_(Cosmetic)",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/MulciberKneePlate.png/300px-MulciberKneePlate.png?2c635"
     },
     {
       "itemName": "Masker's Theodolite Crewsuit Hood",
       "itemType": "Cosmetic (Operator)",
       "credits": 375000,
       "ducats": 350,
-      "date": "2025-06-13T13:00:00.000Z"
+      "date": "2025-06-13T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Operator/Customization#Transference_Suits",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/Masker%27sTheodoliteCrewsuitHood.png/300px-Masker%27sTheodoliteCrewsuitHood.png?3a514"
     },
     {
       "itemName": "Mantis Cydonia Skin",
       "itemType": "Cosmetic (Landing Craft)",
       "credits": 320000,
       "ducats": 425,
-      "date": "2025-05-16T13:00:00.000Z"
+      "date": "2025-05-16T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Mantis#Skins",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/MantisCydoniaSkin.png/300px-MantisCydoniaSkin.png?cab05"
     },
     {
       "itemName": "Prisma Lotus Sigil",
       "itemType": "Cosmetic (Sigil)",
       "credits": 45000,
       "ducats": 55,
-      "date": "2025-04-11T13:00:00.000Z"
+      "date": "2025-04-11T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Sigils#Baro_Ki'Teer_Sigils",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrismaLotusSigil.png/300px-PrismaLotusSigil.png?cac3e"
     },
     {
       "itemName": "Grav Lifter Factory",
       "itemType": "Decoration",
       "credits": 125000,
       "ducats": 110,
-      "date": "2025-05-30T13:00:00.000Z"
+      "date": "2025-05-30T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Miscellaneous",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/GravLifterFactory.png/300px-GravLifterFactory.png?44bef"
     },
     {
       "itemName": "Combo Fury",
       "itemType": "Mod",
       "credits": 115000,
       "ducats": 300,
-      "date": "2025-02-21T13:00:00.000Z"
+      "date": "2025-02-21T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Combo_Fury",
+      "wikiThumbnail": "https://wiki.warframe.com/images/ComboFuryMod.png?c58e9"
     },
     {
       "itemName": "Class of Ten Zero Poster",
       "itemType": "Decoration",
       "credits": 120000,
       "ducats": 90,
-      "date": "2025-03-21T13:00:00.000Z"
+      "date": "2025-03-21T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Posters",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/ClassOfTenZeroPoster.png/300px-ClassOfTenZeroPoster.png?91b2f"
     },
     {
       "itemName": "Altra Sentinel Tail",
       "itemType": "Cosmetic (Sentinel)",
       "credits": 500000,
       "ducats": 400,
-      "date": "2025-06-27T13:00:00.000Z"
+      "date": "2025-06-27T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Sentinel_Cosmetics#Attachments",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/AltraSentinelTail.png/300px-AltraSentinelTail.png?30244"
     },
     {
       "itemName": "Lunar Renewal Ox Sigil",
       "itemType": "Cosmetic (Sigil)",
       "credits": 45000,
       "ducats": 55,
-      "date": "2025-03-21T13:00:00.000Z"
+      "date": "2025-03-21T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Sigils#Baro_Ki'Teer_Sigils",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/LunarRenewalOxSigil.png/300px-LunarRenewalOxSigil.png?0f5d1"
     },
     {
       "itemName": "TennoCon Crt Emote",
       "itemType": "Emote",
       "credits": 1000,
       "ducats": 15,
-      "date": "2025-05-16T13:00:00.000Z"
+      "date": "2025-05-16T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Emotes",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/TennoConCrtEmote.png/300px-TennoConCrtEmote.png?3e3db"
     },
     {
       "itemName": "Left Prisma Latron Shoulder Plate",
       "itemType": "Cosmetic (Armor)",
       "credits": 220000,
       "ducats": 325,
-      "date": "2025-04-11T13:00:00.000Z"
+      "date": "2025-04-11T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Armor_(Cosmetic)",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrismaLatronShoulderPlate.png/300px-PrismaLatronShoulderPlate.png?ab0f5"
     },
     {
       "itemName": "Primed Bane of Orokin",
       "itemType": "Mod (Primed)",
       "credits": 140000,
       "ducats": 400,
-      "date": "2024-11-01T13:00:00.000Z"
+      "date": "2024-11-01T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Bane_of_Orokin",
+      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedBaneofOrokinMod.png?c71bd"
     },
     {
       "itemName": "Left Prisma Daedalus Knee Plates",
       "itemType": "Cosmetic (Armor)",
       "credits": 75000,
       "ducats": 65,
-      "date": "2025-04-11T13:00:00.000Z"
+      "date": "2025-04-11T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Armor_(Cosmetic)",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/LeftPrismaDaedalusShinGuard.png/300px-LeftPrismaDaedalusShinGuard.png?6e5e4"
     },
     {
       "itemName": "Ki'teer Solstice Syandana",
       "itemType": "Cosmetic (Syandana)",
       "credits": 200000,
       "ducats": 425,
-      "date": "2025-04-25T13:00:00.000Z"
+      "date": "2025-04-25T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Syandana",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/Ki%27teerSolsticeSyandana.png/300px-Ki%27teerSolsticeSyandana.png?1f358"
     },
     {
       "itemName": "Ki'teer Solo Earpiece",
       "itemType": "Cosmetic (Operator)",
       "credits": 200000,
       "ducats": 250,
-      "date": "2025-07-11T13:00:00.000Z"
+      "date": "2025-07-11T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Operator/Customization#Facial_Accessories",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/Ki%27teerSoloEarpiece.png/300px-Ki%27teerSoloEarpiece.png?52b4a"
     },
     {
       "itemName": "Prisma Lotus Emblem",
       "itemType": "Cosmetic (Emblem)",
       "credits": 50000,
       "ducats": 80,
-      "date": "2025-04-11T13:00:00.000Z"
+      "date": "2025-04-11T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Warframe_Cosmetics#Other_Emblems",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrismaLotusGlyph.png/300px-PrismaLotusGlyph.png?24749"
     },
     {
       "itemName": "Baro Ki'teer Glyph",
       "itemType": "Glyph",
       "credits": 50000,
       "ducats": 80,
-      "date": "2025-06-13T13:00:00.000Z"
+      "date": "2025-06-13T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Glyph#Other_Glyphs",
+      "wikiThumbnail": "https://wiki.warframe.com/images/BaroKi%27teerGlyph.png?7d388"
     },
     {
       "itemName": "Ki'teer Reverence Ephemera",
       "itemType": "Cosmetic (Ephemera)",
       "credits": 350000,
       "ducats": 250,
-      "date": "2025-04-25T13:00:00.000Z"
+      "date": "2025-04-25T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Ephemera#Ki'teer_Reverence",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/Ki%27teerReverenceEphemera.png/300px-Ki%27teerReverenceEphemera.png?4b659"
     },
     {
       "itemName": "Ki'teer Atmos Oculus",
       "itemType": "Cosmetic (Operator)",
       "credits": 375000,
       "ducats": 525,
-      "date": "2025-04-25T13:00:00.000Z"
+      "date": "2025-04-25T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Operator/Customization#Facial_Accessories",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/Ki%27teerAtmosOculus.png/300px-Ki%27teerAtmosOculus.png?f1924"
     },
     {
       "itemName": "Dread Day of the Dead Skin",
       "itemType": "Cosmetic (Weapon)",
       "credits": 275000,
       "ducats": 300,
-      "date": "2024-10-18T13:00:00.000Z"
+      "date": "2024-10-18T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Day_of_the_Dead_Skins",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/DreadDayOfTheDeadSkin.png/300px-DreadDayOfTheDeadSkin.png?6b976"
     },
     {
       "itemName": "Ki'teer Greth Chest Plate",
       "itemType": "Cosmetic (Armor)",
       "credits": 300000,
       "ducats": 350,
-      "date": "2025-07-11T13:00:00.000Z"
+      "date": "2025-07-11T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Armor_(Cosmetic)",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/Ki%27teerGrethChestPlate.png/300px-Ki%27teerGrethChestPlate.png?41799"
     },
     {
       "itemName": "Ki'teer Foros Leg Plates",
       "itemType": "Cosmetic (Armor)",
       "credits": 150000,
       "ducats": 225,
-      "date": "2025-04-25T13:00:00.000Z"
+      "date": "2025-04-25T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Armor_(Cosmetic)",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/KiTeerForosLegPlate.png/300px-KiTeerForosLegPlate.png?4adac"
     },
     {
       "itemName": "Primed Pistol Ammo Mutation",
       "itemType": "Mod (Primed)",
       "credits": 140000,
       "ducats": 400,
-      "date": "2024-10-04T13:00:00.000Z"
+      "date": "2024-10-04T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Pistol_Ammo_Mutation",
+      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedPistolAmmoMutationMod.png?f3c2c"
     },
     {
       "itemName": "Cookie Kavat Glyph",
       "itemType": "Glyph",
       "credits": 50000,
       "ducats": 80,
-      "date": "2024-12-27T13:00:00.000Z"
+      "date": "2024-12-27T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Glyph#Cookie",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/CookieKavatGlyph.png/300px-CookieKavatGlyph.png?f897f"
     },
     {
       "itemName": "Ki'teer Lux Pedestal",
       "itemType": "Decoration",
       "credits": 100000,
       "ducats": 150,
-      "date": "2025-04-25T13:00:00.000Z"
+      "date": "2025-04-25T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Miscellaneous",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/Ki%27teerLuxPedestal.png/300px-Ki%27teerLuxPedestal.png?1e64c"
     },
     {
       "itemName": "Ki'teer Atmos Mask",
       "itemType": "Cosmetic (Operator)",
       "credits": 400000,
       "ducats": 500,
-      "date": "2025-04-25T13:00:00.000Z"
+      "date": "2025-04-25T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Operator/Customization#Facial_Accessories",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/Ki%27teerAtmosMask.png/300px-Ki%27teerAtmosMask.png?b4c1a"
     },
     {
       "itemName": "Glaring Sigil",
       "itemType": "Cosmetic (Sigil)",
       "credits": 45000,
       "ducats": 55,
-      "date": "2025-05-02T13:00:00.000Z"
+      "date": "2025-05-02T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Sigils#Baro_Ki'Teer_Sigils",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/GlaringSigil.png/300px-GlaringSigil.png?1eea9"
     },
     {
       "itemName": "Primed Heavy Trauma",
       "itemType": "Mod (Primed)",
       "credits": 100000,
       "ducats": 350,
-      "date": "2024-11-15T13:00:00.000Z"
+      "date": "2024-11-15T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Heavy_Trauma",
+      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedHeavyTraumaMod.png?2b981"
     },
     {
       "itemName": "Prisma Ohma",
       "itemType": "Weapon",
       "credits": 175000,
       "ducats": 450,
-      "date": "2025-04-11T13:00:00.000Z"
+      "date": "2025-04-11T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Prisma_Ohma",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrismaOhma.png/300px-PrismaOhma.png?5eedd"
     },
     {
       "itemName": "Bekran Zaft's Equipment",
       "itemType": "Decoration",
       "credits": 125000,
       "ducats": 100,
-      "date": "2025-01-24T13:00:00.000Z"
+      "date": "2025-01-24T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Miscellaneous",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/BekranZaft%27sEquipment.png/300px-BekranZaft%27sEquipment.png?494d2"
     },
     {
       "itemName": "Ki'teer Sentinel Mask",
       "itemType": "Cosmetic (Sentinel)",
       "credits": 200000,
       "ducats": 500,
-      "date": "2025-06-27T13:00:00.000Z"
+      "date": "2025-06-27T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Sentinel_Cosmetics#Attachments",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/KiTeerSentinelMask.png/300px-KiTeerSentinelMask.png?e5a45"
     },
     {
       "itemName": "Machete Syachid Skin",
       "itemType": "Cosmetic (Weapon)",
       "credits": 300000,
       "ducats": 375,
-      "date": "2025-07-11T13:00:00.000Z"
+      "date": "2025-07-11T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Machete_Syachid_Skin",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/MacheteSyachidSkin.png/300px-MacheteSyachidSkin.png?86bc5"
     },
     {
       "itemName": "Ignis Wraith",
       "itemType": "Weapon",
       "credits": 250000,
       "ducats": 550,
-      "date": "2025-05-30T13:00:00.000Z"
+      "date": "2025-05-30T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Ignis_Wraith",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/IgnisWraith.png/300px-IgnisWraith.png?c3df1"
     },
     {
       "itemName": "Gorgon Towsun Skin",
       "itemType": "Cosmetic (Weapon)",
       "credits": 300000,
       "ducats": 300,
-      "date": "2025-06-27T13:00:00.000Z"
+      "date": "2025-06-27T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Gorgon_Towsun_Skin",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/GorgonTowsunSkin.png/300px-GorgonTowsunSkin.png?3551a"
     },
     {
       "itemName": "Green Ki'teer Safari K-Drive Scrawl",
       "itemType": "Cosmetic (K-Drive)",
       "credits": 75000,
       "ducats": 75,
-      "date": "2025-06-13T13:00:00.000Z"
+      "date": "2025-06-13T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/K-Drive#Others",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/GreenKiteerSafariKDriveScrawl.png/300px-GreenKiteerSafariKDriveScrawl.png?6243b"
     },
     {
       "itemName": "Lunar Renewal Tiger Emblem",
       "itemType": "Cosmetic (Emblem)",
       "credits": 45000,
       "ducats": 55,
-      "date": "2025-02-21T13:00:00.000Z"
+      "date": "2025-02-21T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Warframe_Cosmetics#Other_Emblems",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/LunarRenewalTigerEmblem.png/300px-LunarRenewalTigerEmblem.png?ba378"
     },
     {
       "itemName": "Tenno Kindred Rug",
       "itemType": "Decoration",
       "credits": 100000,
       "ducats": 225,
-      "date": "2024-11-15T13:00:00.000Z"
+      "date": "2024-11-15T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Miscellaneous",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/TennoKindredRug.png/300px-TennoKindredRug.png?76235"
     },
     {
       "itemName": "Primed Heated Charge",
       "itemType": "Mod (Primed)",
       "credits": 175000,
       "ducats": 350,
-      "date": "2025-05-16T13:00:00.000Z"
+      "date": "2025-05-16T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Heated_Charge",
+      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedHeatedChargeMod.png?ca023"
     },
     {
       "itemName": "Tannukai Longsword Skin",
       "itemType": "Cosmetic (Weapon)",
       "credits": 280000,
       "ducats": 375,
-      "date": "2025-07-11T13:00:00.000Z"
+      "date": "2025-07-11T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Tannukai_Longsword_Skin",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/TannukaiLongswordSkin.png/300px-TannukaiLongswordSkin.png?43d92"
     },
     {
       "itemName": "Dog Days Protea Display",
       "itemType": "Decoration",
       "credits": 125000,
       "ducats": 90,
-      "date": "2025-06-27T13:00:00.000Z"
+      "date": "2025-06-27T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Displays",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/DogDaysProteaDisplay.png/300px-DogDaysProteaDisplay.png?a8086"
     },
     {
       "itemName": "Javi Luminosity Scrawling",
       "itemType": "Decoration",
       "credits": 100000,
       "ducats": 90,
-      "date": "2024-10-04T13:00:00.000Z"
+      "date": "2024-10-04T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Miscellaneous",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/JaviLuminosityScrawling.png/300px-JaviLuminosityScrawling.png?7c492"
     },
     {
       "itemName": "10 x Ki'teer Fireworks",
       "itemType": "Consumable",
       "credits": 100000,
       "ducats": 50,
-      "date": "2025-08-08T13:00:00.000Z"
+      "date": "2025-08-08T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Ki%27Teer_Fireworks",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/Ki%27TeerFireworks.png/300px-Ki%27TeerFireworks.png?675ca"
     },
     {
       "itemName": "Deimos Saxum Prex",
       "itemType": "Decoration",
       "credits": 100000,
       "ducats": 75,
-      "date": "2025-05-02T13:00:00.000Z"
+      "date": "2025-05-02T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Prex",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/DeimosSaxumPrex.png/300px-DeimosSaxumPrex.png?baf3c"
     },
     {
       "itemName": "Quanta Aufeis Skin",
       "itemType": "Cosmetic (Weapon)",
       "credits": 300000,
       "ducats": 300,
-      "date": "2025-07-11T13:00:00.000Z"
+      "date": "2025-07-11T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Quanta_Aufeis_Skin",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/QuantaAufeisSkin.png/300px-QuantaAufeisSkin.png?a72ad"
     },
     {
       "itemName": "Nidus Immortal Skin",
       "itemType": "Cosmetic (Warframe Skin)",
       "credits": 100000,
       "ducats": 550,
-      "date": "2025-06-27T13:00:00.000Z"
+      "date": "2025-06-27T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Nidus/Equip",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/NidusImmortalSkin.png/300px-NidusImmortalSkin.png?5dc57"
     },
     {
       "itemName": "Baro Ki'teer Floof",
       "itemType": "Decoration",
       "credits": 125000,
       "ducats": 100,
-      "date": "2025-04-04T13:00:00.000Z"
+      "date": "2025-04-04T13:00:00.000Z",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Floofs",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/BaroKi%27TeerFloof.png/300px-BaroKi%27TeerFloof.png?71ca8"
     }
   ]
 }
