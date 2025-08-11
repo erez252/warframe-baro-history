@@ -1,0 +1,32 @@
+name: Scrape Warframe Wiki
+
+on:
+  schedule:
+    - cron: '0 13 * * 5' # This runs every Friday at 13:00 UTC
+  workflow_dispatch: # Allows manual triggering from the GitHub UI
+
+jobs:
+  scrape-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: npm install puppeteer
+
+      - name: Run scraper
+        run: node scraper.js
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add warframe_data.json
+          git commit -m "chore: Update Warframe wiki data" || echo "No changes to commit"
+          git push
