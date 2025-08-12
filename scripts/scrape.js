@@ -68,7 +68,7 @@ const BASE_URL = 'https://wiki.warframe.com';
           return new Date(Date.UTC(y, m - 1, d, 13, 0, 0)).toISOString(); // 13:00 UTC
         }
         return null; // Return null for any non-conforming date strings
-      }).filter(Boolean); // Filter out any null values
+      }).filter(Boolean).reverse(); // Filter out any null values, then reverse the order
 
       return { itemName, itemType, credits, ducats, dates, wikiURL, wikiThumbnail };
     }).filter(Boolean);
