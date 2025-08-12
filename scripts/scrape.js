@@ -61,8 +61,10 @@ const BASE_URL = 'https://wiki.warframe.com';
       // --- START of the updated date parsing logic ---
       const dateStrings = cells[3].innerText.trim().split('\n').map(s => s.trim()).filter(Boolean);
       const dates = dateStrings.map(dateString => {
-        if (/^\d{4}-\d{2}-\d{2}/.test(dateString)) {
-          const [y, m, d] = dateString.split('-').map(Number);
+        // Use a regex to extract only the YYYY-MM-DD part
+        const match = dateString.match(/^(\d{4}-\d{2}-\d{2})/);
+        if (match) {
+          const [y, m, d] = match[1].split('-').map(Number);
           return new Date(Date.UTC(y, m - 1, d, 13, 0, 0)).toISOString(); // 13:00 UTC
         }
         return null; // Return null for any non-conforming date strings
