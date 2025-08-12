@@ -47,7 +47,16 @@ const BASE_URL = 'https://wiki.warframe.com';
         }
       }
 
-      const itemType = cells[1].innerText.trim();
+      // --- START of the updated logic for itemType and itemSubType ---
+      let itemType = cells[1].innerText.trim();
+      let itemSubType = null;
+      const subtypeMatch = itemType.match(/^(.*)\s+\((.*)\)$/);
+      if (subtypeMatch) {
+        itemType = subtypeMatch[1].trim();
+        itemSubType = subtypeMatch[2].trim();
+      }
+      // --- END of the updated logic ---
+
       const third = cells[2].innerText.trim();
       let credits = null, ducats = null;
       if (third.includes('+')) {
@@ -58,7 +67,6 @@ const BASE_URL = 'https://wiki.warframe.com';
         credits = parseInt(third.replace(/,/g, ''), 10) || null;
       }
 
-      // --- START of the updated date parsing logic ---
       const dateStrings = cells[3].innerText.trim().split('\n').map(s => s.trim()).filter(Boolean);
       const dates = dateStrings.map(dateString => {
         // Use a regex to extract only the YYYY-MM-DD part
@@ -70,7 +78,7 @@ const BASE_URL = 'https://wiki.warframe.com';
         return null; // Return null for any non-conforming date strings
       }).filter(Boolean).reverse(); // Filter out any null values, then reverse the order
 
-      return { itemName, itemType, credits, ducats, dates, wikiURL, wikiThumbnail };
+      return { itemName, itemType, itemSubType, credits, ducats, dates, wikiURL, wikiThumbnail };
     }).filter(Boolean);
   }, BASE_URL);
 
