@@ -1,10 +1,11 @@
 {
-  "scrapedAt": "2025-08-12T08:56:07.152Z",
+  "scrapedAt": "2025-08-12T09:01:45.095Z",
   "source": "https://wiki.warframe.com/w/Baro_Ki%27Teer/Trades",
   "items": [
     {
       "itemName": "Volcanic Edge",
       "itemType": "Mod",
+      "itemSubType": null,
       "credits": 150000,
       "ducats": 300,
       "dates": [
@@ -27,7 +28,8 @@
     },
     {
       "itemName": "Primed Steady Hands",
-      "itemType": "Mod (Primed)",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
       "credits": 220000,
       "ducats": 300,
       "dates": [
@@ -39,7 +41,8 @@
     },
     {
       "itemName": "Ki'teer Arrow Skin",
-      "itemType": "Cosmetic (Weapon)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Weapon",
       "credits": 300000,
       "ducats": 375,
       "dates": [
@@ -77,6 +80,7 @@
     {
       "itemName": "Cutter Fighter Decoration",
       "itemType": "Decoration",
+      "itemSubType": null,
       "credits": 100000,
       "ducats": 100,
       "dates": [
@@ -95,6 +99,7 @@
     {
       "itemName": "Neo O1 Relic",
       "itemType": "Void Relic",
+      "itemSubType": null,
       "credits": 55000,
       "ducats": 125,
       "dates": [
@@ -116,6 +121,7 @@
     {
       "itemName": "The Lotus Eaters Login Music",
       "itemType": "Somachord",
+      "itemSubType": null,
       "credits": 150000,
       "ducats": 165,
       "dates": [
@@ -129,6 +135,7 @@
     {
       "itemName": "Fass Floof",
       "itemType": "Decoration",
+      "itemSubType": null,
       "credits": 125000,
       "ducats": 150,
       "dates": [
@@ -145,7 +152,8 @@
     },
     {
       "itemName": "Right Prisma Edo Knee Plates",
-      "itemType": "Cosmetic (Armor)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Armor",
       "credits": 55000,
       "ducats": 100,
       "dates": [
@@ -187,6 +195,7 @@
     {
       "itemName": "Deimos Carnis Prex",
       "itemType": "Decoration",
+      "itemSubType": null,
       "credits": 100000,
       "ducats": 75,
       "dates": [
@@ -207,6 +216,7 @@
     {
       "itemName": "Flak Fighter Decoration",
       "itemType": "Decoration",
+      "itemSubType": null,
       "credits": 100000,
       "ducats": 100,
       "dates": [
@@ -225,6 +235,7 @@
     {
       "itemName": "Primed Chamber",
       "itemType": "Mod",
+      "itemSubType": null,
       "credits": 1000000,
       "ducats": 2995,
       "dates": [
@@ -237,6 +248,7 @@
     {
       "itemName": "Prova Vandal",
       "itemType": "Weapon",
+      "itemSubType": null,
       "credits": 250000,
       "ducats": 410,
       "dates": [
@@ -275,6 +287,7 @@
     {
       "itemName": "Entrati Eye Glyph",
       "itemType": "Glyph",
+      "itemSubType": null,
       "credits": 1900,
       "ducats": 99,
       "dates": [
@@ -287,6 +300,7 @@
     {
       "itemName": "Ki'teer Tribute Glyph",
       "itemType": "Glyph",
+      "itemSubType": null,
       "credits": 50000,
       "ducats": 80,
       "dates": [
@@ -320,7 +334,8 @@
     },
     {
       "itemName": "Primed Point Blank",
-      "itemType": "Mod (Primed)",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
       "credits": 110000,
       "ducats": 300,
       "dates": [
@@ -357,6 +372,7 @@
     {
       "itemName": "Pedestal Prime",
       "itemType": "Decoration",
+      "itemSubType": null,
       "credits": 1000000,
       "ducats": null,
       "dates": [
@@ -382,6 +398,7 @@
     {
       "itemName": "Deimos Scissus Prex",
       "itemType": "Decoration",
+      "itemSubType": null,
       "credits": 100000,
       "ducats": 75,
       "dates": [
@@ -398,7 +415,8 @@
     },
     {
       "itemName": "Right Prisma Daedalus Knee Plates",
-      "itemType": "Cosmetic (Armor)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Armor",
       "credits": 75000,
       "ducats": 65,
       "dates": [
@@ -440,6 +458,7 @@
     {
       "itemName": "Axi A8 Relic",
       "itemType": "Void Relic",
+      "itemSubType": null,
       "credits": 55000,
       "ducats": 125,
       "dates": [],
@@ -448,7 +467,8 @@
     },
     {
       "itemName": "Empyrean Vignette",
-      "itemType": "Cosmetic (Orbiter)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Orbiter",
       "credits": 200000,
       "ducats": 155,
       "dates": [
@@ -472,6 +492,7 @@
     {
       "itemName": "Prisma Twin Gremlins",
       "itemType": "Weapon",
+      "itemSubType": null,
       "credits": 220000,
       "ducats": 500,
       "dates": [
@@ -504,7 +525,8 @@
     },
     {
       "itemName": "Lunar Renewal Rabbit Emblem",
-      "itemType": "Cosmetic (Emblem)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Emblem",
       "credits": 45000,
       "ducats": 55,
       "dates": [
@@ -521,7 +543,8 @@
     },
     {
       "itemName": "Renayla Sugatra",
-      "itemType": "Cosmetic (Weapon)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Weapon",
       "credits": 250000,
       "ducats": 250,
       "dates": [
@@ -536,7 +559,8 @@
     },
     {
       "itemName": "Kavat Sentinel Tail",
-      "itemType": "Cosmetic (Sentinel)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Sentinel",
       "credits": 250000,
       "ducats": 400,
       "dates": [
@@ -566,6 +590,7 @@
     {
       "itemName": "Noggle Statue - The New War Veso-R",
       "itemType": "Decoration",
+      "itemSubType": null,
       "credits": 300000,
       "ducats": 75,
       "dates": [
@@ -582,7 +607,8 @@
     },
     {
       "itemName": "The Stranger's Hood (Operator)",
-      "itemType": "Cosmetic (Operator)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Operator",
       "credits": 500000,
       "ducats": 550,
       "dates": [
@@ -598,6 +624,7 @@
     {
       "itemName": "Jolt",
       "itemType": "Mod",
+      "itemSubType": null,
       "credits": 150000,
       "ducats": 300,
       "dates": [
@@ -633,6 +660,7 @@
     {
       "itemName": "Inaros Tomb Scene",
       "itemType": "Captura Scene",
+      "itemSubType": null,
       "credits": 175000,
       "ducats": 325,
       "dates": [
@@ -665,6 +693,7 @@
     {
       "itemName": "Prisma Machete",
       "itemType": "Weapon",
+      "itemSubType": null,
       "credits": 200000,
       "ducats": 400,
       "dates": [
@@ -686,7 +715,8 @@
     },
     {
       "itemName": "Ki'teer Moa Pet Skin",
-      "itemType": "Cosmetic (MOA)",
+      "itemType": "Cosmetic",
+      "itemSubType": "MOA",
       "credits": 325000,
       "ducats": 500,
       "dates": [
@@ -704,7 +734,8 @@
     },
     {
       "itemName": "Despair Emblem",
-      "itemType": "Cosmetic (Emblem)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Emblem",
       "credits": 60000,
       "ducats": 55,
       "dates": [
@@ -717,6 +748,7 @@
     {
       "itemName": "Fanged Fusillade",
       "itemType": "Mod",
+      "itemSubType": null,
       "credits": 150000,
       "ducats": 375,
       "dates": [
@@ -751,7 +783,8 @@
     },
     {
       "itemName": "Left Prisma Edo Shoulder Plates",
-      "itemType": "Cosmetic (Armor)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Armor",
       "credits": 55000,
       "ducats": 100,
       "dates": [
@@ -792,6 +825,7 @@
     {
       "itemName": "Deimos Jugulus Prex",
       "itemType": "Decoration",
+      "itemSubType": null,
       "credits": 100000,
       "ducats": 75,
       "dates": [
@@ -812,6 +846,7 @@
     {
       "itemName": "In Mah Belly Glyph",
       "itemType": "Glyph",
+      "itemSubType": null,
       "credits": 50000,
       "ducats": 80,
       "dates": [
@@ -833,7 +868,8 @@
     },
     {
       "itemName": "Left Eos Prime Shoulder Plates",
-      "itemType": "Cosmetic (Armor)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Armor",
       "credits": 75000,
       "ducats": 50,
       "dates": [
@@ -870,6 +906,7 @@
     {
       "itemName": "Ava-Clem Community Glyph",
       "itemType": "Glyph",
+      "itemSubType": null,
       "credits": 33333,
       "ducats": 20,
       "dates": [],
@@ -878,7 +915,8 @@
     },
     {
       "itemName": "Domus Syandana",
-      "itemType": "Cosmetic (Syandana)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Syandana",
       "credits": 400000,
       "ducats": 600,
       "dates": [
@@ -909,7 +947,8 @@
     },
     {
       "itemName": "Blue Ki'teer Safari K-Drive Scrawl",
-      "itemType": "Cosmetic (K-Drive)",
+      "itemType": "Cosmetic",
+      "itemSubType": "K-Drive",
       "credits": 75000,
       "ducats": 75,
       "dates": [
@@ -931,6 +970,7 @@
     {
       "itemName": "Noggle Statue - Octavia",
       "itemType": "Decoration",
+      "itemSubType": null,
       "credits": 275000,
       "ducats": 50,
       "dates": [
@@ -943,7 +983,8 @@
     },
     {
       "itemName": "Primed Morphic Transformer",
-      "itemType": "Mod (Primed)",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
       "credits": 150000,
       "ducats": 350,
       "dates": [
@@ -974,7 +1015,8 @@
     },
     {
       "itemName": "Transmuter Operator Hood",
-      "itemType": "Cosmetic (Operator)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Operator",
       "credits": 450000,
       "ducats": 450,
       "dates": [
@@ -998,6 +1040,7 @@
     {
       "itemName": "Mahd Luxxum Ornament",
       "itemType": "Decoration",
+      "itemSubType": null,
       "credits": 100000,
       "ducats": 100,
       "dates": [
@@ -1018,7 +1061,8 @@
     },
     {
       "itemName": "Lunar Renewal Dragon Emblem",
-      "itemType": "Cosmetic (Emblem)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Emblem",
       "credits": 45000,
       "ducats": 55,
       "dates": [
@@ -1033,7 +1077,8 @@
     },
     {
       "itemName": "Primed Target Cracker",
-      "itemType": "Mod (Primed)",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
       "credits": 150000,
       "ducats": 400,
       "dates": [
@@ -1069,7 +1114,8 @@
     },
     {
       "itemName": "Tigris Elixis Skin",
-      "itemType": "Cosmetic (Weapon)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Weapon",
       "credits": 275000,
       "ducats": 300,
       "dates": [
@@ -1100,6 +1146,7 @@
     {
       "itemName": "3 Day Affinity Booster",
       "itemType": "Booster",
+      "itemSubType": null,
       "credits": 200000,
       "ducats": 450,
       "dates": [
@@ -1143,7 +1190,8 @@
     },
     {
       "itemName": "Masker's Theodolite Crewsuit Leggings",
-      "itemType": "Cosmetic (Operator)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Operator",
       "credits": 275000,
       "ducats": 300,
       "dates": [
@@ -1160,7 +1208,8 @@
     },
     {
       "itemName": "Primed Dual Rounds",
-      "itemType": "Mod (Primed)",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
       "credits": 250000,
       "ducats": 400,
       "dates": [
@@ -1174,7 +1223,8 @@
     },
     {
       "itemName": "Prisma Yamako Syandana",
-      "itemType": "Cosmetic (Syandana)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Syandana",
       "credits": 250000,
       "ducats": 400,
       "dates": [
@@ -1216,6 +1266,7 @@
     {
       "itemName": "Deimos Flagellocanth Prex",
       "itemType": "Decoration",
+      "itemSubType": null,
       "credits": 100000,
       "ducats": 75,
       "dates": [
@@ -1236,7 +1287,8 @@
     },
     {
       "itemName": "De Nas Pistol Skin",
-      "itemType": "Cosmetic (Weapon)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Weapon",
       "credits": 300000,
       "ducats": 400,
       "dates": [
@@ -1254,7 +1306,8 @@
     },
     {
       "itemName": "Liset Prisma Skin",
-      "itemType": "Cosmetic (Landing Craft)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Landing Craft",
       "credits": 150000,
       "ducats": 120,
       "dates": [
@@ -1292,7 +1345,8 @@
     },
     {
       "itemName": "Prisma Latron Chest Plate",
-      "itemType": "Cosmetic (Armor)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Armor",
       "credits": 200000,
       "ducats": 275,
       "dates": [
@@ -1318,7 +1372,8 @@
     },
     {
       "itemName": "Volatile Ogris Skin",
-      "itemType": "Cosmetic (Weapon)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Weapon",
       "credits": 325000,
       "ducats": 350,
       "dates": [
@@ -1329,7 +1384,8 @@
     },
     {
       "itemName": "Pyra Sugatra",
-      "itemType": "Cosmetic (Weapon)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Weapon",
       "credits": 200000,
       "ducats": 100,
       "dates": [
@@ -1369,6 +1425,7 @@
     {
       "itemName": "Prisma Dual Cleavers",
       "itemType": "Weapon",
+      "itemSubType": null,
       "credits": 200000,
       "ducats": 490,
       "dates": [
@@ -1405,7 +1462,8 @@
     },
     {
       "itemName": "Prisma Lotus Flame Sigil",
-      "itemType": "Cosmetic (Sigil)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Sigil",
       "credits": 60000,
       "ducats": 55,
       "dates": [
@@ -1419,6 +1477,7 @@
     {
       "itemName": "Empyrean Login Music",
       "itemType": "Somachord",
+      "itemSubType": null,
       "credits": 155000,
       "ducats": 160,
       "dates": [
@@ -1430,7 +1489,8 @@
     },
     {
       "itemName": "Lemnas Staff Skin",
-      "itemType": "Cosmetic (Weapon)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Weapon",
       "credits": 275000,
       "ducats": 350,
       "dates": [
@@ -1453,6 +1513,7 @@
     {
       "itemName": "Falcon Mod Pack",
       "itemType": "Pack",
+      "itemSubType": null,
       "credits": 50000,
       "ducats": 250,
       "dates": [
@@ -1472,7 +1533,8 @@
     },
     {
       "itemName": "Primed Magazine Warp",
-      "itemType": "Mod (Primed)",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
       "credits": 200000,
       "ducats": 280,
       "dates": [
@@ -1493,7 +1555,8 @@
     },
     {
       "itemName": "Ki'teer Cornu Diadem",
-      "itemType": "Cosmetic (Operator)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Operator",
       "credits": 375000,
       "ducats": 525,
       "dates": [
@@ -1525,7 +1588,8 @@
     },
     {
       "itemName": "Ki'teer Sekhara",
-      "itemType": "Cosmetic (Sigil)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Sigil",
       "credits": 200000,
       "ducats": 400,
       "dates": [
@@ -1560,6 +1624,7 @@
     {
       "itemName": "Ki'teer Presence",
       "itemType": "Emote",
+      "itemSubType": null,
       "credits": 1000000,
       "ducats": null,
       "dates": [
@@ -1591,7 +1656,8 @@
     },
     {
       "itemName": "Primed Cleanse Corpus",
-      "itemType": "Mod (Primed)",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
       "credits": 140000,
       "ducats": 350,
       "dates": [
@@ -1611,6 +1677,7 @@
     {
       "itemName": "Orokin Tower Extraction Scene",
       "itemType": "Captura Scene",
+      "itemSubType": null,
       "credits": 175000,
       "ducats": 325,
       "dates": [
@@ -1637,7 +1704,8 @@
     },
     {
       "itemName": "Ki'teer Kavat Armor",
-      "itemType": "Cosmetic (Kavat)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Kavat",
       "credits": 275000,
       "ducats": 500,
       "dates": [
@@ -1672,7 +1740,8 @@
     },
     {
       "itemName": "Baruuk Immortal Skin",
-      "itemType": "Cosmetic (Warframe Skin)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Warframe Skin",
       "credits": 100000,
       "ducats": 550,
       "dates": [
@@ -1688,7 +1757,8 @@
     },
     {
       "itemName": "Paracesis Elixis Skin",
-      "itemType": "Cosmetic (Weapon)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Weapon",
       "credits": 350000,
       "ducats": 350,
       "dates": [
@@ -1717,7 +1787,8 @@
     },
     {
       "itemName": "Harkonar Wraith Leg Armor",
-      "itemType": "Cosmetic (Armor)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Armor",
       "credits": 150000,
       "ducats": 350,
       "dates": [
@@ -1744,7 +1815,8 @@
     },
     {
       "itemName": "Harkonar Wraith Chest Armor",
-      "itemType": "Cosmetic (Armor)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Armor",
       "credits": 250000,
       "ducats": 300,
       "dates": [
@@ -1771,7 +1843,8 @@
     },
     {
       "itemName": "Scimitar Cydonia Skin",
-      "itemType": "Cosmetic (Landing Craft)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Landing Craft",
       "credits": 340000,
       "ducats": 375,
       "dates": [
@@ -1802,6 +1875,7 @@
     {
       "itemName": "Javi Evolution Scrawling",
       "itemType": "Decoration",
+      "itemSubType": null,
       "credits": 100000,
       "ducats": 90,
       "dates": [
@@ -1814,7 +1888,8 @@
     },
     {
       "itemName": "Prisma Latron Leg Plate",
-      "itemType": "Cosmetic (Armor)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Armor",
       "credits": 175000,
       "ducats": 300,
       "dates": [
@@ -1840,7 +1915,8 @@
     },
     {
       "itemName": "Ki'teer Earpiece",
-      "itemType": "Cosmetic (Operator)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Operator",
       "credits": 400000,
       "ducats": 500,
       "dates": [
@@ -1883,7 +1959,8 @@
     },
     {
       "itemName": "Ki'teer Diax Syandana",
-      "itemType": "Cosmetic (Syandana)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Syandana",
       "credits": 450000,
       "ducats": 325,
       "dates": [
@@ -1925,7 +2002,8 @@
     },
     {
       "itemName": "Ki'teer Greth Leg Plates",
-      "itemType": "Cosmetic (Armor)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Armor",
       "credits": 350000,
       "ducats": 400,
       "dates": [
@@ -1947,6 +2025,7 @@
     {
       "itemName": "Harpi Fighter Decoration",
       "itemType": "Decoration",
+      "itemSubType": null,
       "credits": 100000,
       "ducats": 100,
       "dates": [
@@ -1963,6 +2042,7 @@
     {
       "itemName": "Abyss of Dagath Login Music",
       "itemType": "Somachord",
+      "itemSubType": null,
       "credits": 155000,
       "ducats": 150,
       "dates": [
@@ -1975,6 +2055,7 @@
     {
       "itemName": "Eminence",
       "itemType": "Color Palette",
+      "itemSubType": null,
       "credits": 220000,
       "ducats": 220,
       "dates": [
@@ -2004,7 +2085,8 @@
     },
     {
       "itemName": "Ki'teer Razza Syandana",
-      "itemType": "Cosmetic (Syandana)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Syandana",
       "credits": 350000,
       "ducats": 400,
       "dates": [
@@ -2043,6 +2125,7 @@
     {
       "itemName": "Desert Skate Floof",
       "itemType": "Decoration",
+      "itemSubType": null,
       "credits": 100000,
       "ducats": 125,
       "dates": [
@@ -2064,7 +2147,8 @@
     },
     {
       "itemName": "Exo-Sac Archwing Skin",
-      "itemType": "Cosmetic (Archwing)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Archwing",
       "credits": 300000,
       "ducats": 400,
       "dates": [
@@ -2084,7 +2168,8 @@
     },
     {
       "itemName": "Mulciber Chest Plate",
-      "itemType": "Cosmetic (Armor)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Armor",
       "credits": 250000,
       "ducats": 325,
       "dates": [
@@ -2108,6 +2193,7 @@
     {
       "itemName": "Axi V8 Relic",
       "itemType": "Void Relic",
+      "itemSubType": null,
       "credits": 55000,
       "ducats": 125,
       "dates": [
@@ -2137,7 +2223,8 @@
     },
     {
       "itemName": "Primed Cleanse Grineer",
-      "itemType": "Mod (Primed)",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
       "credits": 140000,
       "ducats": 350,
       "dates": [
@@ -2159,6 +2246,7 @@
     {
       "itemName": "Flare Varleon & Lizzie Poster Display",
       "itemType": "Decoration",
+      "itemSubType": null,
       "credits": 125000,
       "ducats": 90,
       "dates": [],
@@ -2167,7 +2255,8 @@
     },
     {
       "itemName": "Ki'teer Atmos Diadem",
-      "itemType": "Cosmetic (Operator)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Operator",
       "credits": 375000,
       "ducats": 525,
       "dates": [
@@ -2205,7 +2294,8 @@
     },
     {
       "itemName": "Primed Cleanse Orokin",
-      "itemType": "Mod (Primed)",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
       "credits": 140000,
       "ducats": 350,
       "dates": [
@@ -2225,6 +2315,7 @@
     {
       "itemName": "High Voltage",
       "itemType": "Mod",
+      "itemSubType": null,
       "credits": 150000,
       "ducats": 300,
       "dates": [
@@ -2255,7 +2346,8 @@
     },
     {
       "itemName": "Ki'teer Ephemera",
-      "itemType": "Cosmetic (Ephemera)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Ephemera",
       "credits": 150000,
       "ducats": 100,
       "dates": [
@@ -2279,7 +2371,8 @@
     },
     {
       "itemName": "Right Eos Prime Spurs",
-      "itemType": "Cosmetic (Armor)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Armor",
       "credits": 50000,
       "ducats": 65,
       "dates": [
@@ -2316,6 +2409,7 @@
     {
       "itemName": "Prisma Kavat Glyph",
       "itemType": "Glyph",
+      "itemSubType": null,
       "credits": 50000,
       "ducats": 80,
       "dates": [
@@ -2348,7 +2442,8 @@
     },
     {
       "itemName": "Primed Pressure Point",
-      "itemType": "Mod (Primed)",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
       "credits": 300000,
       "ducats": 385,
       "dates": [
@@ -2382,7 +2477,8 @@
     },
     {
       "itemName": "Astral Twilight",
-      "itemType": "Mod (Stance)",
+      "itemType": "Mod",
+      "itemSubType": "Stance",
       "credits": 175000,
       "ducats": 385,
       "dates": [
@@ -2412,6 +2508,7 @@
     {
       "itemName": "5 x Corrupted Heavy Gunner Specter",
       "itemType": "Consumable",
+      "itemSubType": null,
       "credits": 40000,
       "ducats": 100,
       "dates": [
@@ -2439,7 +2536,8 @@
     },
     {
       "itemName": "Primed Bane of Infested",
-      "itemType": "Mod (Primed)",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
       "credits": 140000,
       "ducats": 400,
       "dates": [
@@ -2467,6 +2565,7 @@
     {
       "itemName": "Zylok",
       "itemType": "Weapon",
+      "itemSubType": null,
       "credits": 200000,
       "ducats": 500,
       "dates": [
@@ -2491,7 +2590,8 @@
     },
     {
       "itemName": "Opticor Elixis Skin",
-      "itemType": "Cosmetic (Weapon)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Weapon",
       "credits": 250000,
       "ducats": 325,
       "dates": [
@@ -2525,7 +2625,8 @@
     },
     {
       "itemName": "Zephyr Immortal Skin",
-      "itemType": "Cosmetic (Warframe Skin)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Warframe Skin",
       "credits": 100000,
       "ducats": 550,
       "dates": [
@@ -2557,6 +2658,7 @@
     {
       "itemName": "Zanuka Hunter Beacon",
       "itemType": "Consumable",
+      "itemSubType": null,
       "credits": 125000,
       "ducats": 200,
       "dates": [
@@ -2599,7 +2701,8 @@
     },
     {
       "itemName": "Condrix Sigil",
-      "itemType": "Cosmetic (Sigil)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Sigil",
       "credits": 45000,
       "ducats": 45,
       "dates": [
@@ -2613,6 +2716,7 @@
     {
       "itemName": "Zag Luxxum Ornament",
       "itemType": "Decoration",
+      "itemSubType": null,
       "credits": 100000,
       "ducats": 100,
       "dates": [
@@ -2631,7 +2735,8 @@
     },
     {
       "itemName": "Xiphos Prisma Skin",
-      "itemType": "Cosmetic (Landing Craft)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Landing Craft",
       "credits": 400000,
       "ducats": 220,
       "dates": [
@@ -2667,7 +2772,8 @@
     },
     {
       "itemName": "Primed Flow",
-      "itemType": "Mod (Primed)",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
       "credits": 110000,
       "ducats": 350,
       "dates": [
@@ -2703,7 +2809,8 @@
     },
     {
       "itemName": "Gara Immortal Skin",
-      "itemType": "Cosmetic (Warframe Skin)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Warframe Skin",
       "credits": 100000,
       "ducats": 550,
       "dates": [
@@ -2724,6 +2831,7 @@
     {
       "itemName": "Peculiar Audience",
       "itemType": "Mod",
+      "itemSubType": null,
       "credits": 200000,
       "ducats": 250,
       "dates": [
@@ -2743,7 +2851,8 @@
     },
     {
       "itemName": "Javi's Scrawling",
-      "itemType": "Cosmetic (Orbiter)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Orbiter",
       "credits": 200000,
       "ducats": 275,
       "dates": [
@@ -2759,7 +2868,8 @@
     },
     {
       "itemName": "Eos Prime Chest Plate",
-      "itemType": "Cosmetic (Armor)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Armor",
       "credits": 75000,
       "ducats": 125,
       "dates": [
@@ -2796,6 +2906,7 @@
     {
       "itemName": "Asra Luxxum Ornament",
       "itemType": "Decoration",
+      "itemSubType": null,
       "credits": 100000,
       "ducats": 100,
       "dates": [
@@ -2815,7 +2926,8 @@
     },
     {
       "itemName": "Primed Smite Corpus",
-      "itemType": "Mod (Primed)",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
       "credits": 140000,
       "ducats": 350,
       "dates": [
@@ -2835,7 +2947,8 @@
     },
     {
       "itemName": "Masker's Theodolite Crewsuit Sleeves",
-      "itemType": "Cosmetic (Operator)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Operator",
       "credits": 275000,
       "ducats": 300,
       "dates": [
@@ -2852,7 +2965,8 @@
     },
     {
       "itemName": "Tannukai Leg Plates",
-      "itemType": "Cosmetic (Armor)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Armor",
       "credits": 115000,
       "ducats": 275,
       "dates": [
@@ -2871,6 +2985,7 @@
     {
       "itemName": "Sands of Inaros Blueprint",
       "itemType": "Quest",
+      "itemSubType": null,
       "credits": 25000,
       "ducats": 100,
       "dates": [],
@@ -2879,7 +2994,8 @@
     },
     {
       "itemName": "Prisma Hecate Syandana",
-      "itemType": "Cosmetic (Syandana)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Syandana",
       "credits": 300000,
       "ducats": 250,
       "dates": [
@@ -2924,6 +3040,7 @@
     {
       "itemName": "Prisma Gorgon",
       "itemType": "Weapon",
+      "itemSubType": null,
       "credits": 50000,
       "ducats": 600,
       "dates": [
@@ -2963,7 +3080,8 @@
     },
     {
       "itemName": "Ki'teer Sentinel Wings",
-      "itemType": "Cosmetic (Sentinel)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Sentinel",
       "credits": 250000,
       "ducats": 400,
       "dates": [
@@ -2999,6 +3117,7 @@
     {
       "itemName": "Machete Wraith",
       "itemType": "Weapon",
+      "itemSubType": null,
       "credits": 250000,
       "ducats": 410,
       "dates": [
@@ -3034,7 +3153,8 @@
     },
     {
       "itemName": "Pack Leader Sigil",
-      "itemType": "Cosmetic (Sigil)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Sigil",
       "credits": 45000,
       "ducats": 55,
       "dates": [
@@ -3062,7 +3182,8 @@
     },
     {
       "itemName": "Wysar Day of the Dead Kavat Armor",
-      "itemType": "Cosmetic (Kavat)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Kavat",
       "credits": 175000,
       "ducats": 400,
       "dates": [
@@ -3090,7 +3211,8 @@
     },
     {
       "itemName": "Odonata Elixis Skin",
-      "itemType": "Cosmetic (Archwing)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Archwing",
       "credits": 250000,
       "ducats": 350,
       "dates": [
@@ -3119,6 +3241,7 @@
     {
       "itemName": "Mara Detron",
       "itemType": "Weapon",
+      "itemSubType": null,
       "credits": 200000,
       "ducats": 500,
       "dates": [
@@ -3158,6 +3281,7 @@
     {
       "itemName": "Noggle Statue - The New War Teshin",
       "itemType": "Decoration",
+      "itemSubType": null,
       "credits": 300000,
       "ducats": 75,
       "dates": [
@@ -3174,7 +3298,8 @@
     },
     {
       "itemName": "Wisp Immortal Skin",
-      "itemType": "Cosmetic (Warframe Skin)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Warframe Skin",
       "credits": 100000,
       "ducats": 550,
       "dates": [
@@ -3190,7 +3315,8 @@
     },
     {
       "itemName": "Wintercress Syandana",
-      "itemType": "Cosmetic (Syandana)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Syandana",
       "credits": 275000,
       "ducats": 325,
       "dates": [
@@ -3214,6 +3340,7 @@
     {
       "itemName": "Reshantur Child's Tablet",
       "itemType": "Decoration",
+      "itemSubType": null,
       "credits": 100000,
       "ducats": 100,
       "dates": [
@@ -3229,6 +3356,7 @@
     {
       "itemName": "Whispers in the Walls Login Music",
       "itemType": "Somachord",
+      "itemSubType": null,
       "credits": 170000,
       "ducats": 165,
       "dates": [
@@ -3240,7 +3368,8 @@
     },
     {
       "itemName": "Primed Expel Grineer",
-      "itemType": "Mod (Primed)",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
       "credits": 140000,
       "ducats": 350,
       "dates": [
@@ -3261,6 +3390,7 @@
     {
       "itemName": "Split Flights",
       "itemType": "Mod",
+      "itemSubType": null,
       "credits": 200000,
       "ducats": 300,
       "dates": [
@@ -3280,7 +3410,8 @@
     },
     {
       "itemName": "Dual Sword Lemnas Skin",
-      "itemType": "Cosmetic (Weapon)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Weapon",
       "credits": 300000,
       "ducats": 350,
       "dates": [
@@ -3300,6 +3431,7 @@
     {
       "itemName": "Weaver Fighter Decoration",
       "itemType": "Decoration",
+      "itemSubType": null,
       "credits": 100000,
       "ducats": 100,
       "dates": [
@@ -3314,6 +3446,7 @@
     {
       "itemName": "3 Day Resource Booster",
       "itemType": "Booster",
+      "itemSubType": null,
       "credits": 150000,
       "ducats": 400,
       "dates": [
@@ -3356,7 +3489,8 @@
     },
     {
       "itemName": "Left Elixis Latron Shoulder Plate",
-      "itemType": "Cosmetic (Armor)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Armor",
       "credits": 220000,
       "ducats": 325,
       "dates": [],
@@ -3366,6 +3500,7 @@
     {
       "itemName": "Vulkar Wraith",
       "itemType": "Weapon",
+      "itemSubType": null,
       "credits": 300000,
       "ducats": 450,
       "dates": [
@@ -3396,7 +3531,8 @@
     },
     {
       "itemName": "Chroma Immortal Skin",
-      "itemType": "Cosmetic (Warframe Skin)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Warframe Skin",
       "credits": 100000,
       "ducats": 550,
       "dates": [
@@ -3422,6 +3558,7 @@
     {
       "itemName": "Voruna in Action Glyph",
       "itemType": "Glyph",
+      "itemSubType": null,
       "credits": 60000,
       "ducats": 75,
       "dates": [
@@ -3434,6 +3571,7 @@
     {
       "itemName": "Vome-Fass Glyph",
       "itemType": "Glyph",
+      "itemSubType": null,
       "credits": 50000,
       "ducats": 80,
       "dates": [
@@ -3458,6 +3596,7 @@
     {
       "itemName": "Vome Floof",
       "itemType": "Decoration",
+      "itemSubType": null,
       "credits": 125000,
       "ducats": 150,
       "dates": [
@@ -3477,6 +3616,7 @@
     {
       "itemName": "Domestik Dais Drone",
       "itemType": "Decoration",
+      "itemSubType": null,
       "credits": 650000,
       "ducats": 800,
       "dates": [
@@ -3491,6 +3631,7 @@
     {
       "itemName": "Pummel",
       "itemType": "Mod",
+      "itemSubType": null,
       "credits": 150000,
       "ducats": 300,
       "dates": [
@@ -3518,6 +3659,7 @@
     {
       "itemName": "Axi A2 Relic",
       "itemType": "Void Relic",
+      "itemSubType": null,
       "credits": 45000,
       "ducats": 50,
       "dates": [
@@ -3550,6 +3692,7 @@
     {
       "itemName": "Jade Shadows Login Music",
       "itemType": "Somachord",
+      "itemSubType": null,
       "credits": 170000,
       "ducats": 150,
       "dates": [
@@ -3560,7 +3703,8 @@
     },
     {
       "itemName": "Elixis Latron Pistol Skin",
-      "itemType": "Cosmetic (Weapon)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Weapon",
       "credits": 215000,
       "ducats": 400,
       "dates": [
@@ -3584,7 +3728,8 @@
     },
     {
       "itemName": "Primed Shotgun Ammo Mutation",
-      "itemType": "Mod (Primed)",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
       "credits": 140000,
       "ducats": 400,
       "dates": [
@@ -3612,6 +3757,7 @@
     {
       "itemName": "Rathuum Display",
       "itemType": "Decoration",
+      "itemSubType": null,
       "credits": 125000,
       "ducats": 90,
       "dates": [
@@ -3623,7 +3769,8 @@
     },
     {
       "itemName": "Primed Sniper Ammo Mutation",
-      "itemType": "Mod (Primed)",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
       "credits": 140000,
       "ducats": 400,
       "dates": [
@@ -3639,7 +3786,8 @@
     },
     {
       "itemName": "Primed Regen",
-      "itemType": "Mod (Primed)",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
       "credits": 220000,
       "ducats": 300,
       "dates": [
@@ -3670,6 +3818,7 @@
     {
       "itemName": "Viper Wraith",
       "itemType": "Weapon",
+      "itemSubType": null,
       "credits": 75000,
       "ducats": 400,
       "dates": [
@@ -3703,6 +3852,7 @@
     {
       "itemName": "Void Angel Glyph",
       "itemType": "Glyph",
+      "itemSubType": null,
       "credits": 50000,
       "ducats": 80,
       "dates": [
@@ -3715,6 +3865,7 @@
     {
       "itemName": "3 Day Mod Drop Chance Booster",
       "itemType": "Booster",
+      "itemSubType": null,
       "credits": 175000,
       "ducats": 500,
       "dates": [
@@ -3738,7 +3889,8 @@
     },
     {
       "itemName": "Fae Path Ephemera",
-      "itemType": "Cosmetic (Ephemera)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Ephemera",
       "credits": 1000,
       "ducats": 15,
       "dates": [],
@@ -3747,7 +3899,8 @@
     },
     {
       "itemName": "Eos Prime Armor Set",
-      "itemType": "Cosmetic (Armor)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Armor",
       "credits": 260000,
       "ducats": 285,
       "dates": [
@@ -3781,6 +3934,7 @@
     {
       "itemName": "Void Surplus",
       "itemType": "Pack",
+      "itemSubType": null,
       "credits": 50000,
       "ducats": null,
       "dates": [],
@@ -3790,6 +3944,7 @@
     {
       "itemName": "Vez Luxxum Ornament",
       "itemType": "Decoration",
+      "itemSubType": null,
       "credits": 100000,
       "ducats": 100,
       "dates": [
@@ -3810,6 +3965,7 @@
     {
       "itemName": "Dvad Luxxum Ornament",
       "itemType": "Decoration",
+      "itemSubType": null,
       "credits": 100000,
       "ducats": 100,
       "dates": [
@@ -3830,7 +3986,8 @@
     },
     {
       "itemName": "Altra Sentinel Mask",
-      "itemType": "Cosmetic (Sentinel)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Sentinel",
       "credits": 400000,
       "ducats": 450,
       "dates": [
@@ -3844,7 +4001,8 @@
     },
     {
       "itemName": "Vermillion Storm",
-      "itemType": "Mod (Stance)",
+      "itemType": "Mod",
+      "itemSubType": "Stance",
       "credits": 175000,
       "ducats": 385,
       "dates": [
@@ -3877,6 +4035,7 @@
     {
       "itemName": "Don't Be Afraid Poster",
       "itemType": "Decoration",
+      "itemSubType": null,
       "credits": 110000,
       "ducats": 100,
       "dates": [
@@ -3891,7 +4050,8 @@
     },
     {
       "itemName": "Tannukai Chest Plate",
-      "itemType": "Cosmetic (Armor)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Armor",
       "credits": 150000,
       "ducats": 300,
       "dates": [
@@ -3909,7 +4069,8 @@
     },
     {
       "itemName": "Primed Ammo Stock",
-      "itemType": "Mod (Primed)",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
       "credits": 200000,
       "ducats": 280,
       "dates": [
@@ -3929,6 +4090,7 @@
     {
       "itemName": "Puspa Luxxum Ornament",
       "itemType": "Decoration",
+      "itemSubType": null,
       "credits": 100000,
       "ducats": 100,
       "dates": [
@@ -3949,6 +4111,7 @@
     {
       "itemName": "Vastilok",
       "itemType": "Weapon",
+      "itemSubType": null,
       "credits": 325000,
       "ducats": 550,
       "dates": [
@@ -3970,7 +4133,8 @@
     },
     {
       "itemName": "Primed Chilling Grasp",
-      "itemType": "Mod (Primed)",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
       "credits": 125000,
       "ducats": 350,
       "dates": [
@@ -3991,6 +4155,7 @@
     {
       "itemName": "Cookie Kubrow Glyph",
       "itemType": "Glyph",
+      "itemSubType": null,
       "credits": 50000,
       "ducats": 80,
       "dates": [
@@ -4019,7 +4184,8 @@
     },
     {
       "itemName": "Ki'teer Leg Plates",
-      "itemType": "Cosmetic (Armor)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Armor",
       "credits": 150000,
       "ducats": 300,
       "dates": [
@@ -4055,6 +4221,7 @@
     {
       "itemName": "Ki'teer",
       "itemType": "Color Palette",
+      "itemSubType": null,
       "credits": 300000,
       "ducats": 150,
       "dates": [
@@ -4086,7 +4253,8 @@
     },
     {
       "itemName": "Prisma Avia Chest Plate",
-      "itemType": "Cosmetic (Armor)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Armor",
       "credits": 220000,
       "ducats": 250,
       "dates": [
@@ -4117,6 +4285,7 @@
     {
       "itemName": "Prisma Lenz",
       "itemType": "Weapon",
+      "itemSubType": null,
       "credits": 200000,
       "ducats": 575,
       "dates": [
@@ -4134,7 +4303,8 @@
     },
     {
       "itemName": "Twin Grakatas Towsun Skin",
-      "itemType": "Cosmetic (Weapon)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Weapon",
       "credits": 300000,
       "ducats": 300,
       "dates": [
@@ -4169,7 +4339,8 @@
     },
     {
       "itemName": "Tiberon Elixis Skin",
-      "itemType": "Cosmetic (Weapon)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Weapon",
       "credits": 275000,
       "ducats": 315,
       "dates": [
@@ -4193,6 +4364,7 @@
     {
       "itemName": "Thermite Rounds",
       "itemType": "Mod",
+      "itemSubType": null,
       "credits": 150000,
       "ducats": 300,
       "dates": [
@@ -4216,6 +4388,7 @@
     {
       "itemName": "The Old Blood Login Music",
       "itemType": "Somachord",
+      "itemSubType": null,
       "credits": 170000,
       "ducats": 140,
       "dates": [
@@ -4227,6 +4400,7 @@
     {
       "itemName": "The New War Login Music",
       "itemType": "Somachord",
+      "itemSubType": null,
       "credits": 160000,
       "ducats": 145,
       "dates": [
@@ -4238,6 +4412,7 @@
     {
       "itemName": "Collision Force",
       "itemType": "Mod",
+      "itemSubType": null,
       "credits": 250000,
       "ducats": 400,
       "dates": [
@@ -4264,7 +4439,8 @@
     },
     {
       "itemName": "Prisma Thrax Sigil",
-      "itemType": "Cosmetic (Sigil)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Sigil",
       "credits": 55000,
       "ducats": 50,
       "dates": [
@@ -4279,7 +4455,8 @@
     },
     {
       "itemName": "Ki'teer Syandana",
-      "itemType": "Cosmetic (Syandana)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Syandana",
       "credits": 500000,
       "ducats": 500,
       "dates": [
@@ -4316,7 +4493,8 @@
     },
     {
       "itemName": "Primed Ravage",
-      "itemType": "Mod (Primed)",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
       "credits": 100000,
       "ducats": 280,
       "dates": [
@@ -4352,6 +4530,7 @@
     {
       "itemName": "Dragon Mod Pack",
       "itemType": "Pack",
+      "itemSubType": null,
       "credits": 100000,
       "ducats": 500,
       "dates": [
@@ -4372,6 +4551,7 @@
     {
       "itemName": "3 Day Credit Booster",
       "itemType": "Booster",
+      "itemSubType": null,
       "credits": 75000,
       "ducats": 350,
       "dates": [
@@ -4416,7 +4596,8 @@
     },
     {
       "itemName": "Kavat Sentinel Wings",
-      "itemType": "Cosmetic (Sentinel)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Sentinel",
       "credits": 250000,
       "ducats": 400,
       "dates": [
@@ -4445,7 +4626,8 @@
     },
     {
       "itemName": "Limbo Immortal Skin",
-      "itemType": "Cosmetic (Warframe Skin)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Warframe Skin",
       "credits": 100000,
       "ducats": 550,
       "dates": [
@@ -4472,6 +4654,7 @@
     {
       "itemName": "Gotva Prime",
       "itemType": "Weapon",
+      "itemSubType": null,
       "credits": 625000,
       "ducats": 675,
       "dates": [
@@ -4486,7 +4669,8 @@
     },
     {
       "itemName": "Tempo Royale",
-      "itemType": "Mod (Stance)",
+      "itemType": "Mod",
+      "itemSubType": "Stance",
       "credits": 175000,
       "ducats": 385,
       "dates": [
@@ -4522,6 +4706,7 @@
     {
       "itemName": "Display - Argyle",
       "itemType": "Decoration",
+      "itemSubType": null,
       "credits": 75000,
       "ducats": 100,
       "dates": [
@@ -4549,6 +4734,7 @@
     {
       "itemName": "Vericres",
       "itemType": "Weapon",
+      "itemSubType": null,
       "credits": 200000,
       "ducats": 410,
       "dates": [
@@ -4565,7 +4751,8 @@
     },
     {
       "itemName": "Prisma Jet Sentinel Wings",
-      "itemType": "Cosmetic (Sentinel)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Sentinel",
       "credits": 200000,
       "ducats": 300,
       "dates": [
@@ -4602,6 +4789,7 @@
     {
       "itemName": "Excalibur Proto-Armor in Action Glyph",
       "itemType": "Glyph",
+      "itemSubType": null,
       "credits": 60000,
       "ducats": 75,
       "dates": [
@@ -4614,7 +4802,8 @@
     },
     {
       "itemName": "Paracyst Zebra Skin",
-      "itemType": "Cosmetic (Weapon)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Weapon",
       "credits": 300000,
       "ducats": 325,
       "dates": [
@@ -4629,6 +4818,7 @@
     {
       "itemName": "Techrot Glyph",
       "itemType": "Glyph",
+      "itemSubType": null,
       "credits": 1901,
       "ducats": 98,
       "dates": [
@@ -4639,7 +4829,8 @@
     },
     {
       "itemName": "Taxon Desert-Camo Skin",
-      "itemType": "Cosmetic (Sentinel)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Sentinel",
       "credits": 150000,
       "ducats": 200,
       "dates": [
@@ -4669,6 +4860,7 @@
     {
       "itemName": "Sima Luxxum Ornament",
       "itemType": "Decoration",
+      "itemSubType": null,
       "credits": 100000,
       "ducats": 100,
       "dates": [
@@ -4689,6 +4881,7 @@
     {
       "itemName": "Noggle Statue - Mag with Itzal",
       "itemType": "Decoration",
+      "itemSubType": null,
       "credits": 200000,
       "ducats": 90,
       "dates": [
@@ -4700,7 +4893,8 @@
     },
     {
       "itemName": "Right Prisma Daedalus Shoulder Guard",
-      "itemType": "Cosmetic (Armor)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Armor",
       "credits": 75000,
       "ducats": 65,
       "dates": [
@@ -4741,7 +4935,8 @@
     },
     {
       "itemName": "Glaring Emblem",
-      "itemType": "Cosmetic (Emblem)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Emblem",
       "credits": 50000,
       "ducats": 50,
       "dates": [
@@ -4768,6 +4963,7 @@
     {
       "itemName": "Taktis Fighter Decoration",
       "itemType": "Decoration",
+      "itemSubType": null,
       "credits": 100000,
       "ducats": 100,
       "dates": [
@@ -4785,7 +4981,8 @@
     },
     {
       "itemName": "Prisma Arrows",
-      "itemType": "Cosmetic (Weapon)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Weapon",
       "credits": 75000,
       "ducats": 350,
       "dates": [
@@ -4828,6 +5025,7 @@
     {
       "itemName": "Prisma Lotus Glyph",
       "itemType": "Glyph",
+      "itemSubType": null,
       "credits": 50000,
       "ducats": 80,
       "dates": [
@@ -4855,6 +5053,7 @@
     {
       "itemName": "Supra Vandal",
       "itemType": "Weapon",
+      "itemSubType": null,
       "credits": 275000,
       "ducats": 500,
       "dates": [
@@ -4883,7 +5082,8 @@
     },
     {
       "itemName": "Ignis Towsun Skin",
-      "itemType": "Cosmetic (Weapon)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Weapon",
       "credits": 300000,
       "ducats": 300,
       "dates": [
@@ -4910,7 +5110,8 @@
     },
     {
       "itemName": "Primed Expel Infested",
-      "itemType": "Mod (Primed)",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
       "credits": 140000,
       "ducats": 350,
       "dates": [
@@ -4931,6 +5132,7 @@
     {
       "itemName": "Stalker Beacon",
       "itemType": "Consumable",
+      "itemSubType": null,
       "credits": 125000,
       "ducats": 200,
       "dates": [
@@ -4978,6 +5180,7 @@
     {
       "itemName": "Garv & Latrox Poster",
       "itemType": "Decoration",
+      "itemSubType": null,
       "credits": 100000,
       "ducats": 80,
       "dates": [
@@ -4994,7 +5197,8 @@
     },
     {
       "itemName": "Primed Firestorm",
-      "itemType": "Mod (Primed)",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
       "credits": 175000,
       "ducats": 350,
       "dates": [
@@ -5016,6 +5220,7 @@
     {
       "itemName": "Javi Genome Scrawling",
       "itemType": "Decoration",
+      "itemSubType": null,
       "credits": 100000,
       "ducats": 90,
       "dates": [
@@ -5028,7 +5233,8 @@
     },
     {
       "itemName": "Sonicor Elixis Skin",
-      "itemType": "Cosmetic (Weapon)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Weapon",
       "credits": 175000,
       "ducats": 380,
       "dates": [
@@ -5062,7 +5268,8 @@
     },
     {
       "itemName": "Drippy Sigil",
-      "itemType": "Cosmetic (Sigil)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Sigil",
       "credits": 45000,
       "ducats": 50,
       "dates": [
@@ -5075,6 +5282,7 @@
     {
       "itemName": "Scorch",
       "itemType": "Mod",
+      "itemSubType": null,
       "credits": 150000,
       "ducats": 300,
       "dates": [
@@ -5098,6 +5306,7 @@
     {
       "itemName": "Secret History Replica",
       "itemType": "Decoration",
+      "itemSubType": null,
       "credits": 100000,
       "ducats": 75,
       "dates": [
@@ -5114,7 +5323,8 @@
     },
     {
       "itemName": "Scoria Diadem",
-      "itemType": "Cosmetic (Operator)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Operator",
       "credits": 300000,
       "ducats": 550,
       "dates": [
@@ -5131,6 +5341,7 @@
     {
       "itemName": "Shell Shock",
       "itemType": "Mod",
+      "itemSubType": null,
       "credits": 150000,
       "ducats": 300,
       "dates": [
@@ -5163,7 +5374,8 @@
     },
     {
       "itemName": "Prisma Naberus",
-      "itemType": "Cosmetic (Armor)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Armor",
       "credits": 140000,
       "ducats": 220,
       "dates": [
@@ -5195,6 +5407,7 @@
     {
       "itemName": "Ki'teer Domestik Drone",
       "itemType": "Decoration",
+      "itemSubType": null,
       "credits": 500000,
       "ducats": 700,
       "dates": [
@@ -5216,6 +5429,7 @@
     {
       "itemName": "Clatharc Planter",
       "itemType": "Decoration",
+      "itemSubType": null,
       "credits": 100000,
       "ducats": 125,
       "dates": [
@@ -5230,6 +5444,7 @@
     {
       "itemName": "Maim",
       "itemType": "Mod",
+      "itemSubType": null,
       "credits": 150000,
       "ducats": 375,
       "dates": [
@@ -5258,6 +5473,7 @@
     {
       "itemName": "Scattering Inferno",
       "itemType": "Mod",
+      "itemSubType": null,
       "credits": 150000,
       "ducats": 300,
       "dates": [
@@ -5281,6 +5497,7 @@
     {
       "itemName": "Scaldra Glyph",
       "itemType": "Glyph",
+      "itemSubType": null,
       "credits": 1906,
       "ducats": 93,
       "dates": [
@@ -5292,6 +5509,7 @@
     {
       "itemName": "Deimos Velocipod Prex",
       "itemType": "Decoration",
+      "itemSubType": null,
       "credits": 100000,
       "ducats": 75,
       "dates": [
@@ -5312,7 +5530,8 @@
     },
     {
       "itemName": "Mesa Immortal Skin",
-      "itemType": "Cosmetic (Warframe Skin)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Warframe Skin",
       "credits": 100000,
       "ducats": 550,
       "dates": [
@@ -5338,6 +5557,7 @@
     {
       "itemName": "Mark of the Beast",
       "itemType": "Mod",
+      "itemSubType": null,
       "credits": 115000,
       "ducats": 300,
       "dates": [
@@ -5357,6 +5577,7 @@
     {
       "itemName": "Heart of Deimos Login Music",
       "itemType": "Somachord",
+      "itemSubType": null,
       "credits": 160000,
       "ducats": 155,
       "dates": [
@@ -5367,7 +5588,8 @@
     },
     {
       "itemName": "Right Prisma Edo Shoulder Plates",
-      "itemType": "Cosmetic (Armor)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Armor",
       "credits": 55000,
       "ducats": 100,
       "dates": [
@@ -5407,7 +5629,8 @@
     },
     {
       "itemName": "Tannukai Shoulder Plates",
-      "itemType": "Cosmetic (Armor)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Armor",
       "credits": 125000,
       "ducats": 315,
       "dates": [
@@ -5425,7 +5648,8 @@
     },
     {
       "itemName": "Right Eos Prime Shoulder Plates",
-      "itemType": "Cosmetic (Armor)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Armor",
       "credits": 75000,
       "ducats": 50,
       "dates": [
@@ -5461,7 +5685,8 @@
     },
     {
       "itemName": "Liset Cydonia Skin",
-      "itemType": "Cosmetic (Landing Craft)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Landing Craft",
       "credits": 300000,
       "ducats": 400,
       "dates": [
@@ -5493,7 +5718,8 @@
     },
     {
       "itemName": "Lotus Ephemera",
-      "itemType": "Cosmetic (Ephemera)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Ephemera",
       "credits": 450000,
       "ducats": 250,
       "dates": [
@@ -5514,7 +5740,8 @@
     },
     {
       "itemName": "Rhino Palatine Sigil",
-      "itemType": "Cosmetic (Sigil)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Sigil",
       "credits": 55000,
       "ducats": 45,
       "dates": [
@@ -5527,7 +5754,8 @@
     },
     {
       "itemName": "Prisma Avia Ankle Plate",
-      "itemType": "Cosmetic (Armor)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Armor",
       "credits": 175000,
       "ducats": 225,
       "dates": [
@@ -5558,6 +5786,7 @@
     {
       "itemName": "Grustrag Three Beacon",
       "itemType": "Consumable",
+      "itemSubType": null,
       "credits": 125000,
       "ducats": 200,
       "dates": [
@@ -5604,6 +5833,7 @@
     {
       "itemName": "Rhapsody in Blue",
       "itemType": "Decoration",
+      "itemSubType": null,
       "credits": 100000,
       "ducats": 80,
       "dates": [
@@ -5619,7 +5849,8 @@
     },
     {
       "itemName": "Reshantur Cult Syandana",
-      "itemType": "Cosmetic (Syandana)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Syandana",
       "credits": 350000,
       "ducats": 400,
       "dates": [
@@ -5642,7 +5873,8 @@
     },
     {
       "itemName": "Dark Sword Day of the Dead Skin",
-      "itemType": "Cosmetic (Weapon)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Weapon",
       "credits": 250000,
       "ducats": 320,
       "dates": [
@@ -5671,6 +5903,7 @@
     {
       "itemName": "Bronze Kavat Bust",
       "itemType": "Decoration",
+      "itemSubType": null,
       "credits": 250000,
       "ducats": 220,
       "dates": [
@@ -5693,6 +5926,7 @@
     {
       "itemName": "Beachcomber Domestik Drone",
       "itemType": "Decoration",
+      "itemSubType": null,
       "credits": 625000,
       "ducats": 800,
       "dates": [
@@ -5704,6 +5938,7 @@
     {
       "itemName": "Combo Killer",
       "itemType": "Mod",
+      "itemSubType": null,
       "credits": 115000,
       "ducats": 300,
       "dates": [
@@ -5722,6 +5957,7 @@
     {
       "itemName": "Deimos Fass Prex",
       "itemType": "Decoration",
+      "itemSubType": null,
       "credits": 100000,
       "ducats": 75,
       "dates": [
@@ -5740,6 +5976,7 @@
     {
       "itemName": "TennoCon Crt Glyph",
       "itemType": "Glyph",
+      "itemSubType": null,
       "credits": 1000,
       "ducats": 15,
       "dates": [
@@ -5752,6 +5989,7 @@
     {
       "itemName": "Bronze Kubrow Bust",
       "itemType": "Decoration",
+      "itemSubType": null,
       "credits": 250000,
       "ducats": 220,
       "dates": [
@@ -5773,7 +6011,8 @@
     },
     {
       "itemName": "Primed Continuity",
-      "itemType": "Mod (Primed)",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
       "credits": 100000,
       "ducats": 350,
       "dates": [
@@ -5813,6 +6052,7 @@
     {
       "itemName": "Void Trader",
       "itemType": "Color Palette",
+      "itemSubType": null,
       "credits": 250000,
       "ducats": 200,
       "dates": [
@@ -5830,6 +6070,7 @@
     {
       "itemName": "Ordis Reified Statue",
       "itemType": "Decoration",
+      "itemSubType": null,
       "credits": 275000,
       "ducats": 350,
       "dates": [
@@ -5846,7 +6087,8 @@
     },
     {
       "itemName": "Rakta Syandana",
-      "itemType": "Cosmetic (Syandana)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Syandana",
       "credits": 350000,
       "ducats": 325,
       "dates": [
@@ -5861,6 +6103,7 @@
     {
       "itemName": "Railjack Retrofit Login Music",
       "itemType": "Somachord",
+      "itemSubType": null,
       "credits": 165000,
       "ducats": 150,
       "dates": [
@@ -5873,6 +6116,7 @@
     {
       "itemName": "Quanta Vandal",
       "itemType": "Weapon",
+      "itemSubType": null,
       "credits": 300000,
       "ducats": 450,
       "dates": [
@@ -5911,6 +6155,7 @@
     {
       "itemName": "Corpus Glyph",
       "itemType": "Glyph",
+      "itemSubType": null,
       "credits": 55000,
       "ducats": 70,
       "dates": [
@@ -5922,6 +6167,7 @@
     {
       "itemName": "Aged Claret of Denas",
       "itemType": "Decoration",
+      "itemSubType": null,
       "credits": 100000,
       "ducats": 100,
       "dates": [
@@ -5935,7 +6181,8 @@
     },
     {
       "itemName": "Elixis Latron Chest Plate",
-      "itemType": "Cosmetic (Armor)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Armor",
       "credits": 200000,
       "ducats": 275,
       "dates": [],
@@ -5944,7 +6191,8 @@
     },
     {
       "itemName": "Primed Counterbalance",
-      "itemType": "Mod (Primed)",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
       "credits": 220000,
       "ducats": 300,
       "dates": [
@@ -5956,6 +6204,7 @@
     {
       "itemName": "Voltaic Strike",
       "itemType": "Mod",
+      "itemSubType": null,
       "credits": 150000,
       "ducats": 300,
       "dates": [
@@ -5991,6 +6240,7 @@
     {
       "itemName": "Akka Luxxum Ornament",
       "itemType": "Decoration",
+      "itemSubType": null,
       "credits": 100000,
       "ducats": 100,
       "dates": [
@@ -6012,7 +6262,8 @@
     },
     {
       "itemName": "Anpu Sugatra",
-      "itemType": "Cosmetic (Weapon)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Weapon",
       "credits": 250000,
       "ducats": 250,
       "dates": [
@@ -6041,7 +6292,8 @@
     },
     {
       "itemName": "Lunar Renewal Tiger Sigil",
-      "itemType": "Cosmetic (Sigil)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Sigil",
       "credits": 45000,
       "ducats": 55,
       "dates": [
@@ -6060,7 +6312,8 @@
     },
     {
       "itemName": "Hydroid Immortal Skin",
-      "itemType": "Cosmetic (Warframe Skin)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Warframe Skin",
       "credits": 100000,
       "ducats": 550,
       "dates": [
@@ -6090,7 +6343,8 @@
     },
     {
       "itemName": "Primed Bane of Corpus",
-      "itemType": "Mod (Primed)",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
       "credits": 140000,
       "ducats": 400,
       "dates": [
@@ -6129,7 +6383,8 @@
     },
     {
       "itemName": "Prisma Veritux",
-      "itemType": "Weapon (Archwing)",
+      "itemType": "Weapon",
+      "itemSubType": "Archwing",
       "credits": 150000,
       "ducats": 550,
       "dates": [
@@ -6166,7 +6421,8 @@
     },
     {
       "itemName": "Prisma Uru Syandana",
-      "itemType": "Cosmetic (Syandana)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Syandana",
       "credits": 275000,
       "ducats": 350,
       "dates": [
@@ -6202,6 +6458,7 @@
     {
       "itemName": "Prisma Tetra",
       "itemType": "Weapon",
+      "itemSubType": null,
       "credits": 50000,
       "ducats": 400,
       "dates": [
@@ -6242,7 +6499,8 @@
     },
     {
       "itemName": "Primed Quickdraw",
-      "itemType": "Mod (Primed)",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
       "credits": 120000,
       "ducats": 375,
       "dates": [
@@ -6269,6 +6527,7 @@
     {
       "itemName": "Prisma Skana",
       "itemType": "Weapon",
+      "itemSubType": null,
       "credits": 175000,
       "ducats": 510,
       "dates": [
@@ -6311,6 +6570,7 @@
     {
       "itemName": "Prisma Companion Poster",
       "itemType": "Decoration",
+      "itemSubType": null,
       "credits": 110000,
       "ducats": 90,
       "dates": [
@@ -6334,7 +6594,8 @@
     },
     {
       "itemName": "Prisma Sigil",
-      "itemType": "Cosmetic (Sigil)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Sigil",
       "credits": 50000,
       "ducats": 50,
       "dates": [
@@ -6369,6 +6630,7 @@
     {
       "itemName": "Prisma Shade",
       "itemType": "Sentinel",
+      "itemSubType": null,
       "credits": 300000,
       "ducats": 500,
       "dates": [
@@ -6409,7 +6671,8 @@
     },
     {
       "itemName": "Altra Sentinel Wings",
-      "itemType": "Cosmetic (Sentinel)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Sentinel",
       "credits": 500000,
       "ducats": 400,
       "dates": [
@@ -6423,7 +6686,8 @@
     },
     {
       "itemName": "Prisma Rostam Kubrow Armor",
-      "itemType": "Cosmetic (Kubrow)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Kubrow",
       "credits": 175000,
       "ducats": 400,
       "dates": [
@@ -6451,6 +6715,7 @@
     {
       "itemName": "Deimos Lobotriscid Prex",
       "itemType": "Decoration",
+      "itemSubType": null,
       "credits": 100000,
       "ducats": 75,
       "dates": [
@@ -6468,6 +6733,7 @@
     {
       "itemName": "Archwing Articula",
       "itemType": "Decoration",
+      "itemSubType": null,
       "credits": 330000,
       "ducats": 100,
       "dates": [
@@ -6482,6 +6748,7 @@
     {
       "itemName": "Javi Ophiuchus Scrawling",
       "itemType": "Decoration",
+      "itemSubType": null,
       "credits": 100000,
       "ducats": 90,
       "dates": [
@@ -6494,7 +6761,8 @@
     },
     {
       "itemName": "Mantis Prisma Skin",
-      "itemType": "Cosmetic (Landing Craft)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Landing Craft",
       "credits": 375000,
       "ducats": 230,
       "dates": [
@@ -6533,6 +6801,7 @@
     {
       "itemName": "Prisma Obex",
       "itemType": "Weapon",
+      "itemSubType": null,
       "credits": 175000,
       "ducats": 500,
       "dates": [
@@ -6569,7 +6838,8 @@
     },
     {
       "itemName": "Scimitar Prisma Skin",
-      "itemType": "Cosmetic (Landing Craft)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Landing Craft",
       "credits": 450000,
       "ducats": 210,
       "dates": [
@@ -6606,6 +6876,7 @@
     {
       "itemName": "Corrupted Bombard Specter Blueprint",
       "itemType": "Consumable",
+      "itemSubType": null,
       "credits": 50000,
       "ducats": 100,
       "dates": [
@@ -6638,7 +6909,8 @@
     },
     {
       "itemName": "Prisma Mech Head Sentinel Mask",
-      "itemType": "Cosmetic (Sentinel)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Sentinel",
       "credits": 200000,
       "ducats": 175,
       "dates": [
@@ -6672,7 +6944,8 @@
     },
     {
       "itemName": "Primed Rubedo-Lined Barrel",
-      "itemType": "Mod (Primed)",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
       "credits": 175000,
       "ducats": 350,
       "dates": [
@@ -6694,6 +6967,7 @@
     {
       "itemName": "Inaros Floof",
       "itemType": "Decoration",
+      "itemSubType": null,
       "credits": 90000,
       "ducats": 120,
       "dates": [
@@ -6705,6 +6979,7 @@
     {
       "itemName": "Full Contact",
       "itemType": "Mod",
+      "itemSubType": null,
       "credits": 220000,
       "ducats": 365,
       "dates": [
@@ -6731,7 +7006,8 @@
     },
     {
       "itemName": "Prisma Lotus Bloom Sigil",
-      "itemType": "Cosmetic (Sigil)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Sigil",
       "credits": 60000,
       "ducats": 55,
       "dates": [
@@ -6745,6 +7021,7 @@
     {
       "itemName": "Angels of the Zariman Login Music",
       "itemType": "Somachord",
+      "itemSubType": null,
       "credits": 180000,
       "ducats": 160,
       "dates": [
@@ -6757,6 +7034,7 @@
     {
       "itemName": "Prisma Kubrow Glyph",
       "itemType": "Glyph",
+      "itemSubType": null,
       "credits": 50000,
       "ducats": 80,
       "dates": [
@@ -6783,7 +7061,8 @@
     },
     {
       "itemName": "Prisma Koi Sentinel Tail",
-      "itemType": "Cosmetic (Sentinel)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Sentinel",
       "credits": 200000,
       "ducats": 200,
       "dates": [
@@ -6825,6 +7104,7 @@
     {
       "itemName": "Prisma Grinlok",
       "itemType": "Weapon",
+      "itemSubType": null,
       "credits": 220000,
       "ducats": 500,
       "dates": [
@@ -6853,6 +7133,7 @@
     {
       "itemName": "Axi A5 Relic",
       "itemType": "Void Relic",
+      "itemSubType": null,
       "credits": 55000,
       "ducats": 125,
       "dates": [
@@ -6879,7 +7160,8 @@
     },
     {
       "itemName": "Altra Sentinel Skin",
-      "itemType": "Cosmetic (Sentinel)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Sentinel",
       "credits": 425000,
       "ducats": 500,
       "dates": [
@@ -6892,7 +7174,8 @@
     },
     {
       "itemName": "Nexus Gene-Masking Kit",
-      "itemType": "Cosmetic (Kavat)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Kavat",
       "credits": 300000,
       "ducats": 200,
       "dates": [
@@ -6925,6 +7208,7 @@
     {
       "itemName": "Prisma Grakata",
       "itemType": "Weapon",
+      "itemSubType": null,
       "credits": 100000,
       "ducats": 610,
       "dates": [
@@ -6962,7 +7246,8 @@
     },
     {
       "itemName": "Prisma Edo Chest Plate",
-      "itemType": "Cosmetic (Armor)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Armor",
       "credits": 250000,
       "ducats": 225,
       "dates": [
@@ -7003,7 +7288,8 @@
     },
     {
       "itemName": "Prisma Dual Decurions",
-      "itemType": "Weapon (Archwing)",
+      "itemType": "Weapon",
+      "itemSubType": "Archwing",
       "credits": 175000,
       "ducats": 525,
       "dates": [
@@ -7023,7 +7309,8 @@
     },
     {
       "itemName": "Prisma Daedalus Chest Plate",
-      "itemType": "Cosmetic (Armor)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Armor",
       "credits": 100000,
       "ducats": 150,
       "dates": [
@@ -7065,6 +7352,7 @@
     {
       "itemName": "Ivara in Action Glyph",
       "itemType": "Glyph",
+      "itemSubType": null,
       "credits": 60000,
       "ducats": 75,
       "dates": [
@@ -7077,7 +7365,8 @@
     },
     {
       "itemName": "Mirage Immortal Skin",
-      "itemType": "Cosmetic (Warframe Skin)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Warframe Skin",
       "credits": 100000,
       "ducats": 550,
       "dates": [
@@ -7105,6 +7394,7 @@
     {
       "itemName": "Buzz Kill",
       "itemType": "Mod",
+      "itemSubType": null,
       "credits": 150000,
       "ducats": 375,
       "dates": [
@@ -7135,7 +7425,8 @@
     },
     {
       "itemName": "Primed Animal Instinct",
-      "itemType": "Mod (Primed)",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
       "credits": 200000,
       "ducats": 300,
       "dates": [
@@ -7159,7 +7450,8 @@
     },
     {
       "itemName": "Primed Cleanse Infested",
-      "itemType": "Mod (Primed)",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
       "credits": 140000,
       "ducats": 350,
       "dates": [
@@ -7178,7 +7470,8 @@
     },
     {
       "itemName": "Elixis Latron Leg Plate",
-      "itemType": "Cosmetic (Armor)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Armor",
       "credits": 175000,
       "ducats": 300,
       "dates": [],
@@ -7187,7 +7480,8 @@
     },
     {
       "itemName": "Ki'teer Sentinel Tail",
-      "itemType": "Cosmetic (Sentinel)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Sentinel",
       "credits": 250000,
       "ducats": 400,
       "dates": [
@@ -7225,7 +7519,8 @@
     },
     {
       "itemName": "Prisma Avia Shoulder Plate",
-      "itemType": "Cosmetic (Armor)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Armor",
       "credits": 200000,
       "ducats": 300,
       "dates": [
@@ -7256,6 +7551,7 @@
     {
       "itemName": "Sweeping Serration",
       "itemType": "Mod",
+      "itemSubType": null,
       "credits": 150000,
       "ducats": 375,
       "dates": [
@@ -7286,7 +7582,8 @@
     },
     {
       "itemName": "Anpu Staff Skin",
-      "itemType": "Cosmetic (Weapon)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Weapon",
       "credits": 250000,
       "ducats": 325,
       "dates": [
@@ -7318,6 +7615,7 @@
     {
       "itemName": "Prisma Angstrum",
       "itemType": "Weapon",
+      "itemSubType": null,
       "credits": 210000,
       "ducats": 475,
       "dates": [
@@ -7348,7 +7646,8 @@
     },
     {
       "itemName": "Primed Tactical Pump",
-      "itemType": "Mod (Primed)",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
       "credits": 140000,
       "ducats": 300,
       "dates": [
@@ -7368,7 +7667,8 @@
     },
     {
       "itemName": "Nikana Elixis Skin",
-      "itemType": "Cosmetic (Weapon)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Weapon",
       "credits": 275000,
       "ducats": 375,
       "dates": [
@@ -7384,7 +7684,8 @@
     },
     {
       "itemName": "Primed Stabilizer",
-      "itemType": "Mod (Primed)",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
       "credits": 220000,
       "ducats": 300,
       "dates": [
@@ -7395,7 +7696,8 @@
     },
     {
       "itemName": "Primed Smite the Murmur",
-      "itemType": "Mod (Primed)",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
       "credits": 130000,
       "ducats": 375,
       "dates": [
@@ -7406,7 +7708,8 @@
     },
     {
       "itemName": "Primed Smite Orokin",
-      "itemType": "Mod (Primed)",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
       "credits": 140000,
       "ducats": 350,
       "dates": [
@@ -7425,7 +7728,8 @@
     },
     {
       "itemName": "Primed Smite Infested",
-      "itemType": "Mod (Primed)",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
       "credits": 140000,
       "ducats": 350,
       "dates": [
@@ -7444,7 +7748,8 @@
     },
     {
       "itemName": "Harkonar Wraith Arm Armor",
-      "itemType": "Cosmetic (Armor)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Armor",
       "credits": 150000,
       "ducats": 350,
       "dates": [
@@ -7471,7 +7776,8 @@
     },
     {
       "itemName": "Primed Smite Grineer",
-      "itemType": "Mod (Primed)",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
       "credits": 140000,
       "ducats": 350,
       "dates": [
@@ -7491,7 +7797,8 @@
     },
     {
       "itemName": "Primed Slip Magazine",
-      "itemType": "Mod (Primed)",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
       "credits": 200000,
       "ducats": 280,
       "dates": [
@@ -7525,7 +7832,8 @@
     },
     {
       "itemName": "Redeemer Elixis Skin",
-      "itemType": "Cosmetic (Weapon)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Weapon",
       "credits": 250000,
       "ducats": 325,
       "dates": [
@@ -7562,7 +7870,8 @@
     },
     {
       "itemName": "Primed Redirection",
-      "itemType": "Mod (Primed)",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
       "credits": 225000,
       "ducats": 350,
       "dates": [
@@ -7578,7 +7887,8 @@
     },
     {
       "itemName": "Ki'teer Shoulder Plates",
-      "itemType": "Cosmetic (Armor)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Armor",
       "credits": 110000,
       "ducats": 350,
       "dates": [
@@ -7613,7 +7923,8 @@
     },
     {
       "itemName": "Ki'teer Kubrow Armor",
-      "itemType": "Cosmetic (Kubrow)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Kubrow",
       "credits": 250000,
       "ducats": 500,
       "dates": [
@@ -7647,7 +7958,8 @@
     },
     {
       "itemName": "Primed Reach",
-      "itemType": "Mod (Primed)",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
       "credits": 220000,
       "ducats": 300,
       "dates": [
@@ -7683,7 +7995,8 @@
     },
     {
       "itemName": "Reshantur Cult Spear Skin",
-      "itemType": "Cosmetic (Weapon)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Weapon",
       "credits": 325000,
       "ducats": 350,
       "dates": [
@@ -7700,7 +8013,8 @@
     },
     {
       "itemName": "Primed Fever Strike",
-      "itemType": "Mod (Primed)",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
       "credits": 200000,
       "ducats": 350,
       "dates": [
@@ -7729,7 +8043,8 @@
     },
     {
       "itemName": "Ki'teer Chest Plate",
-      "itemType": "Cosmetic (Armor)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Armor",
       "credits": 250000,
       "ducats": 150,
       "dates": [
@@ -7765,6 +8080,7 @@
     {
       "itemName": "Karishh's Dinnerware",
       "itemType": "Decoration",
+      "itemSubType": null,
       "credits": 130000,
       "ducats": 110,
       "dates": [
@@ -7778,7 +8094,8 @@
     },
     {
       "itemName": "Left Eos Prime Spurs",
-      "itemType": "Cosmetic (Armor)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Armor",
       "credits": 50000,
       "ducats": 65,
       "dates": [
@@ -7814,7 +8131,8 @@
     },
     {
       "itemName": "Paris Abra Skin",
-      "itemType": "Cosmetic (Weapon)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Weapon",
       "credits": 275000,
       "ducats": 315,
       "dates": [
@@ -7831,7 +8149,8 @@
     },
     {
       "itemName": "Kavat Sentinel Mask",
-      "itemType": "Cosmetic (Sentinel)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Sentinel",
       "credits": 200000,
       "ducats": 500,
       "dates": [
@@ -7860,7 +8179,8 @@
     },
     {
       "itemName": "Lunar Renewal Snake Emblem",
-      "itemType": "Cosmetic (Emblem)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Emblem",
       "credits": 1,
       "ducats": null,
       "dates": [
@@ -7874,6 +8194,7 @@
     {
       "itemName": "Glaxion Vandal",
       "itemType": "Weapon",
+      "itemSubType": null,
       "credits": 250000,
       "ducats": 475,
       "dates": [
@@ -7896,7 +8217,8 @@
     },
     {
       "itemName": "Primed Fulmination",
-      "itemType": "Mod (Primed)",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
       "credits": 175000,
       "ducats": 350,
       "dates": [
@@ -7917,6 +8239,7 @@
     {
       "itemName": "Xaku Prex",
       "itemType": "Decoration",
+      "itemSubType": null,
       "credits": 100000,
       "ducats": 75,
       "dates": [
@@ -7934,7 +8257,8 @@
     },
     {
       "itemName": "Primed Charged Shell",
-      "itemType": "Mod (Primed)",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
       "credits": 200000,
       "ducats": 350,
       "dates": [
@@ -7959,7 +8283,8 @@
     },
     {
       "itemName": "Primed Pistol Gambit",
-      "itemType": "Mod (Primed)",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
       "credits": 220000,
       "ducats": 400,
       "dates": [
@@ -7999,7 +8324,8 @@
     },
     {
       "itemName": "Primed Fast Hands",
-      "itemType": "Mod (Primed)",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
       "credits": 120000,
       "ducats": 375,
       "dates": [
@@ -8030,7 +8356,8 @@
     },
     {
       "itemName": "Pack Leader Emblem",
-      "itemType": "Cosmetic (Emblem)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Emblem",
       "credits": 50000,
       "ducats": 50,
       "dates": [
@@ -8052,7 +8379,8 @@
     },
     {
       "itemName": "Ki'teer Foros Chest Plate",
-      "itemType": "Cosmetic (Armor)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Armor",
       "credits": 200000,
       "ducats": 175,
       "dates": [
@@ -8084,7 +8412,8 @@
     },
     {
       "itemName": "Primed Expel the Murmur",
-      "itemType": "Mod (Primed)",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
       "credits": 130000,
       "ducats": 375,
       "dates": [
@@ -8096,6 +8425,7 @@
     {
       "itemName": "5 x Corrupted Bombard Specter",
       "itemType": "Consumable",
+      "itemSubType": null,
       "credits": 50000,
       "ducats": 100,
       "dates": [
@@ -8107,6 +8437,7 @@
     {
       "itemName": "Baruuk Doan Silhouette Glyph",
       "itemType": "Glyph",
+      "itemSubType": null,
       "credits": 60000,
       "ducats": 75,
       "dates": [
@@ -8120,6 +8451,7 @@
     {
       "itemName": "Telamon Dance of Death",
       "itemType": "Decoration",
+      "itemSubType": null,
       "credits": 100000,
       "ducats": 125,
       "dates": [
@@ -8133,7 +8465,8 @@
     },
     {
       "itemName": "Harkonar Wraith Cloak",
-      "itemType": "Cosmetic (Syandana)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Syandana",
       "credits": 500000,
       "ducats": 400,
       "dates": [
@@ -8161,7 +8494,8 @@
     },
     {
       "itemName": "Primed Expel Corpus",
-      "itemType": "Mod (Primed)",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
       "credits": 140000,
       "ducats": 350,
       "dates": [
@@ -8183,7 +8517,8 @@
     },
     {
       "itemName": "Primed Deadly Efficiency",
-      "itemType": "Mod (Primed)",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
       "credits": 300000,
       "ducats": 375,
       "dates": [
@@ -8198,7 +8533,8 @@
     },
     {
       "itemName": "Primed Expel Orokin",
-      "itemType": "Mod (Primed)",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
       "credits": 140000,
       "ducats": 350,
       "dates": [
@@ -8218,7 +8554,8 @@
     },
     {
       "itemName": "Primed Convulsion",
-      "itemType": "Mod (Primed)",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
       "credits": 175000,
       "ducats": 350,
       "dates": [
@@ -8233,7 +8570,8 @@
     },
     {
       "itemName": "Primed Rifle Ammo Mutation",
-      "itemType": "Mod (Primed)",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
       "credits": 140000,
       "ducats": 400,
       "dates": [
@@ -8261,7 +8599,8 @@
     },
     {
       "itemName": "Ki'teer Sugatra",
-      "itemType": "Cosmetic (Weapon)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Weapon",
       "credits": 250000,
       "ducats": 250,
       "dates": [
@@ -8297,7 +8636,8 @@
     },
     {
       "itemName": "Coccyst Sugatra",
-      "itemType": "Cosmetic (Weapon)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Weapon",
       "credits": 200000,
       "ducats": 250,
       "dates": [
@@ -8325,7 +8665,8 @@
     },
     {
       "itemName": "Left Prisma Edo Knee Plates",
-      "itemType": "Cosmetic (Armor)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Armor",
       "credits": 55000,
       "ducats": 100,
       "dates": [
@@ -8366,7 +8707,8 @@
     },
     {
       "itemName": "Ki'teer Straed Syandana",
-      "itemType": "Cosmetic (Syandana)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Syandana",
       "credits": 500000,
       "ducats": 500,
       "dates": [
@@ -8387,7 +8729,8 @@
     },
     {
       "itemName": "Primed Bane of Grineer",
-      "itemType": "Mod (Primed)",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
       "credits": 140000,
       "ducats": 400,
       "dates": [
@@ -8414,7 +8757,8 @@
     },
     {
       "itemName": "Primed Cryo Rounds",
-      "itemType": "Mod (Primed)",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
       "credits": 110000,
       "ducats": 350,
       "dates": [
@@ -8446,6 +8790,7 @@
     {
       "itemName": "Pedestal Umbra",
       "itemType": "Decoration",
+      "itemSubType": null,
       "credits": 1000000,
       "ducats": null,
       "dates": [
@@ -8467,7 +8812,8 @@
     },
     {
       "itemName": "Primed Pack Leader",
-      "itemType": "Mod (Primed)",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
       "credits": 200000,
       "ducats": 300,
       "dates": [
@@ -8491,6 +8837,7 @@
     {
       "itemName": "Parazon Poster",
       "itemType": "Decoration",
+      "itemSubType": null,
       "credits": 125000,
       "ducats": 100,
       "dates": [
@@ -8512,6 +8859,7 @@
     {
       "itemName": "Orokin Catalyst",
       "itemType": "Consumable",
+      "itemSubType": null,
       "credits": 400000,
       "ducats": 700,
       "dates": [
@@ -8522,7 +8870,8 @@
     },
     {
       "itemName": "Rapier Tributaker Skin",
-      "itemType": "Cosmetic (Weapon)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Weapon",
       "credits": 400000,
       "ducats": 375,
       "dates": [
@@ -8535,6 +8884,7 @@
     {
       "itemName": "Axi M5 Relic",
       "itemType": "Void Relic",
+      "itemSubType": null,
       "credits": 55000,
       "ducats": 125,
       "dates": [
@@ -8549,6 +8899,7 @@
     {
       "itemName": "Opticor Vandal",
       "itemType": "Weapon",
+      "itemSubType": null,
       "credits": 550000,
       "ducats": 650,
       "dates": [
@@ -8568,7 +8919,8 @@
     },
     {
       "itemName": "Diriga Desert-Camo Skin",
-      "itemType": "Cosmetic (Sentinel)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Sentinel",
       "credits": 150000,
       "ducats": 225,
       "dates": [
@@ -8598,6 +8950,7 @@
     {
       "itemName": "Noggle Statue - Zealoid Prelate",
       "itemType": "Decoration",
+      "itemSubType": null,
       "credits": 300000,
       "ducats": 75,
       "dates": [
@@ -8608,7 +8961,8 @@
     },
     {
       "itemName": "Ki'teer Foros Shoulder Plates",
-      "itemType": "Cosmetic (Armor)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Armor",
       "credits": 100000,
       "ducats": 310,
       "dates": [
@@ -8640,7 +8994,8 @@
     },
     {
       "itemName": "Masker's Theodolite Crewsuit",
-      "itemType": "Cosmetic (Operator)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Operator",
       "credits": 275000,
       "ducats": 300,
       "dates": [
@@ -8657,7 +9012,8 @@
     },
     {
       "itemName": "Ki'teer Greth Shoulder Plates",
-      "itemType": "Cosmetic (Armor)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Armor",
       "credits": 350000,
       "ducats": 400,
       "dates": [
@@ -8679,6 +9035,7 @@
     {
       "itemName": "Noggle Statue - Excalibur with Odonata",
       "itemType": "Decoration",
+      "itemSubType": null,
       "credits": 200000,
       "ducats": 90,
       "dates": [
@@ -8710,6 +9067,7 @@
     {
       "itemName": "Deimos Kymaeros Prex",
       "itemType": "Decoration",
+      "itemSubType": null,
       "credits": 100000,
       "ducats": 75,
       "dates": [
@@ -8729,6 +9087,7 @@
     {
       "itemName": "10th Anniversary Login Music",
       "itemType": "Somachord",
+      "itemSubType": null,
       "credits": 165000,
       "ducats": 145,
       "dates": [
@@ -8740,6 +9099,7 @@
     {
       "itemName": "Noggle Statue - Erra",
       "itemType": "Decoration",
+      "itemSubType": null,
       "credits": 300000,
       "ducats": 75,
       "dates": [
@@ -8757,6 +9117,7 @@
     {
       "itemName": "Noggle Statue - Baro Ki'teer",
       "itemType": "Decoration",
+      "itemSubType": null,
       "credits": 250000,
       "ducats": 70,
       "dates": [
@@ -8792,6 +9153,7 @@
     {
       "itemName": "Dante Unbound Login Music",
       "itemType": "Somachord",
+      "itemSubType": null,
       "credits": 150000,
       "ducats": 150,
       "dates": [
@@ -8804,6 +9166,7 @@
     {
       "itemName": "Halikar Wraith",
       "itemType": "Weapon",
+      "itemSubType": null,
       "credits": 350000,
       "ducats": 450,
       "dates": [
@@ -8823,7 +9186,8 @@
     },
     {
       "itemName": "Ki'teer Stencil",
-      "itemType": "Cosmetic (Orbiter)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Orbiter",
       "credits": 175000,
       "ducats": 250,
       "dates": [
@@ -8852,7 +9216,8 @@
     },
     {
       "itemName": "Left Prisma Daedalus Shoulder Guard",
-      "itemType": "Cosmetic (Armor)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Armor",
       "credits": 75000,
       "ducats": 65,
       "dates": [
@@ -8893,7 +9258,8 @@
     },
     {
       "itemName": "Ki'teer Atmos Earpiece",
-      "itemType": "Cosmetic (Operator)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Operator",
       "credits": 400000,
       "ducats": 500,
       "dates": [
@@ -8926,7 +9292,8 @@
     },
     {
       "itemName": "Nexus Fur Pattern",
-      "itemType": "Cosmetic (Kubrow)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Kubrow",
       "credits": 300000,
       "ducats": 150,
       "dates": [
@@ -8964,6 +9331,7 @@
     {
       "itemName": "Basilisk Fighter Decoration",
       "itemType": "Decoration",
+      "itemSubType": null,
       "credits": 100000,
       "ducats": 100,
       "dates": [
@@ -8978,7 +9346,8 @@
     },
     {
       "itemName": "Mulciber Shoulder Plate",
-      "itemType": "Cosmetic (Armor)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Armor",
       "credits": 215000,
       "ducats": 315,
       "dates": [
@@ -9002,6 +9371,7 @@
     {
       "itemName": "Crash Course",
       "itemType": "Mod",
+      "itemSubType": null,
       "credits": 200000,
       "ducats": 330,
       "dates": [
@@ -9027,7 +9397,8 @@
     },
     {
       "itemName": "Koi Sentinel Tail",
-      "itemType": "Cosmetic (Sentinel)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Sentinel",
       "credits": 200000,
       "ducats": 200,
       "dates": [],
@@ -9036,7 +9407,8 @@
     },
     {
       "itemName": "Mulciber Knee Plate",
-      "itemType": "Cosmetic (Armor)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Armor",
       "credits": 200000,
       "ducats": 300,
       "dates": [
@@ -9059,7 +9431,8 @@
     },
     {
       "itemName": "Masker's Theodolite Crewsuit Hood",
-      "itemType": "Cosmetic (Operator)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Operator",
       "credits": 375000,
       "ducats": 350,
       "dates": [
@@ -9076,7 +9449,8 @@
     },
     {
       "itemName": "Mantis Cydonia Skin",
-      "itemType": "Cosmetic (Landing Craft)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Landing Craft",
       "credits": 320000,
       "ducats": 425,
       "dates": [
@@ -9104,7 +9478,8 @@
     },
     {
       "itemName": "Prisma Lotus Sigil",
-      "itemType": "Cosmetic (Sigil)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Sigil",
       "credits": 45000,
       "ducats": 55,
       "dates": [
@@ -9126,6 +9501,7 @@
     {
       "itemName": "Grav Lifter Factory",
       "itemType": "Decoration",
+      "itemSubType": null,
       "credits": 125000,
       "ducats": 110,
       "dates": [
@@ -9140,6 +9516,7 @@
     {
       "itemName": "Combo Fury",
       "itemType": "Mod",
+      "itemSubType": null,
       "credits": 115000,
       "ducats": 300,
       "dates": [
@@ -9159,6 +9536,7 @@
     {
       "itemName": "Class of Ten Zero Poster",
       "itemType": "Decoration",
+      "itemSubType": null,
       "credits": 120000,
       "ducats": 90,
       "dates": [
@@ -9174,7 +9552,8 @@
     },
     {
       "itemName": "Altra Sentinel Tail",
-      "itemType": "Cosmetic (Sentinel)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Sentinel",
       "credits": 500000,
       "ducats": 400,
       "dates": [
@@ -9188,7 +9567,8 @@
     },
     {
       "itemName": "Lunar Renewal Ox Sigil",
-      "itemType": "Cosmetic (Sigil)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Sigil",
       "credits": 45000,
       "ducats": 55,
       "dates": [
@@ -9210,6 +9590,7 @@
     {
       "itemName": "TennoCon Crt Emote",
       "itemType": "Emote",
+      "itemSubType": null,
       "credits": 1000,
       "ducats": 15,
       "dates": [
@@ -9221,7 +9602,8 @@
     },
     {
       "itemName": "Left Prisma Latron Shoulder Plate",
-      "itemType": "Cosmetic (Armor)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Armor",
       "credits": 220000,
       "ducats": 325,
       "dates": [
@@ -9247,7 +9629,8 @@
     },
     {
       "itemName": "Primed Bane of Orokin",
-      "itemType": "Mod (Primed)",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
       "credits": 140000,
       "ducats": 400,
       "dates": [
@@ -9270,7 +9653,8 @@
     },
     {
       "itemName": "Left Prisma Daedalus Knee Plates",
-      "itemType": "Cosmetic (Armor)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Armor",
       "credits": 75000,
       "ducats": 65,
       "dates": [
@@ -9311,7 +9695,8 @@
     },
     {
       "itemName": "Ki'teer Solstice Syandana",
-      "itemType": "Cosmetic (Syandana)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Syandana",
       "credits": 200000,
       "ducats": 425,
       "dates": [
@@ -9345,7 +9730,8 @@
     },
     {
       "itemName": "Ki'teer Solo Earpiece",
-      "itemType": "Cosmetic (Operator)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Operator",
       "credits": 200000,
       "ducats": 250,
       "dates": [
@@ -9382,7 +9768,8 @@
     },
     {
       "itemName": "Prisma Lotus Emblem",
-      "itemType": "Cosmetic (Emblem)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Emblem",
       "credits": 50000,
       "ducats": 80,
       "dates": [
@@ -9405,6 +9792,7 @@
     {
       "itemName": "Baro Ki'teer Glyph",
       "itemType": "Glyph",
+      "itemSubType": null,
       "credits": 50000,
       "ducats": 80,
       "dates": [
@@ -9438,7 +9826,8 @@
     },
     {
       "itemName": "Ki'teer Reverence Ephemera",
-      "itemType": "Cosmetic (Ephemera)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Ephemera",
       "credits": 350000,
       "ducats": 250,
       "dates": [
@@ -9453,7 +9842,8 @@
     },
     {
       "itemName": "Ki'teer Atmos Oculus",
-      "itemType": "Cosmetic (Operator)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Operator",
       "credits": 375000,
       "ducats": 525,
       "dates": [
@@ -9488,7 +9878,8 @@
     },
     {
       "itemName": "Dread Day of the Dead Skin",
-      "itemType": "Cosmetic (Weapon)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Weapon",
       "credits": 275000,
       "ducats": 300,
       "dates": [
@@ -9510,7 +9901,8 @@
     },
     {
       "itemName": "Ki'teer Greth Chest Plate",
-      "itemType": "Cosmetic (Armor)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Armor",
       "credits": 300000,
       "ducats": 350,
       "dates": [
@@ -9531,7 +9923,8 @@
     },
     {
       "itemName": "Ki'teer Foros Leg Plates",
-      "itemType": "Cosmetic (Armor)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Armor",
       "credits": 150000,
       "ducats": 225,
       "dates": [
@@ -9563,7 +9956,8 @@
     },
     {
       "itemName": "Primed Pistol Ammo Mutation",
-      "itemType": "Mod (Primed)",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
       "credits": 140000,
       "ducats": 400,
       "dates": [
@@ -9595,6 +9989,7 @@
     {
       "itemName": "Cookie Kavat Glyph",
       "itemType": "Glyph",
+      "itemSubType": null,
       "credits": 50000,
       "ducats": 80,
       "dates": [
@@ -9624,6 +10019,7 @@
     {
       "itemName": "Ki'teer Lux Pedestal",
       "itemType": "Decoration",
+      "itemSubType": null,
       "credits": 100000,
       "ducats": 150,
       "dates": [
@@ -9638,7 +10034,8 @@
     },
     {
       "itemName": "Ki'teer Atmos Mask",
-      "itemType": "Cosmetic (Operator)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Operator",
       "credits": 400000,
       "ducats": 500,
       "dates": [
@@ -9674,7 +10071,8 @@
     },
     {
       "itemName": "Glaring Sigil",
-      "itemType": "Cosmetic (Sigil)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Sigil",
       "credits": 45000,
       "ducats": 55,
       "dates": [
@@ -9699,7 +10097,8 @@
     },
     {
       "itemName": "Primed Heavy Trauma",
-      "itemType": "Mod (Primed)",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
       "credits": 100000,
       "ducats": 350,
       "dates": [
@@ -9729,6 +10128,7 @@
     {
       "itemName": "Prisma Ohma",
       "itemType": "Weapon",
+      "itemSubType": null,
       "credits": 175000,
       "ducats": 450,
       "dates": [
@@ -9746,6 +10146,7 @@
     {
       "itemName": "Bekran Zaft's Equipment",
       "itemType": "Decoration",
+      "itemSubType": null,
       "credits": 125000,
       "ducats": 100,
       "dates": [
@@ -9759,7 +10160,8 @@
     },
     {
       "itemName": "Ki'teer Sentinel Mask",
-      "itemType": "Cosmetic (Sentinel)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Sentinel",
       "credits": 200000,
       "ducats": 500,
       "dates": [
@@ -9794,7 +10196,8 @@
     },
     {
       "itemName": "Machete Syachid Skin",
-      "itemType": "Cosmetic (Weapon)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Weapon",
       "credits": 300000,
       "ducats": 375,
       "dates": [
@@ -9825,6 +10228,7 @@
     {
       "itemName": "Ignis Wraith",
       "itemType": "Weapon",
+      "itemSubType": null,
       "credits": 250000,
       "ducats": 550,
       "dates": [
@@ -9851,7 +10255,8 @@
     },
     {
       "itemName": "Gorgon Towsun Skin",
-      "itemType": "Cosmetic (Weapon)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Weapon",
       "credits": 300000,
       "ducats": 300,
       "dates": [
@@ -9884,7 +10289,8 @@
     },
     {
       "itemName": "Green Ki'teer Safari K-Drive Scrawl",
-      "itemType": "Cosmetic (K-Drive)",
+      "itemType": "Cosmetic",
+      "itemSubType": "K-Drive",
       "credits": 75000,
       "ducats": 75,
       "dates": [
@@ -9904,7 +10310,8 @@
     },
     {
       "itemName": "Lunar Renewal Tiger Emblem",
-      "itemType": "Cosmetic (Emblem)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Emblem",
       "credits": 45000,
       "ducats": 55,
       "dates": [
@@ -9925,6 +10332,7 @@
     {
       "itemName": "Tenno Kindred Rug",
       "itemType": "Decoration",
+      "itemSubType": null,
       "credits": 100000,
       "ducats": 225,
       "dates": [
@@ -9947,7 +10355,8 @@
     },
     {
       "itemName": "Primed Heated Charge",
-      "itemType": "Mod (Primed)",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
       "credits": 175000,
       "ducats": 350,
       "dates": [
@@ -9983,7 +10392,8 @@
     },
     {
       "itemName": "Tannukai Longsword Skin",
-      "itemType": "Cosmetic (Weapon)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Weapon",
       "credits": 280000,
       "ducats": 375,
       "dates": [
@@ -10003,6 +10413,7 @@
     {
       "itemName": "Dog Days Protea Display",
       "itemType": "Decoration",
+      "itemSubType": null,
       "credits": 125000,
       "ducats": 90,
       "dates": [
@@ -10015,6 +10426,7 @@
     {
       "itemName": "Javi Luminosity Scrawling",
       "itemType": "Decoration",
+      "itemSubType": null,
       "credits": 100000,
       "ducats": 90,
       "dates": [
@@ -10027,6 +10439,7 @@
     {
       "itemName": "10 x Ki'teer Fireworks",
       "itemType": "Consumable",
+      "itemSubType": null,
       "credits": 100000,
       "ducats": 50,
       "dates": [
@@ -10058,6 +10471,7 @@
     {
       "itemName": "Deimos Saxum Prex",
       "itemType": "Decoration",
+      "itemSubType": null,
       "credits": 100000,
       "ducats": 75,
       "dates": [
@@ -10074,7 +10488,8 @@
     },
     {
       "itemName": "Quanta Aufeis Skin",
-      "itemType": "Cosmetic (Weapon)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Weapon",
       "credits": 300000,
       "ducats": 300,
       "dates": [
@@ -10114,7 +10529,8 @@
     },
     {
       "itemName": "Nidus Immortal Skin",
-      "itemType": "Cosmetic (Warframe Skin)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Warframe Skin",
       "credits": 100000,
       "ducats": 550,
       "dates": [
@@ -10129,6 +10545,7 @@
     {
       "itemName": "Baro Ki'teer Floof",
       "itemType": "Decoration",
+      "itemSubType": null,
       "credits": 125000,
       "ducats": 100,
       "dates": [
