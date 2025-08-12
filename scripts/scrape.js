@@ -8,7 +8,7 @@ const BASE_URL = 'https://wiki.warframe.com';
 
 (async () => {
   const browser = await puppeteer.launch({
-    args: ['--no-sandbox','--disable-setuid-sandbox']
+    args: ['--no-sandbox', '--disable-setuid-sandbox']
   });
   const page = await browser.newPage();
   await page.goto(TARGET_URL, { waitUntil: 'networkidle2', timeout: 60000 });
@@ -19,6 +19,7 @@ const BASE_URL = 'https://wiki.warframe.com';
     const table = document.querySelector('table.listtable.sortable.jquery-tablesorter');
     if (!table) return [];
     const rows = Array.from(table.querySelectorAll('tbody tr'));
+
     return rows.map(row => {
       const cells = row.querySelectorAll('td');
       if (cells.length !== 4) return null;
@@ -50,20 +51,24 @@ const BASE_URL = 'https://wiki.warframe.com';
       const third = cells[2].innerText.trim();
       let credits = null, ducats = null;
       if (third.includes('+')) {
-        const parts = third.split('+').map(s => s.trim().replace(/,/g,''));
+        const parts = third.split('+').map(s => s.trim().replace(/,/g, ''));
         credits = parseInt(parts[0], 10) || null;
-        ducats  = parseInt(parts[1], 10) || null;
+        ducats = parseInt(parts[1], 10) || null;
       } else {
-        credits = parseInt(third.replace(/,/g,''), 10) || null;
+        credits = parseInt(third.replace(/,/g, ''), 10) || null;
       }
-      const fourth = cells[3].innerText.trim().split('\n').map(s => s.trim()).filter(Boolean);
-      const dateString = fourth.length ? fourth[fourth.length - 1] : null;
-      let date = null;
-      if (dateString && /^\d{4}-\d{2}-\d{2}$/.test(dateString)) {
-        const [y,m,d] = dateString.split('-').map(Number);
-        date = new Date(Date.UTC(y, m-1, d, 13, 0, 0)).toISOString(); // 13:00 UTC
-      }
-      return { itemName, itemType, credits, ducats, date, wikiURL, wikiThumbnail };
+
+      // --- START of the updated date parsing logic ---
+      const dateStrings = cells[3].innerText.trim().split('\n').map(s => s.trim()).filter(Boolean);
+      const dates = dateStrings.map(dateString => {
+        if (/^\d{4}-\d{2}-\d{2}/.test(dateString)) {
+          const [y, m, d] = dateString.split('-').map(Number);
+          return new Date(Date.UTC(y, m - 1, d, 13, 0, 0)).toISOString(); // 13:00 UTC
+        }
+        return null; // Return null for any non-conforming date strings
+      }).filter(Boolean); // Filter out any null values
+
+      return { itemName, itemType, credits, ducats, dates, wikiURL, wikiThumbnail };
     }).filter(Boolean);
   }, BASE_URL);
 
