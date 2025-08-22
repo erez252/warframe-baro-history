@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2025-08-15T15:09:34.961Z",
+  "scrapedAt": "2025-08-22T13:19:07.949Z",
   "source": "https://wiki.warframe.com/w/Baro_Ki%27Teer/Trades",
   "items": [
     {
@@ -103,6 +103,7 @@
       "credits": 55000,
       "ducats": 125,
       "dates": [
+        "2025-08-22T13:00:00.000Z",
         "2025-05-30T13:00:00.000Z",
         "2024-12-13T13:00:00.000Z",
         "2024-11-15T13:00:00.000Z",
@@ -220,6 +221,7 @@
       "credits": 100000,
       "ducats": 100,
       "dates": [
+        "2025-08-22T13:00:00.000Z",
         "2024-11-01T13:00:00.000Z",
         "2023-12-15T13:00:00.000Z",
         "2023-05-05T13:00:00.000Z",
@@ -304,6 +306,7 @@
       "credits": 50000,
       "ducats": 80,
       "dates": [
+        "2025-08-22T13:00:00.000Z",
         "2025-04-25T13:00:00.000Z",
         "2025-03-21T13:00:00.000Z",
         "2024-10-04T13:00:00.000Z",
@@ -339,6 +342,7 @@
       "credits": 110000,
       "ducats": 300,
       "dates": [
+        "2025-08-22T13:00:00.000Z",
         "2025-05-16T13:00:00.000Z",
         "2025-01-10T13:00:00.000Z",
         "2024-07-26T13:00:00.000Z",
@@ -622,6 +626,18 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/TheStranger%27sHood%28Operator%29.png/300px-TheStranger%27sHood%28Operator%29.png?52653"
     },
     {
+      "itemName": "Primed Smite The Murmur",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
+      "credits": 130000,
+      "ducats": 375,
+      "dates": [
+        "2025-06-27T13:00:00.000Z"
+      ],
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Smite_The_Murmur",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrimedSmiteTheMurmurMod.png/300px-PrimedSmiteTheMurmurMod.png?1f745"
+    },
+    {
       "itemName": "Jolt",
       "itemType": "Mod",
       "itemSubType": null,
@@ -752,6 +768,7 @@
       "credits": 150000,
       "ducats": 375,
       "dates": [
+        "2025-08-22T13:00:00.000Z",
         "2024-12-13T13:00:00.000Z",
         "2024-05-17T13:00:00.000Z",
         "2023-10-06T13:00:00.000Z",
@@ -1066,6 +1083,7 @@
       "credits": 45000,
       "ducats": 55,
       "dates": [
+        "2025-08-22T13:00:00.000Z",
         "2025-02-21T13:00:00.000Z",
         "2025-02-07T13:00:00.000Z",
         "2025-01-24T13:00:00.000Z",
@@ -1311,6 +1329,7 @@
       "credits": 150000,
       "ducats": 120,
       "dates": [
+        "2025-08-22T13:00:00.000Z",
         "2025-04-11T13:00:00.000Z",
         "2025-03-07T13:00:00.000Z",
         "2024-12-27T13:00:00.000Z",
@@ -1350,6 +1369,7 @@
       "credits": 200000,
       "ducats": 275,
       "dates": [
+        "2025-08-22T13:00:00.000Z",
         "2025-04-11T13:00:00.000Z",
         "2025-02-07T13:00:00.000Z",
         "2024-12-27T13:00:00.000Z",
@@ -1494,6 +1514,7 @@
       "credits": 275000,
       "ducats": 350,
       "dates": [
+        "2025-08-22T13:00:00.000Z",
         "2025-03-21T13:00:00.000Z",
         "2024-09-20T13:00:00.000Z",
         "2024-04-05T13:00:00.000Z",
@@ -1893,6 +1914,7 @@
       "credits": 175000,
       "ducats": 300,
       "dates": [
+        "2025-08-22T13:00:00.000Z",
         "2025-04-11T13:00:00.000Z",
         "2025-02-07T13:00:00.000Z",
         "2024-12-27T13:00:00.000Z",
@@ -2152,6 +2174,7 @@
       "credits": 300000,
       "ducats": 400,
       "dates": [
+        "2025-08-22T13:00:00.000Z",
         "2025-03-21T13:00:00.000Z",
         "2024-10-04T13:00:00.000Z",
         "2024-05-03T13:00:00.000Z",
@@ -2720,6 +2743,7 @@
       "credits": 100000,
       "ducats": 100,
       "dates": [
+        "2025-08-22T13:00:00.000Z",
         "2024-09-20T13:00:00.000Z",
         "2023-12-01T13:00:00.000Z",
         "2023-04-21T13:00:00.000Z",
@@ -2771,41 +2795,34 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/XiphosPrismaSkin.png/300px-XiphosPrismaSkin.png?62bca"
     },
     {
-      "itemName": "Primed Flow",
+      "itemName": "Primed Fever Strike",
       "itemType": "Mod",
       "itemSubType": "Primed",
-      "credits": 110000,
+      "credits": 200000,
       "ducats": 350,
       "dates": [
-        "2025-05-30T13:00:00.000Z",
-        "2025-01-24T13:00:00.000Z",
-        "2024-12-27T13:00:00.000Z",
-        "2024-07-26T13:00:00.000Z",
-        "2024-01-26T13:00:00.000Z",
-        "2023-08-25T13:00:00.000Z",
-        "2023-02-10T13:00:00.000Z",
+        "2025-06-27T13:00:00.000Z",
+        "2025-02-21T13:00:00.000Z",
+        "2024-11-01T13:00:00.000Z",
+        "2024-04-19T13:00:00.000Z",
+        "2023-11-17T13:00:00.000Z",
+        "2023-06-02T13:00:00.000Z",
+        "2022-12-16T13:00:00.000Z",
         "2022-04-22T13:00:00.000Z",
-        "2021-11-19T13:00:00.000Z",
-        "2021-06-18T13:00:00.000Z",
-        "2020-12-18T13:00:00.000Z",
-        "2020-07-03T13:00:00.000Z",
-        "2020-02-14T13:00:00.000Z",
-        "2019-09-13T13:00:00.000Z",
-        "2019-05-03T13:00:00.000Z",
-        "2018-12-14T13:00:00.000Z",
-        "2018-03-09T13:00:00.000Z",
-        "2017-10-06T13:00:00.000Z",
-        "2017-05-19T13:00:00.000Z",
-        "2017-03-24T13:00:00.000Z",
-        "2016-11-04T13:00:00.000Z",
-        "2016-08-12T13:00:00.000Z",
-        "2016-05-20T13:00:00.000Z",
-        "2015-12-11T13:00:00.000Z",
-        "2015-03-06T13:00:00.000Z",
-        "2014-12-26T13:00:00.000Z"
+        "2021-11-05T13:00:00.000Z",
+        "2021-04-09T13:00:00.000Z",
+        "2020-10-09T13:00:00.000Z",
+        "2020-03-27T13:00:00.000Z",
+        "2019-10-25T13:00:00.000Z",
+        "2019-06-28T13:00:00.000Z",
+        "2019-03-08T13:00:00.000Z",
+        "2018-12-28T13:00:00.000Z",
+        "2018-09-07T13:00:00.000Z",
+        "2018-04-06T13:00:00.000Z",
+        "2017-11-17T13:00:00.000Z"
       ],
-      "wikiURL": "https://wiki.warframe.com/w/Primed_Flow",
-      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedFlowMod.png?5f2d5"
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Fever_Strike",
+      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedFeverStrikeMod.png?3d976"
     },
     {
       "itemName": "Gara Immortal Skin",
@@ -3245,6 +3262,7 @@
       "credits": 200000,
       "ducats": 500,
       "dates": [
+        "2025-08-22T13:00:00.000Z",
         "2025-05-16T13:00:00.000Z",
         "2025-01-10T13:00:00.000Z",
         "2024-08-23T13:00:00.000Z",
@@ -3344,6 +3362,7 @@
       "credits": 100000,
       "ducats": 100,
       "dates": [
+        "2025-08-22T13:00:00.000Z",
         "2025-05-02T13:00:00.000Z",
         "2025-04-18T13:00:00.000Z",
         "2024-10-04T13:00:00.000Z",
@@ -3450,6 +3469,7 @@
       "credits": 150000,
       "ducats": 400,
       "dates": [
+        "2025-08-22T13:00:00.000Z",
         "2025-04-18T13:00:00.000Z",
         "2025-03-07T13:00:00.000Z",
         "2024-11-29T13:00:00.000Z",
@@ -3504,6 +3524,7 @@
       "credits": 300000,
       "ducats": 450,
       "dates": [
+        "2025-08-22T13:00:00.000Z",
         "2025-05-16T13:00:00.000Z",
         "2024-12-27T13:00:00.000Z",
         "2024-05-31T13:00:00.000Z",
@@ -3663,6 +3684,7 @@
       "credits": 45000,
       "ducats": 50,
       "dates": [
+        "2025-08-22T13:00:00.000Z",
         "2025-04-18T13:00:00.000Z",
         "2025-03-21T13:00:00.000Z",
         "2024-09-20T13:00:00.000Z",
@@ -4068,24 +4090,27 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/TannukaiArmorChest.png/300px-TannukaiArmorChest.png?e91bb"
     },
     {
-      "itemName": "Primed Ammo Stock",
+      "itemName": "Primed Expel Corpus",
       "itemType": "Mod",
       "itemSubType": "Primed",
-      "credits": 200000,
-      "ducats": 280,
+      "credits": 140000,
+      "ducats": 350,
       "dates": [
-        "2025-07-25T13:00:00.000Z",
-        "2025-04-18T13:00:00.000Z",
-        "2024-12-13T13:00:00.000Z",
-        "2024-03-22T13:00:00.000Z",
-        "2023-10-06T13:00:00.000Z",
-        "2023-04-21T13:00:00.000Z",
-        "2022-10-07T13:00:00.000Z",
-        "2022-03-11T13:00:00.000Z",
-        "2021-09-24T13:00:00.000Z"
+        "2024-06-14T13:00:00.000Z",
+        "2023-12-01T13:00:00.000Z",
+        "2023-05-05T13:00:00.000Z",
+        "2022-09-23T13:00:00.000Z",
+        "2022-02-25T13:00:00.000Z",
+        "2021-05-21T13:00:00.000Z",
+        "2020-11-06T13:00:00.000Z",
+        "2020-04-24T13:00:00.000Z",
+        "2019-11-08T13:00:00.000Z",
+        "2019-06-28T13:00:00.000Z",
+        "2019-02-08T13:00:00.000Z",
+        "2018-10-05T13:00:00.000Z"
       ],
-      "wikiURL": "https://wiki.warframe.com/w/Primed_Ammo_Stock",
-      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedAmmoStockMod.png?852bf"
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Expel_Corpus",
+      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedExpelCorpusMod.png?99807"
     },
     {
       "itemName": "Puspa Luxxum Ornament",
@@ -4492,40 +4517,36 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/Ki%27teerSyandana.png/300px-Ki%27teerSyandana.png?439dd"
     },
     {
-      "itemName": "Primed Ravage",
+      "itemName": "Primed Fast Hands",
       "itemType": "Mod",
       "itemSubType": "Primed",
-      "credits": 100000,
-      "ducats": 280,
+      "credits": 120000,
+      "ducats": 375,
       "dates": [
-        "2025-07-11T13:00:00.000Z",
-        "2025-03-07T13:00:00.000Z",
-        "2024-08-09T13:00:00.000Z",
-        "2024-02-23T13:00:00.000Z",
-        "2023-09-22T13:00:00.000Z",
-        "2023-04-21T13:00:00.000Z",
-        "2022-10-21T13:00:00.000Z",
-        "2022-04-08T13:00:00.000Z",
-        "2021-10-22T13:00:00.000Z",
-        "2021-04-23T13:00:00.000Z",
-        "2020-10-09T13:00:00.000Z",
-        "2020-02-28T13:00:00.000Z",
-        "2019-09-13T13:00:00.000Z",
+        "2024-11-01T13:00:00.000Z",
+        "2024-01-12T13:00:00.000Z",
+        "2023-06-30T13:00:00.000Z",
+        "2022-09-09T13:00:00.000Z",
+        "2022-01-28T13:00:00.000Z",
+        "2021-07-02T13:00:00.000Z",
+        "2021-01-01T13:00:00.000Z",
+        "2020-06-19T13:00:00.000Z",
+        "2019-12-06T13:00:00.000Z",
+        "2019-08-30T13:00:00.000Z",
         "2019-05-03T13:00:00.000Z",
-        "2018-12-28T13:00:00.000Z",
+        "2018-11-30T13:00:00.000Z",
         "2018-07-13T13:00:00.000Z",
         "2018-02-23T13:00:00.000Z",
-        "2017-10-06T13:00:00.000Z",
-        "2017-05-19T13:00:00.000Z",
-        "2016-12-30T13:00:00.000Z",
-        "2016-08-12T13:00:00.000Z",
-        "2016-05-20T13:00:00.000Z",
-        "2015-09-18T13:00:00.000Z",
-        "2015-06-12T13:00:00.000Z",
-        "2014-12-12T13:00:00.000Z"
+        "2017-09-22T13:00:00.000Z",
+        "2017-05-05T13:00:00.000Z",
+        "2016-12-16T13:00:00.000Z",
+        "2016-06-17T13:00:00.000Z",
+        "2015-12-11T13:00:00.000Z",
+        "2015-03-20T13:00:00.000Z",
+        "2015-01-09T13:00:00.000Z"
       ],
-      "wikiURL": "https://wiki.warframe.com/w/Primed_Ravage",
-      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrimedRavageMod.png/300px-PrimedRavageMod.png?450ba"
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Fast_Hands",
+      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedFastHandsMod.png?11d5d"
     },
     {
       "itemName": "Dragon Mod Pack",
@@ -4631,6 +4652,7 @@
       "credits": 100000,
       "ducats": 550,
       "dates": [
+        "2025-08-22T13:00:00.000Z",
         "2025-03-07T13:00:00.000Z",
         "2024-09-06T13:00:00.000Z",
         "2024-01-12T13:00:00.000Z",
@@ -4738,6 +4760,7 @@
       "credits": 200000,
       "ducats": 410,
       "dates": [
+        "2025-08-22T13:00:00.000Z",
         "2025-05-02T13:00:00.000Z",
         "2024-12-27T13:00:00.000Z",
         "2024-07-26T13:00:00.000Z",
@@ -6010,44 +6033,21 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/BronzeKubrowBust.png/300px-BronzeKubrowBust.png?e65d4"
     },
     {
-      "itemName": "Primed Continuity",
+      "itemName": "Primed Redirection",
       "itemType": "Mod",
       "itemSubType": "Primed",
-      "credits": 100000,
+      "credits": 225000,
       "ducats": 350,
       "dates": [
+        "2025-07-25T13:00:00.000Z",
         "2025-03-21T13:00:00.000Z",
         "2024-12-27T13:00:00.000Z",
         "2024-11-29T13:00:00.000Z",
-        "2024-05-31T13:00:00.000Z",
-        "2023-12-01T13:00:00.000Z",
-        "2023-06-16T13:00:00.000Z",
-        "2023-01-13T13:00:00.000Z",
-        "2022-08-26T13:00:00.000Z",
-        "2022-08-12T13:00:00.000Z",
-        "2022-07-29T13:00:00.000Z",
-        "2022-07-01T13:00:00.000Z",
-        "2022-01-28T13:00:00.000Z",
-        "2021-08-27T13:00:00.000Z",
-        "2021-02-12T13:00:00.000Z",
-        "2020-07-31T13:00:00.000Z",
-        "2020-02-28T13:00:00.000Z",
-        "2019-10-25T13:00:00.000Z",
-        "2019-06-14T13:00:00.000Z",
-        "2019-01-25T13:00:00.000Z",
-        "2018-10-05T13:00:00.000Z",
-        "2018-06-15T13:00:00.000Z",
-        "2018-01-12T13:00:00.000Z",
-        "2017-07-14T13:00:00.000Z",
-        "2017-03-10T13:00:00.000Z",
-        "2016-11-04T13:00:00.000Z",
-        "2016-06-03T13:00:00.000Z",
-        "2015-11-27T13:00:00.000Z",
-        "2015-02-20T13:00:00.000Z",
-        "2014-12-12T13:00:00.000Z"
+        "2024-06-14T13:00:00.000Z",
+        "2023-12-15T13:00:00.000Z"
       ],
-      "wikiURL": "https://wiki.warframe.com/w/Primed_Continuity",
-      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrimedContinuityMod.png/300px-PrimedContinuityMod.png?6a171"
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Redirection",
+      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedRedirectionMod.png?05aa6"
     },
     {
       "itemName": "Void Trader",
@@ -6098,7 +6098,7 @@
         "2024-03-22T13:00:00.000Z"
       ],
       "wikiURL": "https://wiki.warframe.com/w/Rakta_Syandana",
-      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/RaktaSyandana.png/300px-RaktaSyandana.png?95eaa"
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/RaktaSyandana.png/300px-RaktaSyandana.png?1d08e"
     },
     {
       "itemName": "Railjack Retrofit Login Music",
@@ -6171,6 +6171,7 @@
       "credits": 100000,
       "ducats": 100,
       "dates": [
+        "2025-08-22T13:00:00.000Z",
         "2024-11-15T13:00:00.000Z",
         "2024-02-09T13:00:00.000Z",
         "2023-06-30T13:00:00.000Z",
@@ -6426,6 +6427,7 @@
       "credits": 275000,
       "ducats": 350,
       "dates": [
+        "2025-08-22T13:00:00.000Z",
         "2025-04-11T13:00:00.000Z",
         "2025-01-10T13:00:00.000Z",
         "2024-12-27T13:00:00.000Z",
@@ -6676,6 +6678,7 @@
       "credits": 500000,
       "ducats": 400,
       "dates": [
+        "2025-08-22T13:00:00.000Z",
         "2025-06-27T13:00:00.000Z",
         "2025-02-07T13:00:00.000Z",
         "2024-05-17T13:00:00.000Z",
@@ -7695,18 +7698,6 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrimedStabilizerMod.png/300px-PrimedStabilizerMod.png?b85a2"
     },
     {
-      "itemName": "Primed Smite the Murmur",
-      "itemType": "Mod",
-      "itemSubType": "Primed",
-      "credits": 130000,
-      "ducats": 375,
-      "dates": [
-        "2025-06-27T13:00:00.000Z"
-      ],
-      "wikiURL": "https://wiki.warframe.com/w/Primed_Smite_The_Murmur",
-      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrimedSmiteTheMurmurMod.png/300px-PrimedSmiteTheMurmurMod.png?1f745"
-    },
-    {
       "itemName": "Primed Smite Orokin",
       "itemType": "Mod",
       "itemSubType": "Primed",
@@ -7747,6 +7738,27 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/PrimedSmiteInfestedMod.png?64c6e"
     },
     {
+      "itemName": "Primed Smite Grineer",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
+      "credits": 140000,
+      "ducats": 350,
+      "dates": [
+        "2025-07-25T13:00:00.000Z",
+        "2024-11-29T13:00:00.000Z",
+        "2024-04-05T13:00:00.000Z",
+        "2023-07-28T13:00:00.000Z",
+        "2022-12-02T13:00:00.000Z",
+        "2022-04-08T13:00:00.000Z",
+        "2021-08-13T13:00:00.000Z",
+        "2021-01-29T13:00:00.000Z",
+        "2020-07-17T13:00:00.000Z",
+        "2019-12-20T13:00:00.000Z"
+      ],
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Smite_Grineer",
+      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedSmiteGrineerMod.png?de706"
+    },
+    {
       "itemName": "Harkonar Wraith Arm Armor",
       "itemType": "Cosmetic",
       "itemSubType": "Armor",
@@ -7773,27 +7785,6 @@
       ],
       "wikiURL": "https://wiki.warframe.com/w/Armor_(Cosmetic)",
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/WraithHarkonarArmArmour.png/300px-WraithHarkonarArmArmour.png?7f7d5"
-    },
-    {
-      "itemName": "Primed Smite Grineer",
-      "itemType": "Mod",
-      "itemSubType": "Primed",
-      "credits": 140000,
-      "ducats": 350,
-      "dates": [
-        "2025-07-25T13:00:00.000Z",
-        "2024-11-29T13:00:00.000Z",
-        "2024-04-05T13:00:00.000Z",
-        "2023-07-28T13:00:00.000Z",
-        "2022-12-02T13:00:00.000Z",
-        "2022-04-08T13:00:00.000Z",
-        "2021-08-13T13:00:00.000Z",
-        "2021-01-29T13:00:00.000Z",
-        "2020-07-17T13:00:00.000Z",
-        "2019-12-20T13:00:00.000Z"
-      ],
-      "wikiURL": "https://wiki.warframe.com/w/Primed_Smite_Grineer",
-      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedSmiteGrineerMod.png?de706"
     },
     {
       "itemName": "Primed Slip Magazine",
@@ -7829,6 +7820,18 @@
       ],
       "wikiURL": "https://wiki.warframe.com/w/Primed_Slip_Magazine",
       "wikiThumbnail": "https://wiki.warframe.com/images/PrimedSlipMagazineMod.png?f79a0"
+    },
+    {
+      "itemName": "Primed Cleanse The Murmur",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
+      "credits": 130000,
+      "ducats": 375,
+      "dates": [
+        "2025-08-22T13:00:00.000Z"
+      ],
+      "wikiURL": "https://wiki.warframe.com/w/Special:Upload?wpDestFile=PrimedCleanseTheMurmur.png",
+      "wikiThumbnail": null
     },
     {
       "itemName": "Redeemer Elixis Skin",
@@ -7869,21 +7872,41 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/RedeemerElixisSkin.png/300px-RedeemerElixisSkin.png?10a48"
     },
     {
-      "itemName": "Primed Redirection",
+      "itemName": "Primed Reach",
       "itemType": "Mod",
       "itemSubType": "Primed",
-      "credits": 225000,
-      "ducats": 350,
+      "credits": 220000,
+      "ducats": 300,
       "dates": [
-        "2025-07-25T13:00:00.000Z",
-        "2025-03-21T13:00:00.000Z",
-        "2024-12-27T13:00:00.000Z",
-        "2024-11-29T13:00:00.000Z",
-        "2024-06-14T13:00:00.000Z",
-        "2023-12-15T13:00:00.000Z"
+        "2025-08-08T13:00:00.000Z",
+        "2025-05-02T13:00:00.000Z",
+        "2024-12-13T13:00:00.000Z",
+        "2024-06-28T13:00:00.000Z",
+        "2024-01-12T13:00:00.000Z",
+        "2023-07-14T13:00:00.000Z",
+        "2023-01-27T13:00:00.000Z",
+        "2022-06-03T13:00:00.000Z",
+        "2021-12-03T13:00:00.000Z",
+        "2021-07-16T13:00:00.000Z",
+        "2021-01-15T13:00:00.000Z",
+        "2020-11-20T13:00:00.000Z",
+        "2020-05-22T13:00:00.000Z",
+        "2019-10-25T13:00:00.000Z",
+        "2019-06-14T13:00:00.000Z",
+        "2019-02-22T13:00:00.000Z",
+        "2018-10-05T13:00:00.000Z",
+        "2018-05-18T13:00:00.000Z",
+        "2018-01-12T13:00:00.000Z",
+        "2017-08-25T13:00:00.000Z",
+        "2017-04-07T13:00:00.000Z",
+        "2016-12-16T13:00:00.000Z",
+        "2016-07-01T13:00:00.000Z",
+        "2016-02-12T13:00:00.000Z",
+        "2015-07-10T13:00:00.000Z",
+        "2015-02-06T13:00:00.000Z"
       ],
-      "wikiURL": "https://wiki.warframe.com/w/Primed_Redirection",
-      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedRedirectionMod.png?05aa6"
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Reach",
+      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedReachMod.png?58fbb"
     },
     {
       "itemName": "Ki'teer Shoulder Plates",
@@ -7957,41 +7980,40 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/KiTeerKubrowArmor.png/300px-KiTeerKubrowArmor.png?f68bf"
     },
     {
-      "itemName": "Primed Reach",
+      "itemName": "Primed Ravage",
       "itemType": "Mod",
       "itemSubType": "Primed",
-      "credits": 220000,
-      "ducats": 300,
+      "credits": 100000,
+      "ducats": 280,
       "dates": [
-        "2025-08-08T13:00:00.000Z",
-        "2025-05-02T13:00:00.000Z",
-        "2024-12-13T13:00:00.000Z",
-        "2024-06-28T13:00:00.000Z",
-        "2024-01-12T13:00:00.000Z",
-        "2023-07-14T13:00:00.000Z",
-        "2023-01-27T13:00:00.000Z",
-        "2022-06-03T13:00:00.000Z",
-        "2021-12-03T13:00:00.000Z",
-        "2021-07-16T13:00:00.000Z",
-        "2021-01-15T13:00:00.000Z",
-        "2020-11-20T13:00:00.000Z",
-        "2020-05-22T13:00:00.000Z",
-        "2019-10-25T13:00:00.000Z",
-        "2019-06-14T13:00:00.000Z",
-        "2019-02-22T13:00:00.000Z",
-        "2018-10-05T13:00:00.000Z",
-        "2018-05-18T13:00:00.000Z",
-        "2018-01-12T13:00:00.000Z",
-        "2017-08-25T13:00:00.000Z",
-        "2017-04-07T13:00:00.000Z",
-        "2016-12-16T13:00:00.000Z",
-        "2016-07-01T13:00:00.000Z",
-        "2016-02-12T13:00:00.000Z",
-        "2015-07-10T13:00:00.000Z",
-        "2015-02-06T13:00:00.000Z"
+        "2025-07-11T13:00:00.000Z",
+        "2025-03-07T13:00:00.000Z",
+        "2024-08-09T13:00:00.000Z",
+        "2024-02-23T13:00:00.000Z",
+        "2023-09-22T13:00:00.000Z",
+        "2023-04-21T13:00:00.000Z",
+        "2022-10-21T13:00:00.000Z",
+        "2022-04-08T13:00:00.000Z",
+        "2021-10-22T13:00:00.000Z",
+        "2021-04-23T13:00:00.000Z",
+        "2020-10-09T13:00:00.000Z",
+        "2020-02-28T13:00:00.000Z",
+        "2019-09-13T13:00:00.000Z",
+        "2019-05-03T13:00:00.000Z",
+        "2018-12-28T13:00:00.000Z",
+        "2018-07-13T13:00:00.000Z",
+        "2018-02-23T13:00:00.000Z",
+        "2017-10-06T13:00:00.000Z",
+        "2017-05-19T13:00:00.000Z",
+        "2016-12-30T13:00:00.000Z",
+        "2016-08-12T13:00:00.000Z",
+        "2016-05-20T13:00:00.000Z",
+        "2015-09-18T13:00:00.000Z",
+        "2015-06-12T13:00:00.000Z",
+        "2014-12-12T13:00:00.000Z"
       ],
-      "wikiURL": "https://wiki.warframe.com/w/Primed_Reach",
-      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedReachMod.png?58fbb"
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Ravage",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrimedRavageMod.png/300px-PrimedRavageMod.png?450ba"
     },
     {
       "itemName": "Reshantur Cult Spear Skin",
@@ -8010,36 +8032,6 @@
       ],
       "wikiURL": "https://wiki.warframe.com/w/Reshantur_Cult_Spear_Skin",
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/ReshanturCultSpearSkin.png/300px-ReshanturCultSpearSkin.png?71e32"
-    },
-    {
-      "itemName": "Primed Fever Strike",
-      "itemType": "Mod",
-      "itemSubType": "Primed",
-      "credits": 200000,
-      "ducats": 350,
-      "dates": [
-        "2025-06-27T13:00:00.000Z",
-        "2025-02-21T13:00:00.000Z",
-        "2024-11-01T13:00:00.000Z",
-        "2024-04-19T13:00:00.000Z",
-        "2023-11-17T13:00:00.000Z",
-        "2023-06-02T13:00:00.000Z",
-        "2022-12-16T13:00:00.000Z",
-        "2022-04-22T13:00:00.000Z",
-        "2021-11-05T13:00:00.000Z",
-        "2021-04-09T13:00:00.000Z",
-        "2020-10-09T13:00:00.000Z",
-        "2020-03-27T13:00:00.000Z",
-        "2019-10-25T13:00:00.000Z",
-        "2019-06-28T13:00:00.000Z",
-        "2019-03-08T13:00:00.000Z",
-        "2018-12-28T13:00:00.000Z",
-        "2018-09-07T13:00:00.000Z",
-        "2018-04-06T13:00:00.000Z",
-        "2017-11-17T13:00:00.000Z"
-      ],
-      "wikiURL": "https://wiki.warframe.com/w/Primed_Fever_Strike",
-      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedFeverStrikeMod.png?3d976"
     },
     {
       "itemName": "Ki'teer Chest Plate",
@@ -8076,6 +8068,24 @@
       ],
       "wikiURL": "https://wiki.warframe.com/w/Warframe_Cosmetics#Armor",
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/KiTeerChestPlate.png/300px-KiTeerChestPlate.png?80996"
+    },
+    {
+      "itemName": "Paris Abra Skin",
+      "itemType": "Cosmetic",
+      "itemSubType": "Weapon",
+      "credits": 275000,
+      "ducats": 315,
+      "dates": [
+        "2025-06-13T13:00:00.000Z",
+        "2025-04-18T13:00:00.000Z",
+        "2024-11-15T13:00:00.000Z",
+        "2024-10-18T13:00:00.000Z",
+        "2024-05-03T13:00:00.000Z",
+        "2023-12-01T13:00:00.000Z",
+        "2023-06-16T13:00:00.000Z"
+      ],
+      "wikiURL": "https://wiki.warframe.com/w/Paris_Abra_Skin",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/ParisAbraSkin.png/300px-ParisAbraSkin.png?201e7"
     },
     {
       "itemName": "Karishh's Dinnerware",
@@ -8130,24 +8140,6 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrimedEosSpurs.png/300px-PrimedEosSpurs.png?d4018"
     },
     {
-      "itemName": "Paris Abra Skin",
-      "itemType": "Cosmetic",
-      "itemSubType": "Weapon",
-      "credits": 275000,
-      "ducats": 315,
-      "dates": [
-        "2025-06-13T13:00:00.000Z",
-        "2025-04-18T13:00:00.000Z",
-        "2024-11-15T13:00:00.000Z",
-        "2024-10-18T13:00:00.000Z",
-        "2024-05-03T13:00:00.000Z",
-        "2023-12-01T13:00:00.000Z",
-        "2023-06-16T13:00:00.000Z"
-      ],
-      "wikiURL": "https://wiki.warframe.com/w/Paris_Abra_Skin",
-      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/ParisAbraSkin.png/300px-ParisAbraSkin.png?201e7"
-    },
-    {
       "itemName": "Kavat Sentinel Mask",
       "itemType": "Cosmetic",
       "itemSubType": "Sentinel",
@@ -8178,20 +8170,6 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/KavatSentinelMask.png/300px-KavatSentinelMask.png?ea343"
     },
     {
-      "itemName": "Lunar Renewal Snake Emblem",
-      "itemType": "Cosmetic",
-      "itemSubType": "Emblem",
-      "credits": 1,
-      "ducats": null,
-      "dates": [
-        "2025-02-21T13:00:00.000Z",
-        "2025-02-07T13:00:00.000Z",
-        "2025-01-24T13:00:00.000Z"
-      ],
-      "wikiURL": "https://wiki.warframe.com/w/Warframe_Cosmetics#Other_Emblems",
-      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/LunarRenewalSnakeEmblem.png/300px-LunarRenewalSnakeEmblem.png?eed60"
-    },
-    {
       "itemName": "Glaxion Vandal",
       "itemType": "Weapon",
       "itemSubType": null,
@@ -8216,12 +8194,27 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/GlaxionVandal.png/300px-GlaxionVandal.png?f5763"
     },
     {
+      "itemName": "Lunar Renewal Snake Emblem",
+      "itemType": "Cosmetic",
+      "itemSubType": "Emblem",
+      "credits": 1,
+      "ducats": null,
+      "dates": [
+        "2025-02-21T13:00:00.000Z",
+        "2025-02-07T13:00:00.000Z",
+        "2025-01-24T13:00:00.000Z"
+      ],
+      "wikiURL": "https://wiki.warframe.com/w/Warframe_Cosmetics#Other_Emblems",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/LunarRenewalSnakeEmblem.png/300px-LunarRenewalSnakeEmblem.png?eed60"
+    },
+    {
       "itemName": "Primed Fulmination",
       "itemType": "Mod",
       "itemSubType": "Primed",
       "credits": 175000,
       "ducats": 350,
       "dates": [
+        "2025-08-22T13:00:00.000Z",
         "2025-05-16T13:00:00.000Z",
         "2025-01-10T13:00:00.000Z",
         "2024-07-12T13:00:00.000Z",
@@ -8235,6 +8228,43 @@
       ],
       "wikiURL": "https://wiki.warframe.com/w/Primed_Fulmination",
       "wikiThumbnail": "https://wiki.warframe.com/images/PrimedFulminationMod.png?7ce72"
+    },
+    {
+      "itemName": "Primed Flow",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
+      "credits": 110000,
+      "ducats": 350,
+      "dates": [
+        "2025-05-30T13:00:00.000Z",
+        "2025-01-24T13:00:00.000Z",
+        "2024-12-27T13:00:00.000Z",
+        "2024-07-26T13:00:00.000Z",
+        "2024-01-26T13:00:00.000Z",
+        "2023-08-25T13:00:00.000Z",
+        "2023-02-10T13:00:00.000Z",
+        "2022-04-22T13:00:00.000Z",
+        "2021-11-19T13:00:00.000Z",
+        "2021-06-18T13:00:00.000Z",
+        "2020-12-18T13:00:00.000Z",
+        "2020-07-03T13:00:00.000Z",
+        "2020-02-14T13:00:00.000Z",
+        "2019-09-13T13:00:00.000Z",
+        "2019-05-03T13:00:00.000Z",
+        "2018-12-14T13:00:00.000Z",
+        "2018-03-09T13:00:00.000Z",
+        "2017-10-06T13:00:00.000Z",
+        "2017-05-19T13:00:00.000Z",
+        "2017-03-24T13:00:00.000Z",
+        "2016-11-04T13:00:00.000Z",
+        "2016-08-12T13:00:00.000Z",
+        "2016-05-20T13:00:00.000Z",
+        "2015-12-11T13:00:00.000Z",
+        "2015-03-06T13:00:00.000Z",
+        "2014-12-26T13:00:00.000Z"
+      ],
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Flow",
+      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedFlowMod.png?5f2d5"
     },
     {
       "itemName": "Xaku Prex",
@@ -8323,36 +8353,36 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrimedPistolGambitMod.png/300px-PrimedPistolGambitMod.png?3ede1"
     },
     {
-      "itemName": "Primed Fast Hands",
-      "itemType": "Mod",
-      "itemSubType": "Primed",
-      "credits": 120000,
-      "ducats": 375,
+      "itemName": "Noggle Statue - Excalibur with Odonata",
+      "itemType": "Decoration",
+      "itemSubType": null,
+      "credits": 200000,
+      "ducats": 90,
       "dates": [
-        "2024-11-01T13:00:00.000Z",
-        "2024-01-12T13:00:00.000Z",
-        "2023-06-30T13:00:00.000Z",
-        "2022-09-09T13:00:00.000Z",
-        "2022-01-28T13:00:00.000Z",
-        "2021-07-02T13:00:00.000Z",
-        "2021-01-01T13:00:00.000Z",
-        "2020-06-19T13:00:00.000Z",
-        "2019-12-06T13:00:00.000Z",
-        "2019-08-30T13:00:00.000Z",
-        "2019-05-03T13:00:00.000Z",
-        "2018-11-30T13:00:00.000Z",
-        "2018-07-13T13:00:00.000Z",
-        "2018-02-23T13:00:00.000Z",
-        "2017-09-22T13:00:00.000Z",
-        "2017-05-05T13:00:00.000Z",
-        "2016-12-16T13:00:00.000Z",
-        "2016-06-17T13:00:00.000Z",
-        "2015-12-11T13:00:00.000Z",
-        "2015-03-20T13:00:00.000Z",
-        "2015-01-09T13:00:00.000Z"
+        "2025-05-02T13:00:00.000Z",
+        "2025-04-18T13:00:00.000Z",
+        "2024-11-29T13:00:00.000Z",
+        "2024-10-18T13:00:00.000Z",
+        "2024-02-09T13:00:00.000Z",
+        "2023-03-24T13:00:00.000Z",
+        "2022-08-26T13:00:00.000Z",
+        "2022-08-12T13:00:00.000Z",
+        "2022-07-29T13:00:00.000Z",
+        "2022-06-17T13:00:00.000Z",
+        "2021-12-31T13:00:00.000Z",
+        "2021-08-27T13:00:00.000Z",
+        "2021-04-09T13:00:00.000Z",
+        "2020-10-23T13:00:00.000Z",
+        "2020-06-05T13:00:00.000Z",
+        "2020-01-17T13:00:00.000Z",
+        "2019-08-16T13:00:00.000Z",
+        "2019-04-19T13:00:00.000Z",
+        "2018-12-28T13:00:00.000Z",
+        "2018-08-24T13:00:00.000Z",
+        "2018-04-06T13:00:00.000Z"
       ],
-      "wikiURL": "https://wiki.warframe.com/w/Primed_Fast_Hands",
-      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedFastHandsMod.png?11d5d"
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Noggles",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/BobbleheadExcaliburArchwing.png/300px-BobbleheadExcaliburArchwing.png?29e9e"
     },
     {
       "itemName": "Pack Leader Emblem",
@@ -8411,16 +8441,20 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/KiTeerForosChestPlate.png/300px-KiTeerForosChestPlate.png?3827b"
     },
     {
-      "itemName": "Primed Expel the Murmur",
+      "itemName": "Primed Convulsion",
       "itemType": "Mod",
       "itemSubType": "Primed",
-      "credits": 130000,
-      "ducats": 375,
+      "credits": 175000,
+      "ducats": 350,
       "dates": [
-        "2025-07-25T13:00:00.000Z"
+        "2025-07-25T13:00:00.000Z",
+        "2025-04-04T13:00:00.000Z",
+        "2024-11-29T13:00:00.000Z",
+        "2024-06-14T13:00:00.000Z",
+        "2023-12-29T13:00:00.000Z"
       ],
-      "wikiURL": "https://wiki.warframe.com/w/Primed_Expel_The_Murmur",
-      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrimedExpelTheMurmurMod.png/300px-PrimedExpelTheMurmurMod.png?31ac2"
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Convulsion",
+      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedConvulsionMod.png?72f2e"
     },
     {
       "itemName": "5 x Corrupted Bombard Specter",
@@ -8493,29 +8527,6 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/HarkonarWraithCloak.png/300px-HarkonarWraithCloak.png?1e353"
     },
     {
-      "itemName": "Primed Expel Corpus",
-      "itemType": "Mod",
-      "itemSubType": "Primed",
-      "credits": 140000,
-      "ducats": 350,
-      "dates": [
-        "2024-06-14T13:00:00.000Z",
-        "2023-12-01T13:00:00.000Z",
-        "2023-05-05T13:00:00.000Z",
-        "2022-09-23T13:00:00.000Z",
-        "2022-02-25T13:00:00.000Z",
-        "2021-05-21T13:00:00.000Z",
-        "2020-11-06T13:00:00.000Z",
-        "2020-04-24T13:00:00.000Z",
-        "2019-11-08T13:00:00.000Z",
-        "2019-06-28T13:00:00.000Z",
-        "2019-02-08T13:00:00.000Z",
-        "2018-10-05T13:00:00.000Z"
-      ],
-      "wikiURL": "https://wiki.warframe.com/w/Primed_Expel_Corpus",
-      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedExpelCorpusMod.png?99807"
-    },
-    {
       "itemName": "Primed Deadly Efficiency",
       "itemType": "Mod",
       "itemSubType": "Primed",
@@ -8530,6 +8541,26 @@
       ],
       "wikiURL": "https://wiki.warframe.com/w/Primed_Deadly_Efficiency",
       "wikiThumbnail": "https://wiki.warframe.com/images/PrimedDeadlyEfficiencyMod.png?c8e7b"
+    },
+    {
+      "itemName": "Primed Ammo Stock",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
+      "credits": 200000,
+      "ducats": 280,
+      "dates": [
+        "2025-07-25T13:00:00.000Z",
+        "2025-04-18T13:00:00.000Z",
+        "2024-12-13T13:00:00.000Z",
+        "2024-03-22T13:00:00.000Z",
+        "2023-10-06T13:00:00.000Z",
+        "2023-04-21T13:00:00.000Z",
+        "2022-10-07T13:00:00.000Z",
+        "2022-03-11T13:00:00.000Z",
+        "2021-09-24T13:00:00.000Z"
+      ],
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Ammo_Stock",
+      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedAmmoStockMod.png?852bf"
     },
     {
       "itemName": "Primed Expel Orokin",
@@ -8553,20 +8584,44 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/PrimedExpelOrokinMod.png?2497c"
     },
     {
-      "itemName": "Primed Convulsion",
+      "itemName": "Primed Continuity",
       "itemType": "Mod",
       "itemSubType": "Primed",
-      "credits": 175000,
+      "credits": 100000,
       "ducats": 350,
       "dates": [
-        "2025-07-25T13:00:00.000Z",
-        "2025-04-04T13:00:00.000Z",
+        "2025-03-21T13:00:00.000Z",
+        "2024-12-27T13:00:00.000Z",
         "2024-11-29T13:00:00.000Z",
-        "2024-06-14T13:00:00.000Z",
-        "2023-12-29T13:00:00.000Z"
+        "2024-05-31T13:00:00.000Z",
+        "2023-12-01T13:00:00.000Z",
+        "2023-06-16T13:00:00.000Z",
+        "2023-01-13T13:00:00.000Z",
+        "2022-08-26T13:00:00.000Z",
+        "2022-08-12T13:00:00.000Z",
+        "2022-07-29T13:00:00.000Z",
+        "2022-07-01T13:00:00.000Z",
+        "2022-01-28T13:00:00.000Z",
+        "2021-08-27T13:00:00.000Z",
+        "2021-02-12T13:00:00.000Z",
+        "2020-07-31T13:00:00.000Z",
+        "2020-02-28T13:00:00.000Z",
+        "2019-10-25T13:00:00.000Z",
+        "2019-06-14T13:00:00.000Z",
+        "2019-01-25T13:00:00.000Z",
+        "2018-10-05T13:00:00.000Z",
+        "2018-06-15T13:00:00.000Z",
+        "2018-01-12T13:00:00.000Z",
+        "2017-07-14T13:00:00.000Z",
+        "2017-03-10T13:00:00.000Z",
+        "2016-11-04T13:00:00.000Z",
+        "2016-06-03T13:00:00.000Z",
+        "2015-11-27T13:00:00.000Z",
+        "2015-02-20T13:00:00.000Z",
+        "2014-12-12T13:00:00.000Z"
       ],
-      "wikiURL": "https://wiki.warframe.com/w/Primed_Convulsion",
-      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedConvulsionMod.png?72f2e"
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Continuity",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrimedContinuityMod.png/300px-PrimedContinuityMod.png?6a171"
     },
     {
       "itemName": "Primed Rifle Ammo Mutation",
@@ -9033,36 +9088,16 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/Ki%27teerGrethShoulderPlates.png/300px-Ki%27teerGrethShoulderPlates.png?a9b30"
     },
     {
-      "itemName": "Noggle Statue - Excalibur with Odonata",
-      "itemType": "Decoration",
-      "itemSubType": null,
-      "credits": 200000,
-      "ducats": 90,
+      "itemName": "Primed Expel The Murmur",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
+      "credits": 130000,
+      "ducats": 375,
       "dates": [
-        "2025-05-02T13:00:00.000Z",
-        "2025-04-18T13:00:00.000Z",
-        "2024-11-29T13:00:00.000Z",
-        "2024-10-18T13:00:00.000Z",
-        "2024-02-09T13:00:00.000Z",
-        "2023-03-24T13:00:00.000Z",
-        "2022-08-26T13:00:00.000Z",
-        "2022-08-12T13:00:00.000Z",
-        "2022-07-29T13:00:00.000Z",
-        "2022-06-17T13:00:00.000Z",
-        "2021-12-31T13:00:00.000Z",
-        "2021-08-27T13:00:00.000Z",
-        "2021-04-09T13:00:00.000Z",
-        "2020-10-23T13:00:00.000Z",
-        "2020-06-05T13:00:00.000Z",
-        "2020-01-17T13:00:00.000Z",
-        "2019-08-16T13:00:00.000Z",
-        "2019-04-19T13:00:00.000Z",
-        "2018-12-28T13:00:00.000Z",
-        "2018-08-24T13:00:00.000Z",
-        "2018-04-06T13:00:00.000Z"
+        "2025-07-25T13:00:00.000Z"
       ],
-      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Noggles",
-      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/BobbleheadExcaliburArchwing.png/300px-BobbleheadExcaliburArchwing.png?29e9e"
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Expel_The_Murmur",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrimedExpelTheMurmurMod.png/300px-PrimedExpelTheMurmurMod.png?31ac2"
     },
     {
       "itemName": "Deimos Kymaeros Prex",
@@ -9091,6 +9126,7 @@
       "credits": 165000,
       "ducats": 145,
       "dates": [
+        "2025-08-22T13:00:00.000Z",
         "2025-03-21T13:00:00.000Z"
       ],
       "wikiURL": "https://wiki.warframe.com/w/Somachord",
@@ -9607,6 +9643,7 @@
       "credits": 220000,
       "ducats": 325,
       "dates": [
+        "2025-08-22T13:00:00.000Z",
         "2025-04-11T13:00:00.000Z",
         "2025-02-07T13:00:00.000Z",
         "2024-12-27T13:00:00.000Z",
@@ -9847,6 +9884,7 @@
       "credits": 375000,
       "ducats": 525,
       "dates": [
+        "2025-08-22T13:00:00.000Z",
         "2025-04-25T13:00:00.000Z",
         "2025-03-21T13:00:00.000Z",
         "2024-11-01T13:00:00.000Z",
@@ -10132,6 +10170,7 @@
       "credits": 175000,
       "ducats": 450,
       "dates": [
+        "2025-08-22T13:00:00.000Z",
         "2025-04-11T13:00:00.000Z",
         "2025-03-07T13:00:00.000Z",
         "2024-12-27T13:00:00.000Z",
@@ -10360,6 +10399,7 @@
       "credits": 175000,
       "ducats": 350,
       "dates": [
+        "2025-08-22T13:00:00.000Z",
         "2025-05-16T13:00:00.000Z",
         "2024-12-27T13:00:00.000Z",
         "2024-06-14T13:00:00.000Z",
