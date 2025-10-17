@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2025-10-10T15:09:24.170Z",
+  "scrapedAt": "2025-10-17T15:09:33.883Z",
   "source": "https://wiki.warframe.com/w/Baro_Ki%27Teer/Trades",
   "items": [
     {
@@ -9,6 +9,7 @@
       "credits": 150000,
       "ducats": 300,
       "dates": [
+        "2025-10-17T13:00:00.000Z",
         "2024-12-27T13:00:00.000Z",
         "2023-09-22T13:00:00.000Z",
         "2022-04-08T13:00:00.000Z",
@@ -598,22 +599,16 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/KavatSentinelTail.png/300px-KavatSentinelTail.png?fecac"
     },
     {
-      "itemName": "Noggle Statue - The New War Veso-R",
-      "itemType": "Decoration",
-      "itemSubType": null,
-      "credits": 300000,
-      "ducats": 75,
+      "itemName": "Eskhatos Ki'teer Ephemera",
+      "itemType": "Cosmetic",
+      "itemSubType": "Ephemera",
+      "credits": 109000,
+      "ducats": 69,
       "dates": [
-        "2025-05-30T13:00:00.000Z",
-        "2024-06-28T13:00:00.000Z",
-        "2023-07-14T13:00:00.000Z",
-        "2022-11-18T13:00:00.000Z",
-        "2022-08-26T13:00:00.000Z",
-        "2022-08-12T13:00:00.000Z",
-        "2022-07-29T13:00:00.000Z"
+        "2025-10-17T13:00:00.000Z"
       ],
-      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Noggles",
-      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/BobbleheadTheNewWarVeso-R.png/300px-BobbleheadTheNewWarVeso-R.png?441d0"
+      "wikiURL": "https://wiki.warframe.com/w/Ephemera#Eskhatos_Ki'teer",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/EskhatosKi%27teerEphemera.png/300px-EskhatosKi%27teerEphemera.png?d917e"
     },
     {
       "itemName": "The Stranger's Hood (Operator)",
@@ -875,6 +870,7 @@
       "credits": 50000,
       "ducats": 80,
       "dates": [
+        "2025-10-17T13:00:00.000Z",
         "2025-10-03T13:00:00.000Z",
         "2025-09-19T13:00:00.000Z",
         "2024-10-18T13:00:00.000Z",
@@ -936,7 +932,9 @@
       "itemSubType": null,
       "credits": 33333,
       "ducats": 20,
-      "dates": [],
+      "dates": [
+        "2025-10-17T13:00:00.000Z"
+      ],
       "wikiURL": "https://wiki.warframe.com/w/Glyph#Other_Glyphs",
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/Ava-ClemCommunityGlyph.png/300px-Ava-ClemCommunityGlyph.png?781e8"
     },
@@ -1259,6 +1257,7 @@
       "credits": 250000,
       "ducats": 400,
       "dates": [
+        "2025-10-17T13:00:00.000Z",
         "2025-04-18T13:00:00.000Z",
         "2025-04-11T13:00:00.000Z",
         "2024-12-27T13:00:00.000Z",
@@ -1594,6 +1593,7 @@
       "credits": 375000,
       "ducats": 525,
       "dates": [
+        "2025-10-17T13:00:00.000Z",
         "2025-05-02T13:00:00.000Z",
         "2025-04-25T13:00:00.000Z",
         "2024-12-27T13:00:00.000Z",
@@ -2283,7 +2283,9 @@
       "itemSubType": null,
       "credits": 125000,
       "ducats": 90,
-      "dates": [],
+      "dates": [
+        "2025-10-17T13:00:00.000Z"
+      ],
       "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Displays",
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/FlareVarleon%26LizziePosterDisplay.png/300px-FlareVarleon%26LizziePosterDisplay.png?d9fae"
     },
@@ -2631,34 +2633,6 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/ZephyrImmortalSkin.png/300px-ZephyrImmortalSkin.png?bcf8b"
     },
     {
-      "itemName": "Primed Bane of Infested",
-      "itemType": "Mod",
-      "itemSubType": "Primed",
-      "credits": 140000,
-      "ducats": 400,
-      "dates": [
-        "2024-11-29T13:00:00.000Z",
-        "2023-04-07T13:00:00.000Z",
-        "2022-01-28T13:00:00.000Z",
-        "2021-03-26T13:00:00.000Z",
-        "2020-09-25T13:00:00.000Z",
-        "2020-03-13T13:00:00.000Z",
-        "2019-09-27T13:00:00.000Z",
-        "2019-05-31T13:00:00.000Z",
-        "2019-01-25T13:00:00.000Z",
-        "2018-09-07T13:00:00.000Z",
-        "2018-04-20T13:00:00.000Z",
-        "2017-11-17T13:00:00.000Z",
-        "2017-06-30T13:00:00.000Z",
-        "2017-02-24T13:00:00.000Z",
-        "2016-10-21T13:00:00.000Z",
-        "2016-07-15T13:00:00.000Z",
-        "2016-01-08T13:00:00.000Z"
-      ],
-      "wikiURL": "https://wiki.warframe.com/w/Primed_Bane_of_Infested",
-      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedBaneofInfestedMod.png?8aa87"
-    },
-    {
       "itemName": "Zanuka Hunter Beacon",
       "itemType": "Consumable",
       "itemSubType": null,
@@ -2724,39 +2698,32 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/ZagLuxxumOrnament.png/300px-ZagLuxxumOrnament.png?8b4ea"
     },
     {
-      "itemName": "Opticor Elixis Skin",
-      "itemType": "Cosmetic",
-      "itemSubType": "Weapon",
-      "credits": 250000,
-      "ducats": 325,
+      "itemName": "Primed Bane of Infested",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
+      "credits": 140000,
+      "ducats": 400,
       "dates": [
-        "2025-06-13T13:00:00.000Z",
-        "2025-04-25T13:00:00.000Z",
-        "2024-12-13T13:00:00.000Z",
-        "2024-06-14T13:00:00.000Z",
-        "2024-01-12T13:00:00.000Z",
-        "2023-08-11T13:00:00.000Z",
+        "2024-11-29T13:00:00.000Z",
         "2023-04-07T13:00:00.000Z",
-        "2022-12-02T13:00:00.000Z",
-        "2022-08-26T13:00:00.000Z",
-        "2022-08-12T13:00:00.000Z",
-        "2022-07-29T13:00:00.000Z",
-        "2022-06-17T13:00:00.000Z",
         "2022-01-28T13:00:00.000Z",
-        "2021-10-22T13:00:00.000Z",
-        "2021-07-16T13:00:00.000Z",
         "2021-03-26T13:00:00.000Z",
-        "2020-11-06T13:00:00.000Z",
-        "2020-07-03T13:00:00.000Z",
-        "2020-03-27T13:00:00.000Z",
-        "2019-10-25T13:00:00.000Z",
-        "2019-04-05T13:00:00.000Z",
-        "2019-01-11T13:00:00.000Z",
-        "2018-09-21T13:00:00.000Z",
-        "2018-05-18T13:00:00.000Z"
+        "2020-09-25T13:00:00.000Z",
+        "2020-03-13T13:00:00.000Z",
+        "2019-09-27T13:00:00.000Z",
+        "2019-05-31T13:00:00.000Z",
+        "2019-01-25T13:00:00.000Z",
+        "2018-09-07T13:00:00.000Z",
+        "2018-04-20T13:00:00.000Z",
+        "2017-11-17T13:00:00.000Z",
+        "2017-06-30T13:00:00.000Z",
+        "2017-02-24T13:00:00.000Z",
+        "2016-10-21T13:00:00.000Z",
+        "2016-07-15T13:00:00.000Z",
+        "2016-01-08T13:00:00.000Z"
       ],
-      "wikiURL": "https://wiki.warframe.com/w/Opticor_Elixis_Skin",
-      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/OpticorElixisSkin.png/300px-OpticorElixisSkin.png?6bb14"
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Bane_of_Infested",
+      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedBaneofInfestedMod.png?8aa87"
     },
     {
       "itemName": "Xiphos Prisma Skin",
@@ -2797,36 +2764,51 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/XiphosPrismaSkin.png/300px-XiphosPrismaSkin.png?62bca"
     },
     {
-      "itemName": "Noggle Statue - Erra",
-      "itemType": "Decoration",
-      "itemSubType": null,
-      "credits": 300000,
-      "ducats": 75,
+      "itemName": "Primed Bane of The Murmur",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
+      "credits": 130000,
+      "ducats": 375,
       "dates": [
-        "2025-03-07T13:00:00.000Z",
-        "2024-05-31T13:00:00.000Z",
-        "2023-08-25T13:00:00.000Z",
+        "2025-09-19T13:00:00.000Z"
+      ],
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Bane_of_The_Murmur",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrimedBaneofTheMurmurMod.png/300px-PrimedBaneofTheMurmurMod.png?2148d"
+    },
+    {
+      "itemName": "Opticor Elixis Skin",
+      "itemType": "Cosmetic",
+      "itemSubType": "Weapon",
+      "credits": 250000,
+      "ducats": 325,
+      "dates": [
+        "2025-06-13T13:00:00.000Z",
+        "2025-04-25T13:00:00.000Z",
+        "2024-12-13T13:00:00.000Z",
+        "2024-06-14T13:00:00.000Z",
+        "2024-01-12T13:00:00.000Z",
+        "2023-08-11T13:00:00.000Z",
+        "2023-04-07T13:00:00.000Z",
         "2022-12-02T13:00:00.000Z",
         "2022-08-26T13:00:00.000Z",
         "2022-08-12T13:00:00.000Z",
-        "2022-07-29T13:00:00.000Z"
+        "2022-07-29T13:00:00.000Z",
+        "2022-06-17T13:00:00.000Z",
+        "2022-01-28T13:00:00.000Z",
+        "2021-10-22T13:00:00.000Z",
+        "2021-07-16T13:00:00.000Z",
+        "2021-03-26T13:00:00.000Z",
+        "2020-11-06T13:00:00.000Z",
+        "2020-07-03T13:00:00.000Z",
+        "2020-03-27T13:00:00.000Z",
+        "2019-10-25T13:00:00.000Z",
+        "2019-04-05T13:00:00.000Z",
+        "2019-01-11T13:00:00.000Z",
+        "2018-09-21T13:00:00.000Z",
+        "2018-05-18T13:00:00.000Z"
       ],
-      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Noggles",
-      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/BobbleheadErra.png/300px-BobbleheadErra.png?6251f"
-    },
-    {
-      "itemName": "Condrix Sigil",
-      "itemType": "Cosmetic",
-      "itemSubType": "Sigil",
-      "credits": 45000,
-      "ducats": 45,
-      "dates": [
-        "2025-05-30T13:00:00.000Z",
-        "2024-07-26T13:00:00.000Z",
-        "2023-11-17T13:00:00.000Z"
-      ],
-      "wikiURL": "https://wiki.warframe.com/w/Sigils#Baro_Ki'Teer_Sigils",
-      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/CondrixSigil.png/300px-CondrixSigil.png?470bc"
+      "wikiURL": "https://wiki.warframe.com/w/Opticor_Elixis_Skin",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/OpticorElixisSkin.png/300px-OpticorElixisSkin.png?6bb14"
     },
     {
       "itemName": "Wysar Day of the Dead Kavat Armor",
@@ -2835,6 +2817,7 @@
       "credits": 175000,
       "ducats": 400,
       "dates": [
+        "2025-10-17T13:00:00.000Z",
         "2025-10-03T13:00:00.000Z",
         "2025-09-19T13:00:00.000Z",
         "2024-10-18T13:00:00.000Z",
@@ -2878,6 +2861,20 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/WispImmortalSkin.png/300px-WispImmortalSkin.png?7ad6f"
     },
     {
+      "itemName": "Condrix Sigil",
+      "itemType": "Cosmetic",
+      "itemSubType": "Sigil",
+      "credits": 45000,
+      "ducats": 45,
+      "dates": [
+        "2025-05-30T13:00:00.000Z",
+        "2024-07-26T13:00:00.000Z",
+        "2023-11-17T13:00:00.000Z"
+      ],
+      "wikiURL": "https://wiki.warframe.com/w/Sigils#Baro_Ki'Teer_Sigils",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/CondrixSigil.png/300px-CondrixSigil.png?470bc"
+    },
+    {
       "itemName": "Wintercress Syandana",
       "itemType": "Cosmetic",
       "itemSubType": "Syandana",
@@ -2900,6 +2897,35 @@
       ],
       "wikiURL": "https://wiki.warframe.com/w/Syandana",
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/WintercressSyandana.png/300px-WintercressSyandana.png?ea230"
+    },
+    {
+      "itemName": "Whispers in the Walls Login Music",
+      "itemType": "Somachord",
+      "itemSubType": null,
+      "credits": 170000,
+      "ducats": 165,
+      "dates": [
+        "2025-05-30T13:00:00.000Z",
+        "2024-12-13T13:00:00.000Z"
+      ],
+      "wikiURL": "https://wiki.warframe.com/w/Somachord",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/WhispersInTheWallsLoginMusic.png/300px-WhispersInTheWallsLoginMusic.png?b1367"
+    },
+    {
+      "itemName": "Weaver Fighter Decoration",
+      "itemType": "Decoration",
+      "itemSubType": null,
+      "credits": 100000,
+      "ducats": 100,
+      "dates": [
+        "2025-09-05T13:00:00.000Z",
+        "2024-11-15T13:00:00.000Z",
+        "2024-01-26T13:00:00.000Z",
+        "2023-04-21T13:00:00.000Z",
+        "2022-05-20T13:00:00.000Z"
+      ],
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Fighters",
+      "wikiThumbnail": "https://wiki.warframe.com/images/TaroWeaver.png?c868c"
     },
     {
       "itemName": "Gara Immortal Skin",
@@ -3276,17 +3302,37 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PackLeaderSigil.png/300px-PackLeaderSigil.png?38aab"
     },
     {
-      "itemName": "Whispers in the Walls Login Music",
-      "itemType": "Somachord",
+      "itemName": "Vulkar Wraith",
+      "itemType": "Weapon",
       "itemSubType": null,
-      "credits": 170000,
-      "ducats": 165,
+      "credits": 300000,
+      "ducats": 450,
       "dates": [
-        "2025-05-30T13:00:00.000Z",
-        "2024-12-13T13:00:00.000Z"
+        "2025-08-22T13:00:00.000Z",
+        "2025-05-16T13:00:00.000Z",
+        "2024-12-27T13:00:00.000Z",
+        "2024-05-31T13:00:00.000Z",
+        "2023-07-28T13:00:00.000Z",
+        "2023-02-24T13:00:00.000Z",
+        "2022-10-07T13:00:00.000Z",
+        "2022-04-22T13:00:00.000Z",
+        "2021-12-03T13:00:00.000Z",
+        "2021-05-07T13:00:00.000Z",
+        "2021-01-29T13:00:00.000Z",
+        "2020-08-28T13:00:00.000Z",
+        "2020-04-24T13:00:00.000Z",
+        "2020-01-03T13:00:00.000Z",
+        "2019-09-27T13:00:00.000Z",
+        "2019-05-17T13:00:00.000Z",
+        "2019-01-25T13:00:00.000Z",
+        "2018-10-19T13:00:00.000Z",
+        "2018-05-18T13:00:00.000Z",
+        "2018-01-12T13:00:00.000Z",
+        "2017-08-25T13:00:00.000Z",
+        "2017-03-24T13:00:00.000Z"
       ],
-      "wikiURL": "https://wiki.warframe.com/w/Somachord",
-      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/WhispersInTheWallsLoginMusic.png/300px-WhispersInTheWallsLoginMusic.png?b1367"
+      "wikiURL": "https://wiki.warframe.com/w/Vulkar_Wraith",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/VulkarWraith.png/300px-VulkarWraith.png?581ef"
     },
     {
       "itemName": "Odonata Elixis Skin",
@@ -3295,6 +3341,7 @@
       "credits": 250000,
       "ducats": 350,
       "dates": [
+        "2025-10-17T13:00:00.000Z",
         "2025-09-19T13:00:00.000Z",
         "2025-04-25T13:00:00.000Z",
         "2025-04-04T13:00:00.000Z",
@@ -3366,6 +3413,7 @@
       "credits": 300000,
       "ducats": 75,
       "dates": [
+        "2025-10-17T13:00:00.000Z",
         "2025-09-19T13:00:00.000Z",
         "2024-12-13T13:00:00.000Z",
         "2024-03-08T13:00:00.000Z",
@@ -3379,53 +3427,42 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/BobbleheadTheNewWarTeshin.png/300px-BobbleheadTheNewWarTeshin.png?9cb31"
     },
     {
-      "itemName": "Weaver Fighter Decoration",
-      "itemType": "Decoration",
+      "itemName": "Voruna in Action Glyph",
+      "itemType": "Glyph",
       "itemSubType": null,
-      "credits": 100000,
-      "ducats": 100,
+      "credits": 60000,
+      "ducats": 75,
       "dates": [
-        "2025-09-05T13:00:00.000Z",
-        "2024-11-15T13:00:00.000Z",
-        "2024-01-26T13:00:00.000Z",
-        "2023-04-21T13:00:00.000Z",
-        "2022-05-20T13:00:00.000Z"
+        "2025-08-08T13:00:00.000Z",
+        "2025-03-07T13:00:00.000Z"
       ],
-      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Fighters",
-      "wikiThumbnail": "https://wiki.warframe.com/images/TaroWeaver.png?c868c"
+      "wikiURL": "https://wiki.warframe.com/w/Glyph#Other_Glyphs",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/VorunaInActionGlyph.png/300px-VorunaInActionGlyph.png?55d15"
     },
     {
-      "itemName": "Vulkar Wraith",
-      "itemType": "Weapon",
+      "itemName": "Vome-Fass Glyph",
+      "itemType": "Glyph",
       "itemSubType": null,
-      "credits": 300000,
-      "ducats": 450,
+      "credits": 50000,
+      "ducats": 80,
       "dates": [
-        "2025-08-22T13:00:00.000Z",
-        "2025-05-16T13:00:00.000Z",
-        "2024-12-27T13:00:00.000Z",
-        "2024-05-31T13:00:00.000Z",
-        "2023-07-28T13:00:00.000Z",
-        "2023-02-24T13:00:00.000Z",
-        "2022-10-07T13:00:00.000Z",
-        "2022-04-22T13:00:00.000Z",
-        "2021-12-03T13:00:00.000Z",
-        "2021-05-07T13:00:00.000Z",
-        "2021-01-29T13:00:00.000Z",
-        "2020-08-28T13:00:00.000Z",
-        "2020-04-24T13:00:00.000Z",
-        "2020-01-03T13:00:00.000Z",
-        "2019-09-27T13:00:00.000Z",
-        "2019-05-17T13:00:00.000Z",
-        "2019-01-25T13:00:00.000Z",
-        "2018-10-19T13:00:00.000Z",
-        "2018-05-18T13:00:00.000Z",
-        "2018-01-12T13:00:00.000Z",
-        "2017-08-25T13:00:00.000Z",
-        "2017-03-24T13:00:00.000Z"
+        "2025-03-07T13:00:00.000Z",
+        "2024-08-09T13:00:00.000Z",
+        "2024-01-12T13:00:00.000Z",
+        "2023-08-25T13:00:00.000Z",
+        "2023-02-10T13:00:00.000Z",
+        "2022-08-26T13:00:00.000Z",
+        "2022-08-12T13:00:00.000Z",
+        "2022-07-29T13:00:00.000Z",
+        "2022-07-01T13:00:00.000Z",
+        "2022-03-11T13:00:00.000Z",
+        "2021-11-19T13:00:00.000Z",
+        "2021-08-13T13:00:00.000Z",
+        "2021-05-21T13:00:00.000Z",
+        "2021-01-01T13:00:00.000Z"
       ],
-      "wikiURL": "https://wiki.warframe.com/w/Vulkar_Wraith",
-      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/VulkarWraith.png/300px-VulkarWraith.png?581ef"
+      "wikiURL": "https://wiki.warframe.com/w/Glyph#Other_Glyphs",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/Vome-FassGlyph.png/300px-Vome-FassGlyph.png?c8d70"
     },
     {
       "itemName": "Reshantur Child's Tablet",
@@ -3445,17 +3482,39 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/ReshanturChild%27sTablet.png/300px-ReshanturChild%27sTablet.png?a52f6"
     },
     {
-      "itemName": "Voruna in Action Glyph",
-      "itemType": "Glyph",
+      "itemName": "Viper Wraith",
+      "itemType": "Weapon",
       "itemSubType": null,
-      "credits": 60000,
-      "ducats": 75,
+      "credits": 75000,
+      "ducats": 400,
       "dates": [
-        "2025-08-08T13:00:00.000Z",
-        "2025-03-07T13:00:00.000Z"
+        "2025-09-19T13:00:00.000Z",
+        "2025-06-13T13:00:00.000Z",
+        "2025-05-16T13:00:00.000Z",
+        "2025-02-21T13:00:00.000Z",
+        "2024-11-01T13:00:00.000Z",
+        "2024-10-18T13:00:00.000Z",
+        "2024-05-03T13:00:00.000Z",
+        "2024-04-19T13:00:00.000Z",
+        "2023-10-20T13:00:00.000Z",
+        "2023-05-19T13:00:00.000Z",
+        "2022-12-02T13:00:00.000Z",
+        "2022-06-03T13:00:00.000Z",
+        "2021-12-03T13:00:00.000Z",
+        "2021-07-16T13:00:00.000Z",
+        "2021-02-26T13:00:00.000Z",
+        "2020-09-25T13:00:00.000Z",
+        "2020-05-22T13:00:00.000Z",
+        "2020-01-17T13:00:00.000Z",
+        "2019-09-27T13:00:00.000Z",
+        "2019-05-03T13:00:00.000Z",
+        "2019-01-25T13:00:00.000Z",
+        "2018-10-05T13:00:00.000Z",
+        "2018-05-04T13:00:00.000Z",
+        "2018-01-12T13:00:00.000Z"
       ],
-      "wikiURL": "https://wiki.warframe.com/w/Glyph#Other_Glyphs",
-      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/VorunaInActionGlyph.png/300px-VorunaInActionGlyph.png?55d15"
+      "wikiURL": "https://wiki.warframe.com/w/Viper_Wraith",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/ViperWraith.png/300px-ViperWraith.png?e61ac"
     },
     {
       "itemName": "Primed Expel Grineer",
@@ -3520,29 +3579,46 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/DualSwordLemnasSkin.png/300px-DualSwordLemnasSkin.png?3385e"
     },
     {
-      "itemName": "Vome-Fass Glyph",
-      "itemType": "Glyph",
+      "itemName": "Prisma Tetra",
+      "itemType": "Weapon",
       "itemSubType": null,
       "credits": 50000,
-      "ducats": 80,
+      "ducats": 400,
       "dates": [
+        "2025-07-25T13:00:00.000Z",
+        "2025-04-11T13:00:00.000Z",
         "2025-03-07T13:00:00.000Z",
-        "2024-08-09T13:00:00.000Z",
-        "2024-01-12T13:00:00.000Z",
-        "2023-08-25T13:00:00.000Z",
-        "2023-02-10T13:00:00.000Z",
+        "2024-12-27T13:00:00.000Z",
+        "2024-10-04T13:00:00.000Z",
+        "2024-04-05T13:00:00.000Z",
+        "2023-10-20T13:00:00.000Z",
+        "2023-06-02T13:00:00.000Z",
+        "2022-12-02T13:00:00.000Z",
         "2022-08-26T13:00:00.000Z",
         "2022-08-12T13:00:00.000Z",
         "2022-07-29T13:00:00.000Z",
-        "2022-07-01T13:00:00.000Z",
-        "2022-03-11T13:00:00.000Z",
-        "2021-11-19T13:00:00.000Z",
-        "2021-08-13T13:00:00.000Z",
+        "2022-02-25T13:00:00.000Z",
+        "2021-10-08T13:00:00.000Z",
         "2021-05-21T13:00:00.000Z",
-        "2021-01-01T13:00:00.000Z"
+        "2021-01-15T13:00:00.000Z",
+        "2020-08-28T13:00:00.000Z",
+        "2020-05-08T13:00:00.000Z",
+        "2020-01-17T13:00:00.000Z",
+        "2019-09-13T13:00:00.000Z",
+        "2019-05-03T13:00:00.000Z",
+        "2019-01-11T13:00:00.000Z",
+        "2018-10-05T13:00:00.000Z",
+        "2018-05-18T13:00:00.000Z",
+        "2017-12-29T13:00:00.000Z",
+        "2017-08-11T13:00:00.000Z",
+        "2017-03-10T13:00:00.000Z",
+        "2016-11-18T13:00:00.000Z",
+        "2016-08-12T13:00:00.000Z",
+        "2016-04-08T13:00:00.000Z",
+        "2015-08-07T13:00:00.000Z"
       ],
-      "wikiURL": "https://wiki.warframe.com/w/Glyph#Other_Glyphs",
-      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/Vome-FassGlyph.png/300px-Vome-FassGlyph.png?c8d70"
+      "wikiURL": "https://wiki.warframe.com/w/Prisma_Tetra",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrismaTetra.png/300px-PrismaTetra.png?f36a2"
     },
     {
       "itemName": "3 Day Resource Booster",
@@ -3600,37 +3676,17 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/ElixisLatronA.png/300px-ElixisLatronA.png?27b19"
     },
     {
-      "itemName": "Vermillion Storm",
-      "itemType": "Mod",
-      "itemSubType": "Stance",
-      "credits": 175000,
-      "ducats": 385,
+      "itemName": "Railjack Retrofit Login Music",
+      "itemType": "Somachord",
+      "itemSubType": null,
+      "credits": 165000,
+      "ducats": 150,
       "dates": [
-        "2025-06-13T13:00:00.000Z",
-        "2023-09-08T13:00:00.000Z",
-        "2022-08-26T13:00:00.000Z",
-        "2022-08-12T13:00:00.000Z",
-        "2022-07-29T13:00:00.000Z",
-        "2022-01-14T13:00:00.000Z",
-        "2021-06-04T13:00:00.000Z",
-        "2020-11-20T13:00:00.000Z",
-        "2020-04-10T13:00:00.000Z",
-        "2019-11-22T13:00:00.000Z",
-        "2019-08-02T13:00:00.000Z",
-        "2019-03-22T13:00:00.000Z",
-        "2018-11-16T13:00:00.000Z",
-        "2018-06-29T13:00:00.000Z",
-        "2018-01-26T13:00:00.000Z",
-        "2017-09-08T13:00:00.000Z",
-        "2017-04-21T13:00:00.000Z",
-        "2017-01-27T13:00:00.000Z",
-        "2016-10-07T13:00:00.000Z",
-        "2016-09-23T13:00:00.000Z",
-        "2016-05-06T13:00:00.000Z",
-        "2015-10-02T13:00:00.000Z"
+        "2025-06-27T13:00:00.000Z",
+        "2025-01-10T13:00:00.000Z"
       ],
-      "wikiURL": "https://wiki.warframe.com/w/Vermillion_Storm",
-      "wikiThumbnail": "https://wiki.warframe.com/images/VermillionStormMod.png?43dd1"
+      "wikiURL": "https://wiki.warframe.com/w/Somachord",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/EmpyreanLoginMusic.png/300px-EmpyreanLoginMusic.png?b4c4c"
     },
     {
       "itemName": "Chroma Immortal Skin",
@@ -3659,56 +3715,41 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/ChromaImmortalSkin.png/300px-ChromaImmortalSkin.png?fc7c1"
     },
     {
-      "itemName": "Prisma Uru Syandana",
-      "itemType": "Cosmetic",
-      "itemSubType": "Syandana",
-      "credits": 275000,
-      "ducats": 350,
+      "itemName": "Vastilok",
+      "itemType": "Weapon",
+      "itemSubType": null,
+      "credits": 325000,
+      "ducats": 550,
       "dates": [
-        "2025-08-22T13:00:00.000Z",
-        "2025-04-11T13:00:00.000Z",
+        "2025-09-05T13:00:00.000Z",
+        "2025-05-16T13:00:00.000Z",
         "2025-01-10T13:00:00.000Z",
-        "2024-12-27T13:00:00.000Z",
-        "2024-08-23T13:00:00.000Z",
-        "2024-04-05T13:00:00.000Z",
-        "2023-12-29T13:00:00.000Z",
-        "2023-09-08T13:00:00.000Z",
-        "2023-05-05T13:00:00.000Z",
-        "2022-12-02T13:00:00.000Z",
+        "2024-08-09T13:00:00.000Z",
+        "2024-04-19T13:00:00.000Z",
+        "2023-11-17T13:00:00.000Z",
+        "2023-05-19T13:00:00.000Z",
+        "2022-12-16T13:00:00.000Z",
         "2022-08-26T13:00:00.000Z",
         "2022-08-12T13:00:00.000Z",
         "2022-07-29T13:00:00.000Z",
-        "2022-06-17T13:00:00.000Z",
         "2022-03-11T13:00:00.000Z",
-        "2021-12-03T13:00:00.000Z",
-        "2021-07-30T13:00:00.000Z",
-        "2021-02-26T13:00:00.000Z",
-        "2020-09-25T13:00:00.000Z",
-        "2020-05-22T13:00:00.000Z",
-        "2020-01-31T13:00:00.000Z",
-        "2019-09-27T13:00:00.000Z",
-        "2019-06-14T13:00:00.000Z",
-        "2019-03-08T13:00:00.000Z",
-        "2018-11-16T13:00:00.000Z",
-        "2018-07-13T13:00:00.000Z"
+        "2021-10-08T13:00:00.000Z"
       ],
-      "wikiURL": "https://wiki.warframe.com/w/Syandana",
-      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrismaUruSyandana.png/300px-PrismaUruSyandana.png?522c5"
+      "wikiURL": "https://wiki.warframe.com/w/Vastilok",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/Vastilok.png/300px-Vastilok.png?fdf3e"
     },
     {
-      "itemName": "Rakta Syandana",
-      "itemType": "Cosmetic",
-      "itemSubType": "Syandana",
-      "credits": 350000,
-      "ducats": 325,
+      "itemName": "Void Angel Glyph",
+      "itemType": "Glyph",
+      "itemSubType": null,
+      "credits": 50000,
+      "ducats": 80,
       "dates": [
         "2025-06-27T13:00:00.000Z",
-        "2025-03-07T13:00:00.000Z",
-        "2024-10-04T13:00:00.000Z",
-        "2024-03-22T13:00:00.000Z"
+        "2024-11-29T13:00:00.000Z"
       ],
-      "wikiURL": "https://wiki.warframe.com/w/Rakta_Syandana",
-      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/RaktaSyandana.png/300px-RaktaSyandana.png?1d08e"
+      "wikiURL": "https://wiki.warframe.com/w/Glyph#Other_Glyphs",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/Voi_AngelGlyph.png/300px-Voi_AngelGlyph.png?e215b"
     },
     {
       "itemName": "Vome Floof",
@@ -3746,17 +3787,25 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/DomestikDaisDrone.png/300px-DomestikDaisDrone.png?d1d1a"
     },
     {
-      "itemName": "Void Angel Glyph",
-      "itemType": "Glyph",
+      "itemName": "Vez Luxxum Ornament",
+      "itemType": "Decoration",
       "itemSubType": null,
-      "credits": 50000,
-      "ducats": 80,
+      "credits": 100000,
+      "ducats": 100,
       "dates": [
-        "2025-06-27T13:00:00.000Z",
-        "2024-11-29T13:00:00.000Z"
+        "2025-03-21T13:00:00.000Z",
+        "2024-06-14T13:00:00.000Z",
+        "2023-09-08T13:00:00.000Z",
+        "2023-02-10T13:00:00.000Z",
+        "2022-05-06T13:00:00.000Z",
+        "2021-07-02T13:00:00.000Z",
+        "2021-01-15T13:00:00.000Z",
+        "2020-09-11T13:00:00.000Z",
+        "2020-04-10T13:00:00.000Z",
+        "2019-12-06T13:00:00.000Z"
       ],
-      "wikiURL": "https://wiki.warframe.com/w/Glyph#Other_Glyphs",
-      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/Voi_AngelGlyph.png/300px-Voi_AngelGlyph.png?e215b"
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Luxxum_Ornaments",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/VezLuxxumOrnament.png/300px-VezLuxxumOrnament.png?959dc"
     },
     {
       "itemName": "Axi A2 Relic",
@@ -3858,39 +3907,37 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/PrimedShotgunAmmoMutationMod.png?8205e"
     },
     {
-      "itemName": "Viper Wraith",
-      "itemType": "Weapon",
-      "itemSubType": null,
-      "credits": 75000,
-      "ducats": 400,
+      "itemName": "Vermillion Storm",
+      "itemType": "Mod",
+      "itemSubType": "Stance",
+      "credits": 175000,
+      "ducats": 385,
       "dates": [
-        "2025-09-19T13:00:00.000Z",
         "2025-06-13T13:00:00.000Z",
-        "2025-05-16T13:00:00.000Z",
-        "2025-02-21T13:00:00.000Z",
-        "2024-11-01T13:00:00.000Z",
-        "2024-10-18T13:00:00.000Z",
-        "2024-05-03T13:00:00.000Z",
-        "2024-04-19T13:00:00.000Z",
-        "2023-10-20T13:00:00.000Z",
-        "2023-05-19T13:00:00.000Z",
-        "2022-12-02T13:00:00.000Z",
-        "2022-06-03T13:00:00.000Z",
-        "2021-12-03T13:00:00.000Z",
-        "2021-07-16T13:00:00.000Z",
-        "2021-02-26T13:00:00.000Z",
-        "2020-09-25T13:00:00.000Z",
-        "2020-05-22T13:00:00.000Z",
-        "2020-01-17T13:00:00.000Z",
-        "2019-09-27T13:00:00.000Z",
-        "2019-05-03T13:00:00.000Z",
-        "2019-01-25T13:00:00.000Z",
-        "2018-10-05T13:00:00.000Z",
-        "2018-05-04T13:00:00.000Z",
-        "2018-01-12T13:00:00.000Z"
+        "2023-09-08T13:00:00.000Z",
+        "2022-08-26T13:00:00.000Z",
+        "2022-08-12T13:00:00.000Z",
+        "2022-07-29T13:00:00.000Z",
+        "2022-01-14T13:00:00.000Z",
+        "2021-06-04T13:00:00.000Z",
+        "2020-11-20T13:00:00.000Z",
+        "2020-04-10T13:00:00.000Z",
+        "2019-11-22T13:00:00.000Z",
+        "2019-08-02T13:00:00.000Z",
+        "2019-03-22T13:00:00.000Z",
+        "2018-11-16T13:00:00.000Z",
+        "2018-06-29T13:00:00.000Z",
+        "2018-01-26T13:00:00.000Z",
+        "2017-09-08T13:00:00.000Z",
+        "2017-04-21T13:00:00.000Z",
+        "2017-01-27T13:00:00.000Z",
+        "2016-10-07T13:00:00.000Z",
+        "2016-09-23T13:00:00.000Z",
+        "2016-05-06T13:00:00.000Z",
+        "2015-10-02T13:00:00.000Z"
       ],
-      "wikiURL": "https://wiki.warframe.com/w/Viper_Wraith",
-      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/ViperWraith.png/300px-ViperWraith.png?e61ac"
+      "wikiURL": "https://wiki.warframe.com/w/Vermillion_Storm",
+      "wikiThumbnail": "https://wiki.warframe.com/images/VermillionStormMod.png?43dd1"
     },
     {
       "itemName": "Primed Sniper Ammo Mutation",
@@ -3941,25 +3988,32 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/PrimedRegenMod.png?ec65b"
     },
     {
-      "itemName": "Vez Luxxum Ornament",
-      "itemType": "Decoration",
-      "itemSubType": null,
-      "credits": 100000,
-      "ducats": 100,
+      "itemName": "Glaring Emblem",
+      "itemType": "Cosmetic",
+      "itemSubType": "Emblem",
+      "credits": 50000,
+      "ducats": 50,
       "dates": [
-        "2025-03-21T13:00:00.000Z",
-        "2024-06-14T13:00:00.000Z",
-        "2023-09-08T13:00:00.000Z",
-        "2023-02-10T13:00:00.000Z",
-        "2022-05-06T13:00:00.000Z",
-        "2021-07-02T13:00:00.000Z",
-        "2021-01-15T13:00:00.000Z",
-        "2020-09-11T13:00:00.000Z",
-        "2020-04-10T13:00:00.000Z",
-        "2019-12-06T13:00:00.000Z"
+        "2025-10-03T13:00:00.000Z",
+        "2025-04-18T13:00:00.000Z",
+        "2025-02-07T13:00:00.000Z",
+        "2024-05-31T13:00:00.000Z",
+        "2024-04-19T13:00:00.000Z",
+        "2023-08-11T13:00:00.000Z",
+        "2022-11-18T13:00:00.000Z",
+        "2022-08-26T13:00:00.000Z",
+        "2022-08-12T13:00:00.000Z",
+        "2022-07-29T13:00:00.000Z",
+        "2021-12-31T13:00:00.000Z",
+        "2021-07-16T13:00:00.000Z",
+        "2021-01-29T13:00:00.000Z",
+        "2020-09-25T13:00:00.000Z",
+        "2020-05-08T13:00:00.000Z",
+        "2019-12-06T13:00:00.000Z",
+        "2019-06-28T13:00:00.000Z"
       ],
-      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Luxxum_Ornaments",
-      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/VezLuxxumOrnament.png/300px-VezLuxxumOrnament.png?959dc"
+      "wikiURL": "https://wiki.warframe.com/w/Sigils#Baro_Ki'Teer_Sigils",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/GlaringSigil.png/300px-GlaringSigil.png?1eea9"
     },
     {
       "itemName": "The Seven Crimes of Kullervo Login Music",
@@ -4055,34 +4109,40 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/VoidSurplus.png/300px-VoidSurplus.png?8331f"
     },
     {
-      "itemName": "Taxon Desert-Camo Skin",
+      "itemName": "Twin Grakatas Towsun Skin",
       "itemType": "Cosmetic",
-      "itemSubType": "Sentinel",
-      "credits": 150000,
-      "ducats": 200,
+      "itemSubType": "Weapon",
+      "credits": 300000,
+      "ducats": 300,
       "dates": [
-        "2024-12-13T13:00:00.000Z",
-        "2024-10-18T13:00:00.000Z",
-        "2024-01-26T13:00:00.000Z",
-        "2023-06-30T13:00:00.000Z",
-        "2022-11-18T13:00:00.000Z",
-        "2022-08-26T13:00:00.000Z",
-        "2022-08-12T13:00:00.000Z",
-        "2022-07-29T13:00:00.000Z",
-        "2022-02-25T13:00:00.000Z",
-        "2021-11-19T13:00:00.000Z",
-        "2021-06-04T13:00:00.000Z",
-        "2021-01-15T13:00:00.000Z",
-        "2020-09-25T13:00:00.000Z",
-        "2020-06-19T13:00:00.000Z",
-        "2020-01-31T13:00:00.000Z",
-        "2019-10-11T13:00:00.000Z",
-        "2019-05-17T13:00:00.000Z",
-        "2018-12-28T13:00:00.000Z",
-        "2018-09-21T13:00:00.000Z"
+        "2025-08-08T13:00:00.000Z",
+        "2025-05-16T13:00:00.000Z",
+        "2025-02-21T13:00:00.000Z",
+        "2024-09-06T13:00:00.000Z",
+        "2024-03-22T13:00:00.000Z",
+        "2023-11-03T13:00:00.000Z",
+        "2023-06-16T13:00:00.000Z",
+        "2023-01-27T13:00:00.000Z",
+        "2022-09-23T13:00:00.000Z",
+        "2022-04-08T13:00:00.000Z",
+        "2021-12-03T13:00:00.000Z",
+        "2021-08-27T13:00:00.000Z",
+        "2021-05-07T13:00:00.000Z",
+        "2021-01-01T13:00:00.000Z",
+        "2020-08-28T13:00:00.000Z",
+        "2020-04-10T13:00:00.000Z",
+        "2019-11-22T13:00:00.000Z",
+        "2019-08-16T13:00:00.000Z",
+        "2019-04-05T13:00:00.000Z",
+        "2018-11-16T13:00:00.000Z",
+        "2018-06-15T13:00:00.000Z",
+        "2018-01-26T13:00:00.000Z",
+        "2017-12-15T13:00:00.000Z",
+        "2017-11-17T13:00:00.000Z",
+        "2017-06-30T13:00:00.000Z"
       ],
-      "wikiURL": "https://wiki.warframe.com/w/Taxon/Equip",
-      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/DesertTaxonSkin.png/300px-DesertTaxonSkin.png?91c32"
+      "wikiURL": "https://wiki.warframe.com/w/Twin_Grakatas_Towsun_Skin",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/TwinGrakatasTowsunSkin.png/300px-TwinGrakatasTowsunSkin.png?49eba"
     },
     {
       "itemName": "Dvad Luxxum Ornament",
@@ -4122,28 +4182,29 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/AltraSentinelMask.png/300px-AltraSentinelMask.png?d2470"
     },
     {
-      "itemName": "Vastilok",
-      "itemType": "Weapon",
-      "itemSubType": null,
-      "credits": 325000,
-      "ducats": 550,
+      "itemName": "Tiberon Elixis Skin",
+      "itemType": "Cosmetic",
+      "itemSubType": "Weapon",
+      "credits": 275000,
+      "ducats": 315,
       "dates": [
-        "2025-09-05T13:00:00.000Z",
-        "2025-05-16T13:00:00.000Z",
-        "2025-01-10T13:00:00.000Z",
-        "2024-08-09T13:00:00.000Z",
-        "2024-04-19T13:00:00.000Z",
+        "2025-10-03T13:00:00.000Z",
+        "2025-05-02T13:00:00.000Z",
+        "2025-04-25T13:00:00.000Z",
+        "2024-10-04T13:00:00.000Z",
+        "2024-04-05T13:00:00.000Z",
         "2023-11-17T13:00:00.000Z",
-        "2023-05-19T13:00:00.000Z",
-        "2022-12-16T13:00:00.000Z",
-        "2022-08-26T13:00:00.000Z",
-        "2022-08-12T13:00:00.000Z",
-        "2022-07-29T13:00:00.000Z",
-        "2022-03-11T13:00:00.000Z",
-        "2021-10-08T13:00:00.000Z"
+        "2023-04-21T13:00:00.000Z",
+        "2022-11-04T13:00:00.000Z",
+        "2022-05-20T13:00:00.000Z",
+        "2021-12-17T13:00:00.000Z",
+        "2021-09-24T13:00:00.000Z",
+        "2021-05-21T13:00:00.000Z",
+        "2020-12-18T13:00:00.000Z",
+        "2020-07-17T13:00:00.000Z"
       ],
-      "wikiURL": "https://wiki.warframe.com/w/Vastilok",
-      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/Vastilok.png/300px-Vastilok.png?fdf3e"
+      "wikiURL": "https://wiki.warframe.com/w/Tiberon_Elixis_Skin",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/TiberonElixisSkin.png/300px-TiberonElixisSkin.png?6f94d"
     },
     {
       "itemName": "Don't Be Afraid Poster",
@@ -4181,40 +4242,29 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/TannukaiArmorChest.png/300px-TannukaiArmorChest.png?e91bb"
     },
     {
-      "itemName": "Twin Grakatas Towsun Skin",
-      "itemType": "Cosmetic",
-      "itemSubType": "Weapon",
-      "credits": 300000,
+      "itemName": "Thermite Rounds",
+      "itemType": "Mod",
+      "itemSubType": null,
+      "credits": 150000,
       "ducats": 300,
       "dates": [
-        "2025-08-08T13:00:00.000Z",
-        "2025-05-16T13:00:00.000Z",
-        "2025-02-21T13:00:00.000Z",
-        "2024-09-06T13:00:00.000Z",
-        "2024-03-22T13:00:00.000Z",
-        "2023-11-03T13:00:00.000Z",
-        "2023-06-16T13:00:00.000Z",
-        "2023-01-27T13:00:00.000Z",
-        "2022-09-23T13:00:00.000Z",
-        "2022-04-08T13:00:00.000Z",
+        "2025-09-19T13:00:00.000Z",
+        "2024-04-05T13:00:00.000Z",
+        "2022-11-04T13:00:00.000Z",
         "2021-12-03T13:00:00.000Z",
-        "2021-08-27T13:00:00.000Z",
         "2021-05-07T13:00:00.000Z",
-        "2021-01-01T13:00:00.000Z",
-        "2020-08-28T13:00:00.000Z",
-        "2020-04-10T13:00:00.000Z",
-        "2019-11-22T13:00:00.000Z",
-        "2019-08-16T13:00:00.000Z",
-        "2019-04-05T13:00:00.000Z",
-        "2018-11-16T13:00:00.000Z",
+        "2020-10-23T13:00:00.000Z",
+        "2020-03-27T13:00:00.000Z",
+        "2019-10-11T13:00:00.000Z",
+        "2019-06-14T13:00:00.000Z",
+        "2019-02-22T13:00:00.000Z",
+        "2018-11-02T13:00:00.000Z",
         "2018-06-15T13:00:00.000Z",
-        "2018-01-26T13:00:00.000Z",
-        "2017-12-15T13:00:00.000Z",
-        "2017-11-17T13:00:00.000Z",
-        "2017-06-30T13:00:00.000Z"
+        "2018-02-09T13:00:00.000Z",
+        "2017-09-22T13:00:00.000Z"
       ],
-      "wikiURL": "https://wiki.warframe.com/w/Twin_Grakatas_Towsun_Skin",
-      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/TwinGrakatasTowsunSkin.png/300px-TwinGrakatasTowsunSkin.png?49eba"
+      "wikiURL": "https://wiki.warframe.com/w/Thermite_Rounds",
+      "wikiThumbnail": "https://wiki.warframe.com/images/ThermiteRoundsMod.png?6bc25"
     },
     {
       "itemName": "Puspa Luxxum Ornament",
@@ -4238,29 +4288,16 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PuspaLuxxumOrnament.png/300px-PuspaLuxxumOrnament.png?300fd"
     },
     {
-      "itemName": "Tiberon Elixis Skin",
-      "itemType": "Cosmetic",
-      "itemSubType": "Weapon",
-      "credits": 275000,
-      "ducats": 315,
+      "itemName": "The Old Blood Login Music",
+      "itemType": "Somachord",
+      "itemSubType": null,
+      "credits": 170000,
+      "ducats": 140,
       "dates": [
-        "2025-10-03T13:00:00.000Z",
-        "2025-05-02T13:00:00.000Z",
-        "2025-04-25T13:00:00.000Z",
-        "2024-10-04T13:00:00.000Z",
-        "2024-04-05T13:00:00.000Z",
-        "2023-11-17T13:00:00.000Z",
-        "2023-04-21T13:00:00.000Z",
-        "2022-11-04T13:00:00.000Z",
-        "2022-05-20T13:00:00.000Z",
-        "2021-12-17T13:00:00.000Z",
-        "2021-09-24T13:00:00.000Z",
-        "2021-05-21T13:00:00.000Z",
-        "2020-12-18T13:00:00.000Z",
-        "2020-07-17T13:00:00.000Z"
+        "2025-04-18T13:00:00.000Z"
       ],
-      "wikiURL": "https://wiki.warframe.com/w/Tiberon_Elixis_Skin",
-      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/TiberonElixisSkin.png/300px-TiberonElixisSkin.png?6f94d"
+      "wikiURL": "https://wiki.warframe.com/w/Somachord",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/TheOldBloodLoginMusic.png/300px-TheOldBloodLoginMusic.png?be5c7"
     },
     {
       "itemName": "Primed Chilling Grasp",
@@ -4390,6 +4427,7 @@
       "credits": 220000,
       "ducats": 250,
       "dates": [
+        "2025-10-17T13:00:00.000Z",
         "2025-09-19T13:00:00.000Z",
         "2025-04-11T13:00:00.000Z",
         "2025-02-21T13:00:00.000Z",
@@ -4435,43 +4473,6 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrismaLenz.png/300px-PrismaLenz.png?ca162"
     },
     {
-      "itemName": "Thermite Rounds",
-      "itemType": "Mod",
-      "itemSubType": null,
-      "credits": 150000,
-      "ducats": 300,
-      "dates": [
-        "2025-09-19T13:00:00.000Z",
-        "2024-04-05T13:00:00.000Z",
-        "2022-11-04T13:00:00.000Z",
-        "2021-12-03T13:00:00.000Z",
-        "2021-05-07T13:00:00.000Z",
-        "2020-10-23T13:00:00.000Z",
-        "2020-03-27T13:00:00.000Z",
-        "2019-10-11T13:00:00.000Z",
-        "2019-06-14T13:00:00.000Z",
-        "2019-02-22T13:00:00.000Z",
-        "2018-11-02T13:00:00.000Z",
-        "2018-06-15T13:00:00.000Z",
-        "2018-02-09T13:00:00.000Z",
-        "2017-09-22T13:00:00.000Z"
-      ],
-      "wikiURL": "https://wiki.warframe.com/w/Thermite_Rounds",
-      "wikiThumbnail": "https://wiki.warframe.com/images/ThermiteRoundsMod.png?6bc25"
-    },
-    {
-      "itemName": "The Old Blood Login Music",
-      "itemType": "Somachord",
-      "itemSubType": null,
-      "credits": 170000,
-      "ducats": 140,
-      "dates": [
-        "2025-04-18T13:00:00.000Z"
-      ],
-      "wikiURL": "https://wiki.warframe.com/w/Somachord",
-      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/TheOldBloodLoginMusic.png/300px-TheOldBloodLoginMusic.png?be5c7"
-    },
-    {
       "itemName": "The New War Login Music",
       "itemType": "Somachord",
       "itemSubType": null,
@@ -4484,17 +4485,37 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/TheNewWarLoginMusic.png/300px-TheNewWarLoginMusic.png?8835d"
     },
     {
-      "itemName": "Rathuum Display",
+      "itemName": "Noggle Statue - Excalibur with Odonata",
       "itemType": "Decoration",
       "itemSubType": null,
-      "credits": 125000,
+      "credits": 200000,
       "ducats": 90,
       "dates": [
-        "2025-07-11T13:00:00.000Z",
-        "2024-09-20T13:00:00.000Z"
+        "2025-09-05T13:00:00.000Z",
+        "2025-05-02T13:00:00.000Z",
+        "2025-04-18T13:00:00.000Z",
+        "2024-11-29T13:00:00.000Z",
+        "2024-10-18T13:00:00.000Z",
+        "2024-02-09T13:00:00.000Z",
+        "2023-03-24T13:00:00.000Z",
+        "2022-08-26T13:00:00.000Z",
+        "2022-08-12T13:00:00.000Z",
+        "2022-07-29T13:00:00.000Z",
+        "2022-06-17T13:00:00.000Z",
+        "2021-12-31T13:00:00.000Z",
+        "2021-08-27T13:00:00.000Z",
+        "2021-04-09T13:00:00.000Z",
+        "2020-10-23T13:00:00.000Z",
+        "2020-06-05T13:00:00.000Z",
+        "2020-01-17T13:00:00.000Z",
+        "2019-08-16T13:00:00.000Z",
+        "2019-04-19T13:00:00.000Z",
+        "2018-12-28T13:00:00.000Z",
+        "2018-08-24T13:00:00.000Z",
+        "2018-04-06T13:00:00.000Z"
       ],
-      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Displays",
-      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/RathuumDisplay.png/300px-RathuumDisplay.png?bd7c7"
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Noggles",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/BobbleheadExcaliburArchwing.png/300px-BobbleheadExcaliburArchwing.png?29e9e"
     },
     {
       "itemName": "Left Prisma Latron Shoulder Plate",
@@ -4523,6 +4544,59 @@
       ],
       "wikiURL": "https://wiki.warframe.com/w/Armor_(Cosmetic)",
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrismaLatronShoulderPlate.png/300px-PrismaLatronShoulderPlate.png?ab0f5"
+    },
+    {
+      "itemName": "Gotva Prime",
+      "itemType": "Weapon",
+      "itemSubType": null,
+      "credits": 625000,
+      "ducats": 675,
+      "dates": [
+        "2025-10-03T13:00:00.000Z",
+        "2025-06-13T13:00:00.000Z",
+        "2025-02-07T13:00:00.000Z",
+        "2024-10-04T13:00:00.000Z",
+        "2024-04-05T13:00:00.000Z",
+        "2023-11-03T13:00:00.000Z"
+      ],
+      "wikiURL": "https://wiki.warframe.com/w/Gotva_Prime",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/GotvaPrime.png/300px-GotvaPrime.png?d08b7"
+    },
+    {
+      "itemName": "Tempo Royale",
+      "itemType": "Mod",
+      "itemSubType": "Stance",
+      "credits": 175000,
+      "ducats": 385,
+      "dates": [
+        "2025-04-04T13:00:00.000Z",
+        "2024-07-26T13:00:00.000Z",
+        "2024-02-09T13:00:00.000Z",
+        "2023-06-16T13:00:00.000Z",
+        "2022-08-26T13:00:00.000Z",
+        "2022-08-12T13:00:00.000Z",
+        "2022-07-29T13:00:00.000Z",
+        "2022-07-01T13:00:00.000Z",
+        "2021-12-17T13:00:00.000Z",
+        "2021-05-21T13:00:00.000Z",
+        "2020-11-20T13:00:00.000Z",
+        "2020-06-05T13:00:00.000Z",
+        "2019-11-22T13:00:00.000Z",
+        "2019-08-02T13:00:00.000Z",
+        "2019-03-22T13:00:00.000Z",
+        "2018-11-16T13:00:00.000Z",
+        "2018-06-29T13:00:00.000Z",
+        "2018-01-26T13:00:00.000Z",
+        "2017-09-08T13:00:00.000Z",
+        "2017-04-21T13:00:00.000Z",
+        "2017-01-27T13:00:00.000Z",
+        "2016-10-07T13:00:00.000Z",
+        "2016-09-23T13:00:00.000Z",
+        "2016-05-20T13:00:00.000Z",
+        "2015-10-16T13:00:00.000Z"
+      ],
+      "wikiURL": "https://wiki.warframe.com/w/Tempo_Royale",
+      "wikiThumbnail": "https://wiki.warframe.com/images/TempoRoyaleMod.png?561e3"
     },
     {
       "itemName": "Collision Force",
@@ -4608,21 +4682,20 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/Ki%27teerSyandana.png/300px-Ki%27teerSyandana.png?439dd"
     },
     {
-      "itemName": "Gotva Prime",
-      "itemType": "Weapon",
-      "itemSubType": null,
-      "credits": 625000,
-      "ducats": 675,
+      "itemName": "Primed Convulsion",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
+      "credits": 175000,
+      "ducats": 350,
       "dates": [
-        "2025-10-03T13:00:00.000Z",
-        "2025-06-13T13:00:00.000Z",
-        "2025-02-07T13:00:00.000Z",
-        "2024-10-04T13:00:00.000Z",
-        "2024-04-05T13:00:00.000Z",
-        "2023-11-03T13:00:00.000Z"
+        "2025-07-25T13:00:00.000Z",
+        "2025-04-04T13:00:00.000Z",
+        "2024-11-29T13:00:00.000Z",
+        "2024-06-14T13:00:00.000Z",
+        "2023-12-29T13:00:00.000Z"
       ],
-      "wikiURL": "https://wiki.warframe.com/w/Gotva_Prime",
-      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/GotvaPrime.png/300px-GotvaPrime.png?d08b7"
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Convulsion",
+      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedConvulsionMod.png?72f2e"
     },
     {
       "itemName": "Dragon Mod Pack",
@@ -4724,65 +4797,6 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/KavatSentinelWings.png/300px-KavatSentinelWings.png?e820e"
     },
     {
-      "itemName": "Tempo Royale",
-      "itemType": "Mod",
-      "itemSubType": "Stance",
-      "credits": 175000,
-      "ducats": 385,
-      "dates": [
-        "2025-04-04T13:00:00.000Z",
-        "2024-07-26T13:00:00.000Z",
-        "2024-02-09T13:00:00.000Z",
-        "2023-06-16T13:00:00.000Z",
-        "2022-08-26T13:00:00.000Z",
-        "2022-08-12T13:00:00.000Z",
-        "2022-07-29T13:00:00.000Z",
-        "2022-07-01T13:00:00.000Z",
-        "2021-12-17T13:00:00.000Z",
-        "2021-05-21T13:00:00.000Z",
-        "2020-11-20T13:00:00.000Z",
-        "2020-06-05T13:00:00.000Z",
-        "2019-11-22T13:00:00.000Z",
-        "2019-08-02T13:00:00.000Z",
-        "2019-03-22T13:00:00.000Z",
-        "2018-11-16T13:00:00.000Z",
-        "2018-06-29T13:00:00.000Z",
-        "2018-01-26T13:00:00.000Z",
-        "2017-09-08T13:00:00.000Z",
-        "2017-04-21T13:00:00.000Z",
-        "2017-01-27T13:00:00.000Z",
-        "2016-10-07T13:00:00.000Z",
-        "2016-09-23T13:00:00.000Z",
-        "2016-05-20T13:00:00.000Z",
-        "2015-10-16T13:00:00.000Z"
-      ],
-      "wikiURL": "https://wiki.warframe.com/w/Tempo_Royale",
-      "wikiThumbnail": "https://wiki.warframe.com/images/TempoRoyaleMod.png?561e3"
-    },
-    {
-      "itemName": "Pedestal Umbra",
-      "itemType": "Decoration",
-      "itemSubType": null,
-      "credits": 1000000,
-      "ducats": null,
-      "dates": [
-        "2025-07-11T13:00:00.000Z",
-        "2024-09-20T13:00:00.000Z",
-        "2023-12-29T13:00:00.000Z",
-        "2023-04-07T13:00:00.000Z",
-        "2022-08-26T13:00:00.000Z",
-        "2022-08-12T13:00:00.000Z",
-        "2022-07-29T13:00:00.000Z",
-        "2022-06-17T13:00:00.000Z",
-        "2021-12-31T13:00:00.000Z",
-        "2021-07-02T13:00:00.000Z",
-        "2021-01-29T13:00:00.000Z",
-        "2020-08-14T13:00:00.000Z"
-      ],
-      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Miscellaneous",
-      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PedestalUmbra.png/300px-PedestalUmbra.png?9a06b"
-    },
-    {
       "itemName": "Techrot Glyph",
       "itemType": "Glyph",
       "itemSubType": null,
@@ -4793,6 +4807,60 @@
       ],
       "wikiURL": "https://wiki.warframe.com/w/Glyph#Other_Glyphs",
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/TechrotGlyph.png/300px-TechrotGlyph.png?7e878"
+    },
+    {
+      "itemName": "Taxon Desert-Camo Skin",
+      "itemType": "Cosmetic",
+      "itemSubType": "Sentinel",
+      "credits": 150000,
+      "ducats": 200,
+      "dates": [
+        "2024-12-13T13:00:00.000Z",
+        "2024-10-18T13:00:00.000Z",
+        "2024-01-26T13:00:00.000Z",
+        "2023-06-30T13:00:00.000Z",
+        "2022-11-18T13:00:00.000Z",
+        "2022-08-26T13:00:00.000Z",
+        "2022-08-12T13:00:00.000Z",
+        "2022-07-29T13:00:00.000Z",
+        "2022-02-25T13:00:00.000Z",
+        "2021-11-19T13:00:00.000Z",
+        "2021-06-04T13:00:00.000Z",
+        "2021-01-15T13:00:00.000Z",
+        "2020-09-25T13:00:00.000Z",
+        "2020-06-19T13:00:00.000Z",
+        "2020-01-31T13:00:00.000Z",
+        "2019-10-11T13:00:00.000Z",
+        "2019-05-17T13:00:00.000Z",
+        "2018-12-28T13:00:00.000Z",
+        "2018-09-21T13:00:00.000Z"
+      ],
+      "wikiURL": "https://wiki.warframe.com/w/Taxon/Equip",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/DesertTaxonSkin.png/300px-DesertTaxonSkin.png?91c32"
+    },
+    {
+      "itemName": "Reshantur Cult Syandana",
+      "itemType": "Cosmetic",
+      "itemSubType": "Syandana",
+      "credits": 350000,
+      "ducats": 400,
+      "dates": [
+        "2025-05-30T13:00:00.000Z",
+        "2025-02-21T13:00:00.000Z",
+        "2024-09-20T13:00:00.000Z",
+        "2024-05-17T13:00:00.000Z",
+        "2023-12-01T13:00:00.000Z",
+        "2023-07-28T13:00:00.000Z",
+        "2023-04-07T13:00:00.000Z",
+        "2022-12-16T13:00:00.000Z",
+        "2022-08-26T13:00:00.000Z",
+        "2022-08-12T13:00:00.000Z",
+        "2022-07-29T13:00:00.000Z",
+        "2022-07-01T13:00:00.000Z",
+        "2022-03-25T13:00:00.000Z"
+      ],
+      "wikiURL": "https://wiki.warframe.com/w/Syandana",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/ReshanturCultSyandana.png/300px-ReshanturCultSyandana.png?af3c5"
     },
     {
       "itemName": "Display - Argyle",
@@ -4848,6 +4916,7 @@
       "credits": 200000,
       "ducats": 300,
       "dates": [
+        "2025-10-17T13:00:00.000Z",
         "2025-04-11T13:00:00.000Z",
         "2025-03-21T13:00:00.000Z",
         "2024-12-27T13:00:00.000Z",
@@ -4908,46 +4977,36 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/ParacystZebraSkin.png/300px-ParacystZebraSkin.png?cd528"
     },
     {
-      "itemName": "Rhino Palatine Sigil",
-      "itemType": "Cosmetic",
-      "itemSubType": "Sigil",
-      "credits": 55000,
-      "ducats": 45,
+      "itemName": "Taktis Fighter Decoration",
+      "itemType": "Decoration",
+      "itemSubType": null,
+      "credits": 100000,
+      "ducats": 100,
       "dates": [
-        "2025-07-25T13:00:00.000Z",
-        "2024-11-29T13:00:00.000Z",
-        "2024-03-08T13:00:00.000Z"
-      ],
-      "wikiURL": "https://wiki.warframe.com/w/Sigils#Event_Sigils",
-      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/RhinoPalatineSigil.png/300px-RhinoPalatineSigil.png?ec0be"
-    },
-    {
-      "itemName": "Glaring Emblem",
-      "itemType": "Cosmetic",
-      "itemSubType": "Emblem",
-      "credits": 50000,
-      "ducats": 50,
-      "dates": [
-        "2025-10-03T13:00:00.000Z",
-        "2025-04-18T13:00:00.000Z",
-        "2025-02-07T13:00:00.000Z",
-        "2024-05-31T13:00:00.000Z",
-        "2024-04-19T13:00:00.000Z",
-        "2023-08-11T13:00:00.000Z",
-        "2022-11-18T13:00:00.000Z",
+        "2025-09-05T13:00:00.000Z",
+        "2024-09-20T13:00:00.000Z",
+        "2023-12-15T13:00:00.000Z",
+        "2023-04-07T13:00:00.000Z",
         "2022-08-26T13:00:00.000Z",
         "2022-08-12T13:00:00.000Z",
         "2022-07-29T13:00:00.000Z",
-        "2021-12-31T13:00:00.000Z",
-        "2021-07-16T13:00:00.000Z",
-        "2021-01-29T13:00:00.000Z",
-        "2020-09-25T13:00:00.000Z",
-        "2020-05-08T13:00:00.000Z",
-        "2019-12-06T13:00:00.000Z",
-        "2019-06-28T13:00:00.000Z"
+        "2022-07-15T13:00:00.000Z",
+        "2022-01-14T13:00:00.000Z"
       ],
-      "wikiURL": "https://wiki.warframe.com/w/Sigils#Baro_Ki'Teer_Sigils",
-      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/GlaringSigil.png/300px-GlaringSigil.png?1eea9"
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Fighters",
+      "wikiThumbnail": "https://wiki.warframe.com/images/KosmaTaktis.png?b4b86"
+    },
+    {
+      "itemName": "Primed Stabilizer",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
+      "credits": 220000,
+      "ducats": 300,
+      "dates": [
+        "2025-04-18T13:00:00.000Z"
+      ],
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Stabilizer",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrimedStabilizerMod.png/300px-PrimedStabilizerMod.png?b85a2"
     },
     {
       "itemName": "Sima Luxxum Ornament",
@@ -4985,53 +5044,13 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/BobbleheadMagArchwing.png/300px-BobbleheadMagArchwing.png?b50a4"
     },
     {
-      "itemName": "Taktis Fighter Decoration",
-      "itemType": "Decoration",
-      "itemSubType": null,
-      "credits": 100000,
-      "ducats": 100,
-      "dates": [
-        "2025-09-05T13:00:00.000Z",
-        "2024-09-20T13:00:00.000Z",
-        "2023-12-15T13:00:00.000Z",
-        "2023-04-07T13:00:00.000Z",
-        "2022-08-26T13:00:00.000Z",
-        "2022-08-12T13:00:00.000Z",
-        "2022-07-29T13:00:00.000Z",
-        "2022-07-15T13:00:00.000Z",
-        "2022-01-14T13:00:00.000Z"
-      ],
-      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Fighters",
-      "wikiThumbnail": "https://wiki.warframe.com/images/KosmaTaktis.png?b4b86"
-    },
-    {
-      "itemName": "Primed Tactical Pump",
-      "itemType": "Mod",
-      "itemSubType": "Primed",
-      "credits": 140000,
-      "ducats": 300,
-      "dates": [
-        "2025-07-11T13:00:00.000Z",
-        "2025-03-07T13:00:00.000Z",
-        "2024-12-27T13:00:00.000Z",
-        "2024-11-01T13:00:00.000Z",
-        "2024-03-08T13:00:00.000Z",
-        "2023-07-28T13:00:00.000Z",
-        "2023-01-13T13:00:00.000Z",
-        "2022-05-20T13:00:00.000Z",
-        "2021-11-19T13:00:00.000Z",
-        "2021-06-18T13:00:00.000Z"
-      ],
-      "wikiURL": "https://wiki.warframe.com/w/Primed_Tactical_Pump",
-      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedTacticalPumpMod.png?4705f"
-    },
-    {
       "itemName": "Supra Vandal",
       "itemType": "Weapon",
       "itemSubType": null,
       "credits": 275000,
       "ducats": 500,
       "dates": [
+        "2025-10-17T13:00:00.000Z",
         "2025-05-30T13:00:00.000Z",
         "2025-02-07T13:00:00.000Z",
         "2024-09-20T13:00:00.000Z",
@@ -5104,35 +5123,6 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/StalkerBeacon.png/300px-StalkerBeacon.png?3aed1"
     },
     {
-      "itemName": "Prisma Lotus Glyph",
-      "itemType": "Glyph",
-      "itemSubType": null,
-      "credits": 50000,
-      "ducats": 80,
-      "dates": [
-        "2025-09-05T13:00:00.000Z",
-        "2025-04-11T13:00:00.000Z",
-        "2025-02-21T13:00:00.000Z",
-        "2024-12-27T13:00:00.000Z",
-        "2024-08-23T13:00:00.000Z",
-        "2024-02-23T13:00:00.000Z",
-        "2023-11-03T13:00:00.000Z",
-        "2023-05-05T13:00:00.000Z",
-        "2022-12-30T13:00:00.000Z",
-        "2022-09-09T13:00:00.000Z",
-        "2022-05-06T13:00:00.000Z",
-        "2021-12-17T13:00:00.000Z",
-        "2021-07-16T13:00:00.000Z",
-        "2021-01-15T13:00:00.000Z",
-        "2020-08-28T13:00:00.000Z",
-        "2020-03-27T13:00:00.000Z",
-        "2019-11-08T13:00:00.000Z",
-        "2019-06-14T13:00:00.000Z"
-      ],
-      "wikiURL": "https://wiki.warframe.com/w/Glyph#Other_Glyphs",
-      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrismaLotusGlyph.png/300px-PrismaLotusGlyph.png?24749"
-    },
-    {
       "itemName": "Sonicor Elixis Skin",
       "itemType": "Cosmetic",
       "itemSubType": "Weapon",
@@ -5167,6 +5157,94 @@
       ],
       "wikiURL": "https://wiki.warframe.com/w/Sonicor_Elixis_Skin",
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/SonicorElixisSkin.png/300px-SonicorElixisSkin.png?f139d"
+    },
+    {
+      "itemName": "Right Prisma Edo Shoulder Plates",
+      "itemType": "Cosmetic",
+      "itemSubType": "Armor",
+      "credits": 55000,
+      "ducats": 100,
+      "dates": [
+        "2025-08-08T13:00:00.000Z",
+        "2025-04-11T13:00:00.000Z",
+        "2025-04-04T13:00:00.000Z",
+        "2024-12-27T13:00:00.000Z",
+        "2024-10-18T13:00:00.000Z",
+        "2024-05-03T13:00:00.000Z",
+        "2023-06-30T13:00:00.000Z",
+        "2023-01-27T13:00:00.000Z",
+        "2022-08-26T13:00:00.000Z",
+        "2022-08-12T13:00:00.000Z",
+        "2022-07-29T13:00:00.000Z",
+        "2022-07-01T13:00:00.000Z",
+        "2022-02-11T13:00:00.000Z",
+        "2021-07-02T13:00:00.000Z",
+        "2021-02-12T13:00:00.000Z",
+        "2020-09-11T13:00:00.000Z",
+        "2020-05-08T13:00:00.000Z",
+        "2020-01-03T13:00:00.000Z",
+        "2019-08-30T13:00:00.000Z",
+        "2019-05-03T13:00:00.000Z",
+        "2019-01-11T13:00:00.000Z",
+        "2018-10-19T13:00:00.000Z",
+        "2018-06-29T13:00:00.000Z",
+        "2018-03-09T13:00:00.000Z",
+        "2017-11-03T13:00:00.000Z",
+        "2017-06-30T13:00:00.000Z",
+        "2017-02-10T13:00:00.000Z",
+        "2016-10-07T13:00:00.000Z",
+        "2016-05-20T13:00:00.000Z",
+        "2015-12-11T13:00:00.000Z"
+      ],
+      "wikiURL": "https://wiki.warframe.com/w/Armor_(Cosmetic)",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/LeftPrismaEdoShoulderPlates.png/300px-LeftPrismaEdoShoulderPlates.png?7b776"
+    },
+    {
+      "itemName": "Prisma Lotus Glyph",
+      "itemType": "Glyph",
+      "itemSubType": null,
+      "credits": 50000,
+      "ducats": 80,
+      "dates": [
+        "2025-09-05T13:00:00.000Z",
+        "2025-04-11T13:00:00.000Z",
+        "2025-02-21T13:00:00.000Z",
+        "2024-12-27T13:00:00.000Z",
+        "2024-08-23T13:00:00.000Z",
+        "2024-02-23T13:00:00.000Z",
+        "2023-11-03T13:00:00.000Z",
+        "2023-05-05T13:00:00.000Z",
+        "2022-12-30T13:00:00.000Z",
+        "2022-09-09T13:00:00.000Z",
+        "2022-05-06T13:00:00.000Z",
+        "2021-12-17T13:00:00.000Z",
+        "2021-07-16T13:00:00.000Z",
+        "2021-01-15T13:00:00.000Z",
+        "2020-08-28T13:00:00.000Z",
+        "2020-03-27T13:00:00.000Z",
+        "2019-11-08T13:00:00.000Z",
+        "2019-06-14T13:00:00.000Z"
+      ],
+      "wikiURL": "https://wiki.warframe.com/w/Glyph#Other_Glyphs",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrismaLotusGlyph.png/300px-PrismaLotusGlyph.png?24749"
+    },
+    {
+      "itemName": "Secret History Replica",
+      "itemType": "Decoration",
+      "itemSubType": null,
+      "credits": 100000,
+      "ducats": 75,
+      "dates": [
+        "2025-01-10T13:00:00.000Z",
+        "2024-05-03T13:00:00.000Z",
+        "2023-06-02T13:00:00.000Z",
+        "2022-08-26T13:00:00.000Z",
+        "2022-08-12T13:00:00.000Z",
+        "2022-07-29T13:00:00.000Z",
+        "2022-07-15T13:00:00.000Z"
+      ],
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Miscellaneous",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/SecretHistoryReplica.png/300px-SecretHistoryReplica.png?cbc3f"
     },
     {
       "itemName": "Ignis Towsun Skin",
@@ -5218,28 +5296,21 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/PrimedExpelInfestedMod.png?dac79"
     },
     {
-      "itemName": "Scattering Inferno",
-      "itemType": "Mod",
-      "itemSubType": null,
-      "credits": 150000,
-      "ducats": 300,
+      "itemName": "Scoria Diadem",
+      "itemType": "Cosmetic",
+      "itemSubType": "Operator",
+      "credits": 300000,
+      "ducats": 550,
       "dates": [
         "2025-07-25T13:00:00.000Z",
-        "2024-01-26T13:00:00.000Z",
-        "2021-11-05T13:00:00.000Z",
-        "2021-04-23T13:00:00.000Z",
-        "2020-10-23T13:00:00.000Z",
-        "2020-03-27T13:00:00.000Z",
-        "2019-10-11T13:00:00.000Z",
-        "2019-06-14T13:00:00.000Z",
-        "2019-02-22T13:00:00.000Z",
-        "2018-11-02T13:00:00.000Z",
-        "2018-06-15T13:00:00.000Z",
-        "2018-02-09T13:00:00.000Z",
-        "2017-09-22T13:00:00.000Z"
+        "2025-03-07T13:00:00.000Z",
+        "2024-10-04T13:00:00.000Z",
+        "2024-04-05T13:00:00.000Z",
+        "2023-12-01T13:00:00.000Z",
+        "2023-07-14T13:00:00.000Z"
       ],
-      "wikiURL": "https://wiki.warframe.com/w/Scattering_Inferno",
-      "wikiThumbnail": "https://wiki.warframe.com/images/ScatteringInfernoMod.png?e2175"
+      "wikiURL": "https://wiki.warframe.com/w/Operator/Customization#Facial_Accessories",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/ScoriaDiadem.png/300px-ScoriaDiadem.png?40c41"
     },
     {
       "itemName": "Garv & Latrox Poster",
@@ -5296,54 +5367,6 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/JaviGenomeScrawling.png/300px-JaviGenomeScrawling.png?ec6f0"
     },
     {
-      "itemName": "Secret History Replica",
-      "itemType": "Decoration",
-      "itemSubType": null,
-      "credits": 100000,
-      "ducats": 75,
-      "dates": [
-        "2025-01-10T13:00:00.000Z",
-        "2024-05-03T13:00:00.000Z",
-        "2023-06-02T13:00:00.000Z",
-        "2022-08-26T13:00:00.000Z",
-        "2022-08-12T13:00:00.000Z",
-        "2022-07-29T13:00:00.000Z",
-        "2022-07-15T13:00:00.000Z"
-      ],
-      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Miscellaneous",
-      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/SecretHistoryReplica.png/300px-SecretHistoryReplica.png?cbc3f"
-    },
-    {
-      "itemName": "Drippy Sigil",
-      "itemType": "Cosmetic",
-      "itemSubType": "Sigil",
-      "credits": 45000,
-      "ducats": 50,
-      "dates": [
-        "2025-08-08T13:00:00.000Z",
-        "2025-02-21T13:00:00.000Z"
-      ],
-      "wikiURL": "https://wiki.warframe.com/w/Sigils#Baro_Ki'Teer_Sigils",
-      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/DrippySigil.png/300px-DrippySigil.png?2bbac"
-    },
-    {
-      "itemName": "Scoria Diadem",
-      "itemType": "Cosmetic",
-      "itemSubType": "Operator",
-      "credits": 300000,
-      "ducats": 550,
-      "dates": [
-        "2025-07-25T13:00:00.000Z",
-        "2025-03-07T13:00:00.000Z",
-        "2024-10-04T13:00:00.000Z",
-        "2024-04-05T13:00:00.000Z",
-        "2023-12-01T13:00:00.000Z",
-        "2023-07-14T13:00:00.000Z"
-      ],
-      "wikiURL": "https://wiki.warframe.com/w/Operator/Customization#Facial_Accessories",
-      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/ScoriaDiadem.png/300px-ScoriaDiadem.png?40c41"
-    },
-    {
       "itemName": "Scorch",
       "itemType": "Mod",
       "itemSubType": null,
@@ -5368,19 +5391,70 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/ScorchMod.png?d189b"
     },
     {
-      "itemName": "Grav Lifter Factory",
-      "itemType": "Decoration",
-      "itemSubType": null,
-      "credits": 125000,
-      "ducats": 110,
+      "itemName": "Drippy Sigil",
+      "itemType": "Cosmetic",
+      "itemSubType": "Sigil",
+      "credits": 45000,
+      "ducats": 50,
       "dates": [
-        "2025-05-30T13:00:00.000Z",
-        "2024-08-09T13:00:00.000Z",
-        "2023-11-17T13:00:00.000Z",
-        "2023-02-24T13:00:00.000Z"
+        "2025-08-08T13:00:00.000Z",
+        "2025-02-21T13:00:00.000Z"
       ],
-      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Miscellaneous",
-      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/GravLifterFactory.png/300px-GravLifterFactory.png?44bef"
+      "wikiURL": "https://wiki.warframe.com/w/Sigils#Baro_Ki'Teer_Sigils",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/DrippySigil.png/300px-DrippySigil.png?2bbac"
+    },
+    {
+      "itemName": "Ki'teer Reverence Ephemera",
+      "itemType": "Cosmetic",
+      "itemSubType": "Ephemera",
+      "credits": 350000,
+      "ducats": 250,
+      "dates": [
+        "2025-09-19T13:00:00.000Z",
+        "2025-04-25T13:00:00.000Z",
+        "2025-03-07T13:00:00.000Z",
+        "2024-09-20T13:00:00.000Z",
+        "2024-01-26T13:00:00.000Z",
+        "2023-06-30T13:00:00.000Z"
+      ],
+      "wikiURL": "https://wiki.warframe.com/w/Ephemera#Ki'teer_Reverence",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/Ki%27teerReverenceEphemera.png/300px-Ki%27teerReverenceEphemera.png?4b659"
+    },
+    {
+      "itemName": "Scattering Inferno",
+      "itemType": "Mod",
+      "itemSubType": null,
+      "credits": 150000,
+      "ducats": 300,
+      "dates": [
+        "2025-07-25T13:00:00.000Z",
+        "2024-01-26T13:00:00.000Z",
+        "2021-11-05T13:00:00.000Z",
+        "2021-04-23T13:00:00.000Z",
+        "2020-10-23T13:00:00.000Z",
+        "2020-03-27T13:00:00.000Z",
+        "2019-10-11T13:00:00.000Z",
+        "2019-06-14T13:00:00.000Z",
+        "2019-02-22T13:00:00.000Z",
+        "2018-11-02T13:00:00.000Z",
+        "2018-06-15T13:00:00.000Z",
+        "2018-02-09T13:00:00.000Z",
+        "2017-09-22T13:00:00.000Z"
+      ],
+      "wikiURL": "https://wiki.warframe.com/w/Scattering_Inferno",
+      "wikiThumbnail": "https://wiki.warframe.com/images/ScatteringInfernoMod.png?e2175"
+    },
+    {
+      "itemName": "Scaldra Glyph",
+      "itemType": "Glyph",
+      "itemSubType": null,
+      "credits": 1906,
+      "ducats": 93,
+      "dates": [
+        "2025-05-16T13:00:00.000Z"
+      ],
+      "wikiURL": "https://wiki.warframe.com/w/Glyph#Other_Glyphs",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/ScaldraGlyph.png/300px-ScaldraGlyph.png?07bdb"
     },
     {
       "itemName": "Shell Shock",
@@ -5417,16 +5491,47 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/ShellShockMod.png?85cab"
     },
     {
-      "itemName": "Scaldra Glyph",
-      "itemType": "Glyph",
-      "itemSubType": null,
-      "credits": 1906,
-      "ducats": 93,
+      "itemName": "Right Prisma Daedalus Shoulder Guard",
+      "itemType": "Cosmetic",
+      "itemSubType": "Armor",
+      "credits": 75000,
+      "ducats": 65,
       "dates": [
-        "2025-05-16T13:00:00.000Z"
+        "2025-09-05T13:00:00.000Z",
+        "2025-04-11T13:00:00.000Z",
+        "2024-12-27T13:00:00.000Z",
+        "2024-06-28T13:00:00.000Z",
+        "2023-12-15T13:00:00.000Z",
+        "2023-07-14T13:00:00.000Z",
+        "2023-02-10T13:00:00.000Z",
+        "2022-08-26T13:00:00.000Z",
+        "2022-08-12T13:00:00.000Z",
+        "2022-07-29T13:00:00.000Z",
+        "2022-07-15T13:00:00.000Z",
+        "2022-01-28T13:00:00.000Z",
+        "2021-09-10T13:00:00.000Z",
+        "2021-04-23T13:00:00.000Z",
+        "2020-12-18T13:00:00.000Z",
+        "2020-08-14T13:00:00.000Z",
+        "2020-04-10T13:00:00.000Z",
+        "2019-12-06T13:00:00.000Z",
+        "2019-11-22T13:00:00.000Z",
+        "2019-08-02T13:00:00.000Z",
+        "2019-04-19T13:00:00.000Z",
+        "2018-12-28T13:00:00.000Z",
+        "2018-09-21T13:00:00.000Z",
+        "2018-06-01T13:00:00.000Z",
+        "2018-02-09T13:00:00.000Z",
+        "2017-10-06T13:00:00.000Z",
+        "2017-06-02T13:00:00.000Z",
+        "2016-12-30T13:00:00.000Z",
+        "2016-08-26T13:00:00.000Z",
+        "2016-04-22T13:00:00.000Z",
+        "2015-10-02T13:00:00.000Z",
+        "2015-05-29T13:00:00.000Z"
       ],
-      "wikiURL": "https://wiki.warframe.com/w/Glyph#Other_Glyphs",
-      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/ScaldraGlyph.png/300px-ScaldraGlyph.png?07bdb"
+      "wikiURL": "https://wiki.warframe.com/w/Armor_(Cosmetic)",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/LeftPrismaDaedalusShoulderGuard.png/300px-LeftPrismaDaedalusShoulderGuard.png?3e863"
     },
     {
       "itemName": "Ki'teer Domestik Drone",
@@ -5495,88 +5600,55 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/MaimMod.png?46506"
     },
     {
-      "itemName": "Right Prisma Edo Shoulder Plates",
-      "itemType": "Cosmetic",
-      "itemSubType": "Armor",
-      "credits": 55000,
-      "ducats": 100,
-      "dates": [
-        "2025-08-08T13:00:00.000Z",
-        "2025-04-11T13:00:00.000Z",
-        "2025-04-04T13:00:00.000Z",
-        "2024-12-27T13:00:00.000Z",
-        "2024-10-18T13:00:00.000Z",
-        "2024-05-03T13:00:00.000Z",
-        "2023-06-30T13:00:00.000Z",
-        "2023-01-27T13:00:00.000Z",
-        "2022-08-26T13:00:00.000Z",
-        "2022-08-12T13:00:00.000Z",
-        "2022-07-29T13:00:00.000Z",
-        "2022-07-01T13:00:00.000Z",
-        "2022-02-11T13:00:00.000Z",
-        "2021-07-02T13:00:00.000Z",
-        "2021-02-12T13:00:00.000Z",
-        "2020-09-11T13:00:00.000Z",
-        "2020-05-08T13:00:00.000Z",
-        "2020-01-03T13:00:00.000Z",
-        "2019-08-30T13:00:00.000Z",
-        "2019-05-03T13:00:00.000Z",
-        "2019-01-11T13:00:00.000Z",
-        "2018-10-19T13:00:00.000Z",
-        "2018-06-29T13:00:00.000Z",
-        "2018-03-09T13:00:00.000Z",
-        "2017-11-03T13:00:00.000Z",
-        "2017-06-30T13:00:00.000Z",
-        "2017-02-10T13:00:00.000Z",
-        "2016-10-07T13:00:00.000Z",
-        "2016-05-20T13:00:00.000Z",
-        "2015-12-11T13:00:00.000Z"
-      ],
-      "wikiURL": "https://wiki.warframe.com/w/Armor_(Cosmetic)",
-      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/LeftPrismaEdoShoulderPlates.png/300px-LeftPrismaEdoShoulderPlates.png?7b776"
-    },
-    {
-      "itemName": "Right Prisma Daedalus Shoulder Guard",
+      "itemName": "Right Eos Prime Shoulder Plates",
       "itemType": "Cosmetic",
       "itemSubType": "Armor",
       "credits": 75000,
-      "ducats": 65,
+      "ducats": 50,
       "dates": [
-        "2025-09-05T13:00:00.000Z",
-        "2025-04-11T13:00:00.000Z",
-        "2024-12-27T13:00:00.000Z",
-        "2024-06-28T13:00:00.000Z",
-        "2023-12-15T13:00:00.000Z",
-        "2023-07-14T13:00:00.000Z",
-        "2023-02-10T13:00:00.000Z",
-        "2022-08-26T13:00:00.000Z",
-        "2022-08-12T13:00:00.000Z",
-        "2022-07-29T13:00:00.000Z",
-        "2022-07-15T13:00:00.000Z",
-        "2022-01-28T13:00:00.000Z",
-        "2021-09-10T13:00:00.000Z",
-        "2021-04-23T13:00:00.000Z",
-        "2020-12-18T13:00:00.000Z",
-        "2020-08-14T13:00:00.000Z",
-        "2020-04-10T13:00:00.000Z",
-        "2019-12-06T13:00:00.000Z",
-        "2019-11-22T13:00:00.000Z",
-        "2019-08-02T13:00:00.000Z",
-        "2019-04-19T13:00:00.000Z",
-        "2018-12-28T13:00:00.000Z",
-        "2018-09-21T13:00:00.000Z",
-        "2018-06-01T13:00:00.000Z",
-        "2018-02-09T13:00:00.000Z",
-        "2017-10-06T13:00:00.000Z",
-        "2017-06-02T13:00:00.000Z",
-        "2016-12-30T13:00:00.000Z",
-        "2016-08-26T13:00:00.000Z",
-        "2016-04-22T13:00:00.000Z",
-        "2015-10-02T13:00:00.000Z",
-        "2015-05-29T13:00:00.000Z"
+        "2025-05-30T13:00:00.000Z",
+        "2024-08-23T13:00:00.000Z",
+        "2024-03-08T13:00:00.000Z",
+        "2023-09-08T13:00:00.000Z",
+        "2023-04-07T13:00:00.000Z",
+        "2022-10-07T13:00:00.000Z",
+        "2022-04-22T13:00:00.000Z",
+        "2021-07-30T13:00:00.000Z",
+        "2021-03-12T13:00:00.000Z",
+        "2020-10-23T13:00:00.000Z",
+        "2020-06-19T13:00:00.000Z",
+        "2020-02-14T13:00:00.000Z",
+        "2019-09-27T13:00:00.000Z",
+        "2019-05-31T13:00:00.000Z",
+        "2019-02-22T13:00:00.000Z",
+        "2018-11-02T13:00:00.000Z",
+        "2018-07-27T13:00:00.000Z",
+        "2018-04-06T13:00:00.000Z",
+        "2017-12-01T13:00:00.000Z",
+        "2017-07-28T13:00:00.000Z",
+        "2017-03-10T13:00:00.000Z",
+        "2016-11-04T13:00:00.000Z",
+        "2016-07-15T13:00:00.000Z",
+        "2016-02-12T13:00:00.000Z",
+        "2015-03-06T13:00:00.000Z",
+        "2014-12-26T13:00:00.000Z"
       ],
       "wikiURL": "https://wiki.warframe.com/w/Armor_(Cosmetic)",
-      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/LeftPrismaDaedalusShoulderGuard.png/300px-LeftPrismaDaedalusShoulderGuard.png?3e863"
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrimedEosShoulderPlate.png/300px-PrimedEosShoulderPlate.png?13245"
+    },
+    {
+      "itemName": "Rhino Palatine Sigil",
+      "itemType": "Cosmetic",
+      "itemSubType": "Sigil",
+      "credits": 55000,
+      "ducats": 45,
+      "dates": [
+        "2025-07-25T13:00:00.000Z",
+        "2024-11-29T13:00:00.000Z",
+        "2024-03-08T13:00:00.000Z"
+      ],
+      "wikiURL": "https://wiki.warframe.com/w/Sigils#Event_Sigils",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/RhinoPalatineSigil.png/300px-RhinoPalatineSigil.png?ec0be"
     },
     {
       "itemName": "Deimos Velocipod Prex",
@@ -5634,6 +5706,7 @@
       "credits": 115000,
       "ducats": 300,
       "dates": [
+        "2025-10-17T13:00:00.000Z",
         "2024-12-27T13:00:00.000Z",
         "2024-05-03T13:00:00.000Z",
         "2024-04-19T13:00:00.000Z",
@@ -5654,6 +5727,7 @@
       "credits": 160000,
       "ducats": 155,
       "dates": [
+        "2025-10-17T13:00:00.000Z",
         "2025-09-19T13:00:00.000Z",
         "2025-04-04T13:00:00.000Z"
       ],
@@ -5697,41 +5771,16 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/TannukaiArmorArm.png/300px-TannukaiArmorArm.png?5221b"
     },
     {
-      "itemName": "Right Eos Prime Shoulder Plates",
+      "itemName": "Eskhatos Ki'teer Shoulder Guards",
       "itemType": "Cosmetic",
       "itemSubType": "Armor",
-      "credits": 75000,
-      "ducats": 50,
+      "credits": 278000,
+      "ducats": 109,
       "dates": [
-        "2025-05-30T13:00:00.000Z",
-        "2024-08-23T13:00:00.000Z",
-        "2024-03-08T13:00:00.000Z",
-        "2023-09-08T13:00:00.000Z",
-        "2023-04-07T13:00:00.000Z",
-        "2022-10-07T13:00:00.000Z",
-        "2022-04-22T13:00:00.000Z",
-        "2021-07-30T13:00:00.000Z",
-        "2021-03-12T13:00:00.000Z",
-        "2020-10-23T13:00:00.000Z",
-        "2020-06-19T13:00:00.000Z",
-        "2020-02-14T13:00:00.000Z",
-        "2019-09-27T13:00:00.000Z",
-        "2019-05-31T13:00:00.000Z",
-        "2019-02-22T13:00:00.000Z",
-        "2018-11-02T13:00:00.000Z",
-        "2018-07-27T13:00:00.000Z",
-        "2018-04-06T13:00:00.000Z",
-        "2017-12-01T13:00:00.000Z",
-        "2017-07-28T13:00:00.000Z",
-        "2017-03-10T13:00:00.000Z",
-        "2016-11-04T13:00:00.000Z",
-        "2016-07-15T13:00:00.000Z",
-        "2016-02-12T13:00:00.000Z",
-        "2015-03-06T13:00:00.000Z",
-        "2014-12-26T13:00:00.000Z"
+        "2025-10-17T13:00:00.000Z"
       ],
       "wikiURL": "https://wiki.warframe.com/w/Armor_(Cosmetic)",
-      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrimedEosShoulderPlate.png/300px-PrimedEosShoulderPlate.png?13245"
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/EskhatosKi%27teerShoulderGuards.png/300px-EskhatosKi%27teerShoulderGuards.png?19def"
     },
     {
       "itemName": "Liset Cydonia Skin",
@@ -5789,28 +5838,18 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/LotusEphemera.png/300px-LotusEphemera.png?40f10"
     },
     {
-      "itemName": "Reshantur Cult Syandana",
-      "itemType": "Cosmetic",
-      "itemSubType": "Syandana",
-      "credits": 350000,
-      "ducats": 400,
+      "itemName": "Javi Ophiuchus Scrawling",
+      "itemType": "Decoration",
+      "itemSubType": null,
+      "credits": 100000,
+      "ducats": 90,
       "dates": [
-        "2025-05-30T13:00:00.000Z",
-        "2025-02-21T13:00:00.000Z",
-        "2024-09-20T13:00:00.000Z",
-        "2024-05-17T13:00:00.000Z",
-        "2023-12-01T13:00:00.000Z",
-        "2023-07-28T13:00:00.000Z",
-        "2023-04-07T13:00:00.000Z",
-        "2022-12-16T13:00:00.000Z",
-        "2022-08-26T13:00:00.000Z",
-        "2022-08-12T13:00:00.000Z",
-        "2022-07-29T13:00:00.000Z",
-        "2022-07-01T13:00:00.000Z",
-        "2022-03-25T13:00:00.000Z"
+        "2025-07-25T13:00:00.000Z",
+        "2024-11-01T13:00:00.000Z",
+        "2024-01-26T13:00:00.000Z"
       ],
-      "wikiURL": "https://wiki.warframe.com/w/Syandana",
-      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/ReshanturCultSyandana.png/300px-ReshanturCultSyandana.png?af3c5"
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Miscellaneous",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/JaviOphiuchusScrawling.png/300px-JaviOphiuchusScrawling.png?d6e56"
     },
     {
       "itemName": "Prisma Avia Ankle Plate",
@@ -5819,6 +5858,7 @@
       "credits": 175000,
       "ducats": 225,
       "dates": [
+        "2025-10-17T13:00:00.000Z",
         "2025-09-19T13:00:00.000Z",
         "2025-04-11T13:00:00.000Z",
         "2025-02-21T13:00:00.000Z",
@@ -5892,62 +5932,40 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/GrustragThreeBeacon.png/300px-GrustragThreeBeacon.png?a4ea1"
     },
     {
-      "itemName": "Parazon Poster",
+      "itemName": "Primed Expel Corpus",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
+      "credits": 140000,
+      "ducats": 350,
+      "dates": [
+        "2024-06-14T13:00:00.000Z",
+        "2023-12-01T13:00:00.000Z",
+        "2023-05-05T13:00:00.000Z",
+        "2022-09-23T13:00:00.000Z",
+        "2022-02-25T13:00:00.000Z",
+        "2021-05-21T13:00:00.000Z",
+        "2020-11-06T13:00:00.000Z",
+        "2020-04-24T13:00:00.000Z",
+        "2019-11-08T13:00:00.000Z",
+        "2019-06-28T13:00:00.000Z",
+        "2019-02-08T13:00:00.000Z",
+        "2018-10-05T13:00:00.000Z"
+      ],
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Expel_Corpus",
+      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedExpelCorpusMod.png?99807"
+    },
+    {
+      "itemName": "Rathuum Display",
       "itemType": "Decoration",
       "itemSubType": null,
       "credits": 125000,
-      "ducats": 100,
-      "dates": [
-        "2025-05-02T13:00:00.000Z",
-        "2024-12-27T13:00:00.000Z",
-        "2024-04-05T13:00:00.000Z",
-        "2023-07-14T13:00:00.000Z",
-        "2022-09-23T13:00:00.000Z",
-        "2022-01-28T13:00:00.000Z",
-        "2021-07-30T13:00:00.000Z",
-        "2021-02-26T13:00:00.000Z",
-        "2020-10-09T13:00:00.000Z",
-        "2020-05-08T13:00:00.000Z",
-        "2020-01-03T13:00:00.000Z"
-      ],
-      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Posters",
-      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/ParazonPoster.png/300px-ParazonPoster.png?9d6c4"
-    },
-    {
-      "itemName": "Primed Ravage",
-      "itemType": "Mod",
-      "itemSubType": "Primed",
-      "credits": 100000,
-      "ducats": 280,
+      "ducats": 90,
       "dates": [
         "2025-07-11T13:00:00.000Z",
-        "2025-03-07T13:00:00.000Z",
-        "2024-08-09T13:00:00.000Z",
-        "2024-02-23T13:00:00.000Z",
-        "2023-09-22T13:00:00.000Z",
-        "2023-04-21T13:00:00.000Z",
-        "2022-10-21T13:00:00.000Z",
-        "2022-04-08T13:00:00.000Z",
-        "2021-10-22T13:00:00.000Z",
-        "2021-04-23T13:00:00.000Z",
-        "2020-10-09T13:00:00.000Z",
-        "2020-02-28T13:00:00.000Z",
-        "2019-09-13T13:00:00.000Z",
-        "2019-05-03T13:00:00.000Z",
-        "2018-12-28T13:00:00.000Z",
-        "2018-07-13T13:00:00.000Z",
-        "2018-02-23T13:00:00.000Z",
-        "2017-10-06T13:00:00.000Z",
-        "2017-05-19T13:00:00.000Z",
-        "2016-12-30T13:00:00.000Z",
-        "2016-08-12T13:00:00.000Z",
-        "2016-05-20T13:00:00.000Z",
-        "2015-09-18T13:00:00.000Z",
-        "2015-06-12T13:00:00.000Z",
-        "2014-12-12T13:00:00.000Z"
+        "2024-09-20T13:00:00.000Z"
       ],
-      "wikiURL": "https://wiki.warframe.com/w/Primed_Ravage",
-      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrimedRavageMod.png/300px-PrimedRavageMod.png?450ba"
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Displays",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/RathuumDisplay.png/300px-RathuumDisplay.png?bd7c7"
     },
     {
       "itemName": "Dark Sword Day of the Dead Skin",
@@ -5956,6 +5974,7 @@
       "credits": 250000,
       "ducats": 320,
       "dates": [
+        "2025-10-17T13:00:00.000Z",
         "2025-10-03T13:00:00.000Z",
         "2025-09-19T13:00:00.000Z",
         "2024-10-18T13:00:00.000Z",
@@ -6091,25 +6110,19 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/BronzeKubrowBust.png/300px-BronzeKubrowBust.png?e65d4"
     },
     {
-      "itemName": "Opticor Vandal",
-      "itemType": "Weapon",
-      "itemSubType": null,
-      "credits": 550000,
-      "ducats": 650,
+      "itemName": "Rakta Syandana",
+      "itemType": "Cosmetic",
+      "itemSubType": "Syandana",
+      "credits": 350000,
+      "ducats": 325,
       "dates": [
-        "2025-07-11T13:00:00.000Z",
+        "2025-06-27T13:00:00.000Z",
         "2025-03-07T13:00:00.000Z",
-        "2024-11-01T13:00:00.000Z",
-        "2024-05-03T13:00:00.000Z",
-        "2023-09-08T13:00:00.000Z",
-        "2023-03-10T13:00:00.000Z",
-        "2022-09-09T13:00:00.000Z",
-        "2022-03-25T13:00:00.000Z",
-        "2021-11-05T13:00:00.000Z",
-        "2021-07-02T13:00:00.000Z"
+        "2024-10-04T13:00:00.000Z",
+        "2024-03-22T13:00:00.000Z"
       ],
-      "wikiURL": "https://wiki.warframe.com/w/Opticor_Vandal",
-      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/OpticorVandal.png/300px-OpticorVandal.png?64244"
+      "wikiURL": "https://wiki.warframe.com/w/Rakta_Syandana",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/RaktaSyandana.png/300px-RaktaSyandana.png?1d08e"
     },
     {
       "itemName": "Void Trader",
@@ -6130,25 +6143,13 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/VoidTrader.png/300px-VoidTrader.png?9a0ab"
     },
     {
-      "itemName": "Railjack Retrofit Login Music",
-      "itemType": "Somachord",
-      "itemSubType": null,
-      "credits": 165000,
-      "ducats": 150,
-      "dates": [
-        "2025-06-27T13:00:00.000Z",
-        "2025-01-10T13:00:00.000Z"
-      ],
-      "wikiURL": "https://wiki.warframe.com/w/Somachord",
-      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/EmpyreanLoginMusic.png/300px-EmpyreanLoginMusic.png?b4c4c"
-    },
-    {
       "itemName": "Quanta Vandal",
       "itemType": "Weapon",
       "itemSubType": null,
       "credits": 300000,
       "ducats": 450,
       "dates": [
+        "2025-10-17T13:00:00.000Z",
         "2025-09-19T13:00:00.000Z",
         "2025-05-02T13:00:00.000Z",
         "2025-04-18T13:00:00.000Z",
@@ -6221,34 +6222,6 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/PummelMod.png?de7d3"
     },
     {
-      "itemName": "Corpus Glyph",
-      "itemType": "Glyph",
-      "itemSubType": null,
-      "credits": 55000,
-      "ducats": 70,
-      "dates": [
-        "2025-04-18T13:00:00.000Z"
-      ],
-      "wikiURL": "https://wiki.warframe.com/w/Glyph#Other_Glyphs",
-      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/CorpusGlyph.png/300px-CorpusGlyph.png?9e530"
-    },
-    {
-      "itemName": "Aged Claret of Denas",
-      "itemType": "Decoration",
-      "itemSubType": null,
-      "credits": 100000,
-      "ducats": 100,
-      "dates": [
-        "2025-08-22T13:00:00.000Z",
-        "2024-11-15T13:00:00.000Z",
-        "2024-02-09T13:00:00.000Z",
-        "2023-06-30T13:00:00.000Z",
-        "2022-09-23T13:00:00.000Z"
-      ],
-      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Miscellaneous",
-      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/AgedClaretOfDenas.png/300px-AgedClaretOfDenas.png?7bcaf"
-    },
-    {
       "itemName": "Prisma Veritux",
       "itemType": "Weapon",
       "itemSubType": "Archwing",
@@ -6285,6 +6258,71 @@
       ],
       "wikiURL": "https://wiki.warframe.com/w/Prisma_Veritux",
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrismaVerituxFix.png/300px-PrismaVerituxFix.png?96b16"
+    },
+    {
+      "itemName": "Corpus Glyph",
+      "itemType": "Glyph",
+      "itemSubType": null,
+      "credits": 55000,
+      "ducats": 70,
+      "dates": [
+        "2025-04-18T13:00:00.000Z"
+      ],
+      "wikiURL": "https://wiki.warframe.com/w/Glyph#Other_Glyphs",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/CorpusGlyph.png/300px-CorpusGlyph.png?9e530"
+    },
+    {
+      "itemName": "Aged Claret of Denas",
+      "itemType": "Decoration",
+      "itemSubType": null,
+      "credits": 100000,
+      "ducats": 100,
+      "dates": [
+        "2025-08-22T13:00:00.000Z",
+        "2024-11-15T13:00:00.000Z",
+        "2024-02-09T13:00:00.000Z",
+        "2023-06-30T13:00:00.000Z",
+        "2022-09-23T13:00:00.000Z"
+      ],
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Miscellaneous",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/AgedClaretOfDenas.png/300px-AgedClaretOfDenas.png?7bcaf"
+    },
+    {
+      "itemName": "Prisma Uru Syandana",
+      "itemType": "Cosmetic",
+      "itemSubType": "Syandana",
+      "credits": 275000,
+      "ducats": 350,
+      "dates": [
+        "2025-08-22T13:00:00.000Z",
+        "2025-04-11T13:00:00.000Z",
+        "2025-01-10T13:00:00.000Z",
+        "2024-12-27T13:00:00.000Z",
+        "2024-08-23T13:00:00.000Z",
+        "2024-04-05T13:00:00.000Z",
+        "2023-12-29T13:00:00.000Z",
+        "2023-09-08T13:00:00.000Z",
+        "2023-05-05T13:00:00.000Z",
+        "2022-12-02T13:00:00.000Z",
+        "2022-08-26T13:00:00.000Z",
+        "2022-08-12T13:00:00.000Z",
+        "2022-07-29T13:00:00.000Z",
+        "2022-06-17T13:00:00.000Z",
+        "2022-03-11T13:00:00.000Z",
+        "2021-12-03T13:00:00.000Z",
+        "2021-07-30T13:00:00.000Z",
+        "2021-02-26T13:00:00.000Z",
+        "2020-09-25T13:00:00.000Z",
+        "2020-05-22T13:00:00.000Z",
+        "2020-01-31T13:00:00.000Z",
+        "2019-09-27T13:00:00.000Z",
+        "2019-06-14T13:00:00.000Z",
+        "2019-03-08T13:00:00.000Z",
+        "2018-11-16T13:00:00.000Z",
+        "2018-07-13T13:00:00.000Z"
+      ],
+      "wikiURL": "https://wiki.warframe.com/w/Syandana",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrismaUruSyandana.png/300px-PrismaUruSyandana.png?522c5"
     },
     {
       "itemName": "Primed Counterbalance",
@@ -6481,48 +6519,6 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/PrimedBaneofCorpusMod.png?71160"
     },
     {
-      "itemName": "Prisma Tetra",
-      "itemType": "Weapon",
-      "itemSubType": null,
-      "credits": 50000,
-      "ducats": 400,
-      "dates": [
-        "2025-07-25T13:00:00.000Z",
-        "2025-04-11T13:00:00.000Z",
-        "2025-03-07T13:00:00.000Z",
-        "2024-12-27T13:00:00.000Z",
-        "2024-10-04T13:00:00.000Z",
-        "2024-04-05T13:00:00.000Z",
-        "2023-10-20T13:00:00.000Z",
-        "2023-06-02T13:00:00.000Z",
-        "2022-12-02T13:00:00.000Z",
-        "2022-08-26T13:00:00.000Z",
-        "2022-08-12T13:00:00.000Z",
-        "2022-07-29T13:00:00.000Z",
-        "2022-02-25T13:00:00.000Z",
-        "2021-10-08T13:00:00.000Z",
-        "2021-05-21T13:00:00.000Z",
-        "2021-01-15T13:00:00.000Z",
-        "2020-08-28T13:00:00.000Z",
-        "2020-05-08T13:00:00.000Z",
-        "2020-01-17T13:00:00.000Z",
-        "2019-09-13T13:00:00.000Z",
-        "2019-05-03T13:00:00.000Z",
-        "2019-01-11T13:00:00.000Z",
-        "2018-10-05T13:00:00.000Z",
-        "2018-05-18T13:00:00.000Z",
-        "2017-12-29T13:00:00.000Z",
-        "2017-08-11T13:00:00.000Z",
-        "2017-03-10T13:00:00.000Z",
-        "2016-11-18T13:00:00.000Z",
-        "2016-08-12T13:00:00.000Z",
-        "2016-04-08T13:00:00.000Z",
-        "2015-08-07T13:00:00.000Z"
-      ],
-      "wikiURL": "https://wiki.warframe.com/w/Prisma_Tetra",
-      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrismaTetra.png/300px-PrismaTetra.png?f36a2"
-    },
-    {
       "itemName": "Prisma Skana",
       "itemType": "Weapon",
       "itemSubType": null,
@@ -6601,33 +6597,6 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrismaSigil.png/300px-PrismaSigil.png?1ac23"
     },
     {
-      "itemName": "Primed Quickdraw",
-      "itemType": "Mod",
-      "itemSubType": "Primed",
-      "credits": 120000,
-      "ducats": 375,
-      "dates": [
-        "2025-04-04T13:00:00.000Z",
-        "2024-12-27T13:00:00.000Z",
-        "2024-08-23T13:00:00.000Z",
-        "2024-05-03T13:00:00.000Z",
-        "2023-08-11T13:00:00.000Z",
-        "2023-01-13T13:00:00.000Z",
-        "2022-05-20T13:00:00.000Z",
-        "2021-06-18T13:00:00.000Z",
-        "2020-12-18T13:00:00.000Z",
-        "2020-05-22T13:00:00.000Z",
-        "2019-10-25T13:00:00.000Z",
-        "2019-07-19T13:00:00.000Z",
-        "2019-06-28T13:00:00.000Z",
-        "2019-03-22T13:00:00.000Z",
-        "2018-11-02T13:00:00.000Z",
-        "2018-07-27T13:00:00.000Z"
-      ],
-      "wikiURL": "https://wiki.warframe.com/w/Primed_Quickdraw",
-      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrimedQuickdrawMod.png/300px-PrimedQuickdrawMod.png?03558"
-    },
-    {
       "itemName": "Prisma Shade",
       "itemType": "Sentinel",
       "itemSubType": null,
@@ -6670,29 +6639,31 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrismaShade.png/300px-PrismaShade.png?4432c"
     },
     {
-      "itemName": "Prisma Companion Poster",
-      "itemType": "Decoration",
-      "itemSubType": null,
-      "credits": 110000,
-      "ducats": 90,
+      "itemName": "Primed Quickdraw",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
+      "credits": 120000,
+      "ducats": 375,
       "dates": [
-        "2025-04-11T13:00:00.000Z",
-        "2025-01-24T13:00:00.000Z",
+        "2025-04-04T13:00:00.000Z",
         "2024-12-27T13:00:00.000Z",
+        "2024-08-23T13:00:00.000Z",
         "2024-05-03T13:00:00.000Z",
-        "2023-06-30T13:00:00.000Z",
-        "2022-12-30T13:00:00.000Z",
-        "2022-03-25T13:00:00.000Z",
-        "2021-10-22T13:00:00.000Z",
-        "2021-05-21T13:00:00.000Z",
-        "2021-01-01T13:00:00.000Z",
-        "2020-07-17T13:00:00.000Z",
-        "2020-01-31T13:00:00.000Z",
+        "2023-08-11T13:00:00.000Z",
+        "2023-01-13T13:00:00.000Z",
+        "2022-05-20T13:00:00.000Z",
+        "2021-06-18T13:00:00.000Z",
+        "2020-12-18T13:00:00.000Z",
+        "2020-05-22T13:00:00.000Z",
+        "2019-10-25T13:00:00.000Z",
         "2019-07-19T13:00:00.000Z",
-        "2019-04-05T13:00:00.000Z"
+        "2019-06-28T13:00:00.000Z",
+        "2019-03-22T13:00:00.000Z",
+        "2018-11-02T13:00:00.000Z",
+        "2018-07-27T13:00:00.000Z"
       ],
-      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Posters",
-      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrismaCompanionPoster.png/300px-PrismaCompanionPoster.png?d6850"
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Quickdraw",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrimedQuickdrawMod.png/300px-PrimedQuickdrawMod.png?03558"
     },
     {
       "itemName": "Prisma Rostam Kubrow Armor",
@@ -6723,6 +6694,31 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrismaRostamKubrowArmor.png/300px-PrismaRostamKubrowArmor.png?d384e"
     },
     {
+      "itemName": "Prisma Companion Poster",
+      "itemType": "Decoration",
+      "itemSubType": null,
+      "credits": 110000,
+      "ducats": 90,
+      "dates": [
+        "2025-04-11T13:00:00.000Z",
+        "2025-01-24T13:00:00.000Z",
+        "2024-12-27T13:00:00.000Z",
+        "2024-05-03T13:00:00.000Z",
+        "2023-06-30T13:00:00.000Z",
+        "2022-12-30T13:00:00.000Z",
+        "2022-03-25T13:00:00.000Z",
+        "2021-10-22T13:00:00.000Z",
+        "2021-05-21T13:00:00.000Z",
+        "2021-01-01T13:00:00.000Z",
+        "2020-07-17T13:00:00.000Z",
+        "2020-01-31T13:00:00.000Z",
+        "2019-07-19T13:00:00.000Z",
+        "2019-04-05T13:00:00.000Z"
+      ],
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Posters",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrismaCompanionPoster.png/300px-PrismaCompanionPoster.png?d6850"
+    },
+    {
       "itemName": "Full Contact",
       "itemType": "Mod",
       "itemSubType": null,
@@ -6749,22 +6745,6 @@
       ],
       "wikiURL": "https://wiki.warframe.com/w/Full_Contact",
       "wikiThumbnail": "https://wiki.warframe.com/images/FullContactMod.png?3d88f"
-    },
-    {
-      "itemName": "Altra Sentinel Wings",
-      "itemType": "Cosmetic",
-      "itemSubType": "Sentinel",
-      "credits": 500000,
-      "ducats": 400,
-      "dates": [
-        "2025-08-22T13:00:00.000Z",
-        "2025-06-27T13:00:00.000Z",
-        "2025-02-07T13:00:00.000Z",
-        "2024-05-17T13:00:00.000Z",
-        "2023-10-06T13:00:00.000Z"
-      ],
-      "wikiURL": "https://wiki.warframe.com/w/Sentinel_Cosmetics#Attachments",
-      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/AltraSentinelWings.png/300px-AltraSentinelWings.png?0a040"
     },
     {
       "itemName": "Prisma Obex",
@@ -6805,6 +6785,54 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrismaObex.png/300px-PrismaObex.png?ff26a"
     },
     {
+      "itemName": "Altra Sentinel Wings",
+      "itemType": "Cosmetic",
+      "itemSubType": "Sentinel",
+      "credits": 500000,
+      "ducats": 400,
+      "dates": [
+        "2025-08-22T13:00:00.000Z",
+        "2025-06-27T13:00:00.000Z",
+        "2025-02-07T13:00:00.000Z",
+        "2024-05-17T13:00:00.000Z",
+        "2023-10-06T13:00:00.000Z"
+      ],
+      "wikiURL": "https://wiki.warframe.com/w/Sentinel_Cosmetics#Attachments",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/AltraSentinelWings.png/300px-AltraSentinelWings.png?0a040"
+    },
+    {
+      "itemName": "Prisma Naberus",
+      "itemType": "Cosmetic",
+      "itemSubType": "Armor",
+      "credits": 140000,
+      "ducats": 220,
+      "dates": [
+        "2025-04-11T13:00:00.000Z",
+        "2025-03-07T13:00:00.000Z",
+        "2024-12-27T13:00:00.000Z",
+        "2024-05-03T13:00:00.000Z",
+        "2024-04-19T13:00:00.000Z",
+        "2023-08-25T13:00:00.000Z",
+        "2022-12-02T13:00:00.000Z",
+        "2022-05-06T13:00:00.000Z",
+        "2021-11-19T13:00:00.000Z",
+        "2021-05-21T13:00:00.000Z",
+        "2021-01-01T13:00:00.000Z",
+        "2020-07-31T13:00:00.000Z",
+        "2020-07-03T13:00:00.000Z",
+        "2020-02-28T13:00:00.000Z",
+        "2019-10-11T13:00:00.000Z",
+        "2019-05-17T13:00:00.000Z",
+        "2019-01-25T13:00:00.000Z",
+        "2018-10-05T13:00:00.000Z",
+        "2018-06-15T13:00:00.000Z",
+        "2018-02-23T13:00:00.000Z",
+        "2017-10-20T13:00:00.000Z"
+      ],
+      "wikiURL": "https://wiki.warframe.com/w/Armor_(Cosmetic)",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrismaNaberus.png/300px-PrismaNaberus.png?44d56"
+    },
+    {
       "itemName": "Deimos Lobotriscid Prex",
       "itemType": "Decoration",
       "itemSubType": null,
@@ -6838,36 +6866,39 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/ArchwingArticula.png/300px-ArchwingArticula.png?b9a69"
     },
     {
-      "itemName": "Prisma Naberus",
+      "itemName": "Prisma Mech Head Sentinel Mask",
       "itemType": "Cosmetic",
-      "itemSubType": "Armor",
-      "credits": 140000,
-      "ducats": 220,
+      "itemSubType": "Sentinel",
+      "credits": 200000,
+      "ducats": 175,
       "dates": [
         "2025-04-11T13:00:00.000Z",
-        "2025-03-07T13:00:00.000Z",
         "2024-12-27T13:00:00.000Z",
-        "2024-05-03T13:00:00.000Z",
-        "2024-04-19T13:00:00.000Z",
-        "2023-08-25T13:00:00.000Z",
-        "2022-12-02T13:00:00.000Z",
-        "2022-05-06T13:00:00.000Z",
-        "2021-11-19T13:00:00.000Z",
-        "2021-05-21T13:00:00.000Z",
-        "2021-01-01T13:00:00.000Z",
-        "2020-07-31T13:00:00.000Z",
-        "2020-07-03T13:00:00.000Z",
-        "2020-02-28T13:00:00.000Z",
-        "2019-10-11T13:00:00.000Z",
-        "2019-05-17T13:00:00.000Z",
-        "2019-01-25T13:00:00.000Z",
-        "2018-10-05T13:00:00.000Z",
-        "2018-06-15T13:00:00.000Z",
-        "2018-02-23T13:00:00.000Z",
-        "2017-10-20T13:00:00.000Z"
+        "2024-09-20T13:00:00.000Z",
+        "2023-10-06T13:00:00.000Z",
+        "2023-03-24T13:00:00.000Z",
+        "2022-09-09T13:00:00.000Z",
+        "2022-03-11T13:00:00.000Z",
+        "2021-12-03T13:00:00.000Z",
+        "2021-08-13T13:00:00.000Z",
+        "2021-03-12T13:00:00.000Z",
+        "2020-10-09T13:00:00.000Z",
+        "2020-05-22T13:00:00.000Z",
+        "2020-01-03T13:00:00.000Z",
+        "2019-08-30T13:00:00.000Z",
+        "2019-05-03T13:00:00.000Z",
+        "2018-12-28T13:00:00.000Z",
+        "2018-09-07T13:00:00.000Z",
+        "2018-05-18T13:00:00.000Z",
+        "2018-01-12T13:00:00.000Z",
+        "2017-08-25T13:00:00.000Z",
+        "2017-04-07T13:00:00.000Z",
+        "2016-12-16T13:00:00.000Z",
+        "2016-07-01T13:00:00.000Z",
+        "2015-10-02T13:00:00.000Z"
       ],
-      "wikiURL": "https://wiki.warframe.com/w/Armor_(Cosmetic)",
-      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrismaNaberus.png/300px-PrismaNaberus.png?44d56"
+      "wikiURL": "https://wiki.warframe.com/w/Sentinel_Cosmetics#Attachments",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrismaMechHead.png/300px-PrismaMechHead.png?22716"
     },
     {
       "itemName": "Mantis Prisma Skin",
@@ -6909,39 +6940,19 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/MantisPrismaSkin.png/300px-MantisPrismaSkin.png?b9179"
     },
     {
-      "itemName": "Prisma Mech Head Sentinel Mask",
-      "itemType": "Cosmetic",
-      "itemSubType": "Sentinel",
-      "credits": 200000,
-      "ducats": 175,
+      "itemName": "Grav Lifter Factory",
+      "itemType": "Decoration",
+      "itemSubType": null,
+      "credits": 125000,
+      "ducats": 110,
       "dates": [
-        "2025-04-11T13:00:00.000Z",
-        "2024-12-27T13:00:00.000Z",
-        "2024-09-20T13:00:00.000Z",
-        "2023-10-06T13:00:00.000Z",
-        "2023-03-24T13:00:00.000Z",
-        "2022-09-09T13:00:00.000Z",
-        "2022-03-11T13:00:00.000Z",
-        "2021-12-03T13:00:00.000Z",
-        "2021-08-13T13:00:00.000Z",
-        "2021-03-12T13:00:00.000Z",
-        "2020-10-09T13:00:00.000Z",
-        "2020-05-22T13:00:00.000Z",
-        "2020-01-03T13:00:00.000Z",
-        "2019-08-30T13:00:00.000Z",
-        "2019-05-03T13:00:00.000Z",
-        "2018-12-28T13:00:00.000Z",
-        "2018-09-07T13:00:00.000Z",
-        "2018-05-18T13:00:00.000Z",
-        "2018-01-12T13:00:00.000Z",
-        "2017-08-25T13:00:00.000Z",
-        "2017-04-07T13:00:00.000Z",
-        "2016-12-16T13:00:00.000Z",
-        "2016-07-01T13:00:00.000Z",
-        "2015-10-02T13:00:00.000Z"
+        "2025-05-30T13:00:00.000Z",
+        "2024-08-09T13:00:00.000Z",
+        "2023-11-17T13:00:00.000Z",
+        "2023-02-24T13:00:00.000Z"
       ],
-      "wikiURL": "https://wiki.warframe.com/w/Sentinel_Cosmetics#Attachments",
-      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrismaMechHead.png/300px-PrismaMechHead.png?22716"
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Miscellaneous",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/GravLifterFactory.png/300px-GravLifterFactory.png?44bef"
     },
     {
       "itemName": "Scimitar Prisma Skin",
@@ -7016,21 +7027,18 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/CorruptedBombardSpecter.png/300px-CorruptedBombardSpecter.png?ba123"
     },
     {
-      "itemName": "Ki'teer Reverence Ephemera",
+      "itemName": "Prisma Lotus Bloom Sigil",
       "itemType": "Cosmetic",
-      "itemSubType": "Ephemera",
-      "credits": 350000,
-      "ducats": 250,
+      "itemSubType": "Sigil",
+      "credits": 60000,
+      "ducats": 55,
       "dates": [
-        "2025-09-19T13:00:00.000Z",
-        "2025-04-25T13:00:00.000Z",
-        "2025-03-07T13:00:00.000Z",
-        "2024-09-20T13:00:00.000Z",
-        "2024-01-26T13:00:00.000Z",
-        "2023-06-30T13:00:00.000Z"
+        "2025-04-11T13:00:00.000Z",
+        "2024-12-27T13:00:00.000Z",
+        "2024-05-03T13:00:00.000Z"
       ],
-      "wikiURL": "https://wiki.warframe.com/w/Ephemera#Ki'teer_Reverence",
-      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/Ki%27teerReverenceEphemera.png/300px-Ki%27teerReverenceEphemera.png?4b659"
+      "wikiURL": "https://wiki.warframe.com/w/Sigils#Baro_Ki'Teer_Sigils",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrismaLotusBloomSigil.png/300px-PrismaLotusBloomSigil.png?a5e49"
     },
     {
       "itemName": "Primed Rubedo-Lined Barrel",
@@ -7039,6 +7047,7 @@
       "credits": 175000,
       "ducats": 350,
       "dates": [
+        "2025-10-17T13:00:00.000Z",
         "2025-10-03T13:00:00.000Z",
         "2025-05-30T13:00:00.000Z",
         "2025-01-24T13:00:00.000Z",
@@ -7054,20 +7063,6 @@
       ],
       "wikiURL": "https://wiki.warframe.com/w/Primed_Rubedo-Lined_Barrel",
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrimedRubedo-LinedBarrelMod.png/300px-PrimedRubedo-LinedBarrelMod.png?35a11"
-    },
-    {
-      "itemName": "Prisma Lotus Bloom Sigil",
-      "itemType": "Cosmetic",
-      "itemSubType": "Sigil",
-      "credits": 60000,
-      "ducats": 55,
-      "dates": [
-        "2025-04-11T13:00:00.000Z",
-        "2024-12-27T13:00:00.000Z",
-        "2024-05-03T13:00:00.000Z"
-      ],
-      "wikiURL": "https://wiki.warframe.com/w/Sigils#Baro_Ki'Teer_Sigils",
-      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrismaLotusBloomSigil.png/300px-PrismaLotusBloomSigil.png?a5e49"
     },
     {
       "itemName": "Prisma Kubrow Glyph",
@@ -7141,19 +7136,6 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrismaKoiTail.png/300px-PrismaKoiTail.png?30713"
     },
     {
-      "itemName": "Angels of the Zariman Login Music",
-      "itemType": "Somachord",
-      "itemSubType": null,
-      "credits": 180000,
-      "ducats": 160,
-      "dates": [
-        "2025-05-16T13:00:00.000Z",
-        "2024-12-13T13:00:00.000Z"
-      ],
-      "wikiURL": "https://wiki.warframe.com/w/Somachord",
-      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/AngelsOfTheZarimanLoginMusic.png/300px-AngelsOfTheZarimanLoginMusic.png?ff0a2"
-    },
-    {
       "itemName": "Prisma Grinlok",
       "itemType": "Weapon",
       "itemSubType": null,
@@ -7181,6 +7163,19 @@
       ],
       "wikiURL": "https://wiki.warframe.com/w/Prisma_Grinlok",
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrismaGrinlok.png/300px-PrismaGrinlok.png?def14"
+    },
+    {
+      "itemName": "Angels of the Zariman Login Music",
+      "itemType": "Somachord",
+      "itemSubType": null,
+      "credits": 180000,
+      "ducats": 160,
+      "dates": [
+        "2025-05-16T13:00:00.000Z",
+        "2024-12-13T13:00:00.000Z"
+      ],
+      "wikiURL": "https://wiki.warframe.com/w/Somachord",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/AngelsOfTheZarimanLoginMusic.png/300px-AngelsOfTheZarimanLoginMusic.png?ff0a2"
     },
     {
       "itemName": "Prisma Grakata",
@@ -7264,12 +7259,34 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrismaEdoChestPlate.png/300px-PrismaEdoChestPlate.png?5b8ab"
     },
     {
+      "itemName": "Prisma Dual Decurions",
+      "itemType": "Weapon",
+      "itemSubType": "Archwing",
+      "credits": 175000,
+      "ducats": 525,
+      "dates": [
+        "2025-04-11T13:00:00.000Z",
+        "2024-12-27T13:00:00.000Z",
+        "2024-08-09T13:00:00.000Z",
+        "2023-12-15T13:00:00.000Z",
+        "2023-06-02T13:00:00.000Z",
+        "2022-09-23T13:00:00.000Z",
+        "2022-03-11T13:00:00.000Z",
+        "2021-09-24T13:00:00.000Z",
+        "2021-06-04T13:00:00.000Z",
+        "2020-12-18T13:00:00.000Z"
+      ],
+      "wikiURL": "https://wiki.warframe.com/w/Prisma_Dual_Decurions",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrismaDualDecurions.png/300px-PrismaDualDecurions.png?25327"
+    },
+    {
       "itemName": "Axi A5 Relic",
       "itemType": "Void Relic",
       "itemSubType": null,
       "credits": 55000,
       "ducats": 125,
       "dates": [
+        "2025-10-17T13:00:00.000Z",
         "2025-09-05T13:00:00.000Z",
         "2025-07-11T13:00:00.000Z",
         "2025-06-13T13:00:00.000Z",
@@ -7340,27 +7357,6 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/KavatNexusBundle.png/300px-KavatNexusBundle.png?795be"
     },
     {
-      "itemName": "Prisma Dual Decurions",
-      "itemType": "Weapon",
-      "itemSubType": "Archwing",
-      "credits": 175000,
-      "ducats": 525,
-      "dates": [
-        "2025-04-11T13:00:00.000Z",
-        "2024-12-27T13:00:00.000Z",
-        "2024-08-09T13:00:00.000Z",
-        "2023-12-15T13:00:00.000Z",
-        "2023-06-02T13:00:00.000Z",
-        "2022-09-23T13:00:00.000Z",
-        "2022-03-11T13:00:00.000Z",
-        "2021-09-24T13:00:00.000Z",
-        "2021-06-04T13:00:00.000Z",
-        "2020-12-18T13:00:00.000Z"
-      ],
-      "wikiURL": "https://wiki.warframe.com/w/Prisma_Dual_Decurions",
-      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrismaDualDecurions.png/300px-PrismaDualDecurions.png?25327"
-    },
-    {
       "itemName": "Prisma Daedalus Chest Plate",
       "itemType": "Cosmetic",
       "itemSubType": "Armor",
@@ -7410,6 +7406,7 @@
       "credits": 200000,
       "ducats": 300,
       "dates": [
+        "2025-10-17T13:00:00.000Z",
         "2025-09-19T13:00:00.000Z",
         "2025-04-11T13:00:00.000Z",
         "2025-02-21T13:00:00.000Z",
@@ -7442,6 +7439,7 @@
       "credits": 75000,
       "ducats": 350,
       "dates": [
+        "2025-10-17T13:00:00.000Z",
         "2025-10-03T13:00:00.000Z",
         "2025-04-11T13:00:00.000Z",
         "2025-01-10T13:00:00.000Z",
@@ -7480,12 +7478,46 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrismaArrow.png/300px-PrismaArrow.png?77821"
     },
     {
+      "itemName": "Prisma Angstrum",
+      "itemType": "Weapon",
+      "itemSubType": null,
+      "credits": 210000,
+      "ducats": 475,
+      "dates": [
+        "2025-10-17T13:00:00.000Z",
+        "2025-04-18T13:00:00.000Z",
+        "2025-04-11T13:00:00.000Z",
+        "2024-12-27T13:00:00.000Z",
+        "2024-11-01T13:00:00.000Z",
+        "2024-03-22T13:00:00.000Z",
+        "2023-07-28T13:00:00.000Z",
+        "2023-02-24T13:00:00.000Z",
+        "2022-09-09T13:00:00.000Z",
+        "2021-12-31T13:00:00.000Z",
+        "2021-08-13T13:00:00.000Z",
+        "2021-03-26T13:00:00.000Z",
+        "2020-11-06T13:00:00.000Z",
+        "2020-07-03T13:00:00.000Z",
+        "2020-02-28T13:00:00.000Z",
+        "2019-10-11T13:00:00.000Z",
+        "2019-05-31T13:00:00.000Z",
+        "2019-02-22T13:00:00.000Z",
+        "2018-11-16T13:00:00.000Z",
+        "2018-06-01T13:00:00.000Z",
+        "2017-12-29T13:00:00.000Z",
+        "2017-09-08T13:00:00.000Z"
+      ],
+      "wikiURL": "https://wiki.warframe.com/w/Prisma_Angstrum",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrismaAngstrum.png/300px-PrismaAngstrum.png?33189"
+    },
+    {
       "itemName": "Ivara in Action Glyph",
       "itemType": "Glyph",
       "itemSubType": null,
       "credits": 60000,
       "ducats": 75,
       "dates": [
+        "2025-10-17T13:00:00.000Z",
         "2025-10-03T13:00:00.000Z",
         "2025-04-04T13:00:00.000Z",
         "2024-08-23T13:00:00.000Z",
@@ -7501,6 +7533,7 @@
       "credits": 100000,
       "ducats": 550,
       "dates": [
+        "2025-10-17T13:00:00.000Z",
         "2025-09-19T13:00:00.000Z",
         "2025-04-04T13:00:00.000Z",
         "2024-10-04T13:00:00.000Z",
@@ -7562,6 +7595,7 @@
       "credits": 200000,
       "ducats": 300,
       "dates": [
+        "2025-10-17T13:00:00.000Z",
         "2025-09-19T13:00:00.000Z",
         "2025-04-04T13:00:00.000Z",
         "2024-12-27T13:00:00.000Z",
@@ -7651,36 +7685,25 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/KiTeerSentinelTail.png/300px-KiTeerSentinelTail.png?51167"
     },
     {
-      "itemName": "Prisma Angstrum",
-      "itemType": "Weapon",
-      "itemSubType": null,
-      "credits": 210000,
-      "ducats": 475,
+      "itemName": "Primed Tactical Pump",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
+      "credits": 140000,
+      "ducats": 300,
       "dates": [
-        "2025-04-18T13:00:00.000Z",
-        "2025-04-11T13:00:00.000Z",
+        "2025-07-11T13:00:00.000Z",
+        "2025-03-07T13:00:00.000Z",
         "2024-12-27T13:00:00.000Z",
         "2024-11-01T13:00:00.000Z",
-        "2024-03-22T13:00:00.000Z",
+        "2024-03-08T13:00:00.000Z",
         "2023-07-28T13:00:00.000Z",
-        "2023-02-24T13:00:00.000Z",
-        "2022-09-09T13:00:00.000Z",
-        "2021-12-31T13:00:00.000Z",
-        "2021-08-13T13:00:00.000Z",
-        "2021-03-26T13:00:00.000Z",
-        "2020-11-06T13:00:00.000Z",
-        "2020-07-03T13:00:00.000Z",
-        "2020-02-28T13:00:00.000Z",
-        "2019-10-11T13:00:00.000Z",
-        "2019-05-31T13:00:00.000Z",
-        "2019-02-22T13:00:00.000Z",
-        "2018-11-16T13:00:00.000Z",
-        "2018-06-01T13:00:00.000Z",
-        "2017-12-29T13:00:00.000Z",
-        "2017-09-08T13:00:00.000Z"
+        "2023-01-13T13:00:00.000Z",
+        "2022-05-20T13:00:00.000Z",
+        "2021-11-19T13:00:00.000Z",
+        "2021-06-18T13:00:00.000Z"
       ],
-      "wikiURL": "https://wiki.warframe.com/w/Prisma_Angstrum",
-      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrismaAngstrum.png/300px-PrismaAngstrum.png?33189"
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Tactical_Pump",
+      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedTacticalPumpMod.png?4705f"
     },
     {
       "itemName": "Sweeping Serration",
@@ -7747,18 +7770,6 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/AnpuStaffSkin.png/300px-AnpuStaffSkin.png?d6c32"
     },
     {
-      "itemName": "Primed Stabilizer",
-      "itemType": "Mod",
-      "itemSubType": "Primed",
-      "credits": 220000,
-      "ducats": 300,
-      "dates": [
-        "2025-04-18T13:00:00.000Z"
-      ],
-      "wikiURL": "https://wiki.warframe.com/w/Primed_Stabilizer",
-      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrimedStabilizerMod.png/300px-PrimedStabilizerMod.png?b85a2"
-    },
-    {
       "itemName": "Primed Smite Orokin",
       "itemType": "Mod",
       "itemSubType": "Primed",
@@ -7779,24 +7790,6 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/PrimedSmiteOrokinMod.png?e61d7"
     },
     {
-      "itemName": "Nikana Elixis Skin",
-      "itemType": "Cosmetic",
-      "itemSubType": "Weapon",
-      "credits": 275000,
-      "ducats": 375,
-      "dates": [
-        "2025-09-19T13:00:00.000Z",
-        "2025-04-25T13:00:00.000Z",
-        "2025-04-04T13:00:00.000Z",
-        "2025-02-07T13:00:00.000Z",
-        "2024-11-01T13:00:00.000Z",
-        "2024-02-23T13:00:00.000Z",
-        "2023-10-20T13:00:00.000Z"
-      ],
-      "wikiURL": "https://wiki.warframe.com/w/Nikana_Elixis_Skin",
-      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/NikanaElixisSkin.png/300px-NikanaElixisSkin.png?d6e2e"
-    },
-    {
       "itemName": "Primed Smite Infested",
       "itemType": "Mod",
       "itemSubType": "Primed",
@@ -7815,6 +7808,24 @@
       ],
       "wikiURL": "https://wiki.warframe.com/w/Primed_Smite_Infested",
       "wikiThumbnail": "https://wiki.warframe.com/images/PrimedSmiteInfestedMod.png?64c6e"
+    },
+    {
+      "itemName": "Nikana Elixis Skin",
+      "itemType": "Cosmetic",
+      "itemSubType": "Weapon",
+      "credits": 275000,
+      "ducats": 375,
+      "dates": [
+        "2025-09-19T13:00:00.000Z",
+        "2025-04-25T13:00:00.000Z",
+        "2025-04-04T13:00:00.000Z",
+        "2025-02-07T13:00:00.000Z",
+        "2024-11-01T13:00:00.000Z",
+        "2024-02-23T13:00:00.000Z",
+        "2023-10-20T13:00:00.000Z"
+      ],
+      "wikiURL": "https://wiki.warframe.com/w/Nikana_Elixis_Skin",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/NikanaElixisSkin.png/300px-NikanaElixisSkin.png?d6e2e"
     },
     {
       "itemName": "Primed Smite Grineer",
@@ -7873,47 +7884,49 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/PrimedSlipMagazineMod.png?f79a0"
     },
     {
-      "itemName": "Left Prisma Daedalus Knee Plates",
-      "itemType": "Cosmetic",
-      "itemSubType": "Armor",
-      "credits": 75000,
-      "ducats": 65,
+      "itemName": "Primed Bane of Grineer",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
+      "credits": 140000,
+      "ducats": 400,
       "dates": [
-        "2025-09-05T13:00:00.000Z",
-        "2025-04-11T13:00:00.000Z",
-        "2024-12-27T13:00:00.000Z",
-        "2024-06-28T13:00:00.000Z",
-        "2023-12-15T13:00:00.000Z",
-        "2023-07-14T13:00:00.000Z",
-        "2023-02-10T13:00:00.000Z",
-        "2022-08-26T13:00:00.000Z",
-        "2022-08-12T13:00:00.000Z",
-        "2022-07-29T13:00:00.000Z",
-        "2022-07-15T13:00:00.000Z",
-        "2022-01-28T13:00:00.000Z",
-        "2021-09-10T13:00:00.000Z",
-        "2021-04-23T13:00:00.000Z",
-        "2020-12-18T13:00:00.000Z",
-        "2020-08-14T13:00:00.000Z",
-        "2020-04-10T13:00:00.000Z",
-        "2019-12-06T13:00:00.000Z",
-        "2019-11-22T13:00:00.000Z",
-        "2019-08-02T13:00:00.000Z",
-        "2019-04-19T13:00:00.000Z",
-        "2018-12-28T13:00:00.000Z",
-        "2018-09-21T13:00:00.000Z",
-        "2018-06-01T13:00:00.000Z",
-        "2018-02-09T13:00:00.000Z",
-        "2017-10-06T13:00:00.000Z",
-        "2017-06-02T13:00:00.000Z",
-        "2017-01-13T13:00:00.000Z",
-        "2016-08-26T13:00:00.000Z",
-        "2016-04-22T13:00:00.000Z",
-        "2015-09-18T13:00:00.000Z",
-        "2015-05-15T13:00:00.000Z"
+        "2025-01-10T13:00:00.000Z",
+        "2023-09-22T13:00:00.000Z",
+        "2023-02-24T13:00:00.000Z",
+        "2021-03-26T13:00:00.000Z",
+        "2020-09-25T13:00:00.000Z",
+        "2020-03-13T13:00:00.000Z",
+        "2019-09-27T13:00:00.000Z",
+        "2019-05-31T13:00:00.000Z",
+        "2019-01-25T13:00:00.000Z",
+        "2018-09-07T13:00:00.000Z",
+        "2018-04-20T13:00:00.000Z",
+        "2017-11-17T13:00:00.000Z",
+        "2017-06-30T13:00:00.000Z",
+        "2017-02-24T13:00:00.000Z",
+        "2016-10-21T13:00:00.000Z",
+        "2016-07-15T13:00:00.000Z",
+        "2016-01-22T13:00:00.000Z"
       ],
-      "wikiURL": "https://wiki.warframe.com/w/Armor_(Cosmetic)",
-      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/LeftPrismaDaedalusShinGuard.png/300px-LeftPrismaDaedalusShinGuard.png?6e5e4"
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Bane_of_Grineer",
+      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedBaneofGrineerMod.png?0218c"
+    },
+    {
+      "itemName": "Primed Redirection",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
+      "credits": 225000,
+      "ducats": 350,
+      "dates": [
+        "2025-07-25T13:00:00.000Z",
+        "2025-03-21T13:00:00.000Z",
+        "2024-12-27T13:00:00.000Z",
+        "2024-11-29T13:00:00.000Z",
+        "2024-06-14T13:00:00.000Z",
+        "2023-12-15T13:00:00.000Z"
+      ],
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Redirection",
+      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedRedirectionMod.png?05aa6"
     },
     {
       "itemName": "Harkonar Wraith Arm Armor",
@@ -7942,23 +7955,6 @@
       ],
       "wikiURL": "https://wiki.warframe.com/w/Armor_(Cosmetic)",
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/WraithHarkonarArmArmour.png/300px-WraithHarkonarArmArmour.png?7f7d5"
-    },
-    {
-      "itemName": "Primed Redirection",
-      "itemType": "Mod",
-      "itemSubType": "Primed",
-      "credits": 225000,
-      "ducats": 350,
-      "dates": [
-        "2025-07-25T13:00:00.000Z",
-        "2025-03-21T13:00:00.000Z",
-        "2024-12-27T13:00:00.000Z",
-        "2024-11-29T13:00:00.000Z",
-        "2024-06-14T13:00:00.000Z",
-        "2023-12-15T13:00:00.000Z"
-      ],
-      "wikiURL": "https://wiki.warframe.com/w/Primed_Redirection",
-      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedRedirectionMod.png?05aa6"
     },
     {
       "itemName": "Primed Reach",
@@ -7996,6 +7992,42 @@
       ],
       "wikiURL": "https://wiki.warframe.com/w/Primed_Reach",
       "wikiThumbnail": "https://wiki.warframe.com/images/PrimedReachMod.png?58fbb"
+    },
+    {
+      "itemName": "Primed Ravage",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
+      "credits": 100000,
+      "ducats": 280,
+      "dates": [
+        "2025-07-11T13:00:00.000Z",
+        "2025-03-07T13:00:00.000Z",
+        "2024-08-09T13:00:00.000Z",
+        "2024-02-23T13:00:00.000Z",
+        "2023-09-22T13:00:00.000Z",
+        "2023-04-21T13:00:00.000Z",
+        "2022-10-21T13:00:00.000Z",
+        "2022-04-08T13:00:00.000Z",
+        "2021-10-22T13:00:00.000Z",
+        "2021-04-23T13:00:00.000Z",
+        "2020-10-09T13:00:00.000Z",
+        "2020-02-28T13:00:00.000Z",
+        "2019-09-13T13:00:00.000Z",
+        "2019-05-03T13:00:00.000Z",
+        "2018-12-28T13:00:00.000Z",
+        "2018-07-13T13:00:00.000Z",
+        "2018-02-23T13:00:00.000Z",
+        "2017-10-06T13:00:00.000Z",
+        "2017-05-19T13:00:00.000Z",
+        "2016-12-30T13:00:00.000Z",
+        "2016-08-12T13:00:00.000Z",
+        "2016-05-20T13:00:00.000Z",
+        "2015-09-18T13:00:00.000Z",
+        "2015-06-12T13:00:00.000Z",
+        "2014-12-12T13:00:00.000Z"
+      ],
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Ravage",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrimedRavageMod.png/300px-PrimedRavageMod.png?450ba"
     },
     {
       "itemName": "Redeemer Elixis Skin",
@@ -8036,16 +8068,41 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/RedeemerElixisSkin.png/300px-RedeemerElixisSkin.png?10a48"
     },
     {
-      "itemName": "Primed Cleanse The Murmur",
-      "itemType": "Mod",
-      "itemSubType": "Primed",
-      "credits": 130000,
-      "ducats": 375,
+      "itemName": "Ki'teer Atmos Oculus",
+      "itemType": "Cosmetic",
+      "itemSubType": "Operator",
+      "credits": 375000,
+      "ducats": 525,
       "dates": [
-        "2025-08-22T13:00:00.000Z"
+        "2025-08-22T13:00:00.000Z",
+        "2025-04-25T13:00:00.000Z",
+        "2025-03-21T13:00:00.000Z",
+        "2024-11-01T13:00:00.000Z",
+        "2024-10-18T13:00:00.000Z",
+        "2024-05-31T13:00:00.000Z",
+        "2023-10-20T13:00:00.000Z",
+        "2023-06-30T13:00:00.000Z",
+        "2023-02-24T13:00:00.000Z",
+        "2022-10-21T13:00:00.000Z",
+        "2022-08-26T13:00:00.000Z",
+        "2022-08-12T13:00:00.000Z",
+        "2022-07-29T13:00:00.000Z",
+        "2022-06-17T13:00:00.000Z",
+        "2022-03-11T13:00:00.000Z",
+        "2021-12-17T13:00:00.000Z",
+        "2021-07-30T13:00:00.000Z",
+        "2021-02-12T13:00:00.000Z",
+        "2020-09-11T13:00:00.000Z",
+        "2020-06-05T13:00:00.000Z",
+        "2020-02-14T13:00:00.000Z",
+        "2019-10-11T13:00:00.000Z",
+        "2019-05-03T13:00:00.000Z",
+        "2019-01-25T13:00:00.000Z",
+        "2018-10-19T13:00:00.000Z",
+        "2018-06-15T13:00:00.000Z"
       ],
-      "wikiURL": "https://wiki.warframe.com/w/Primed_Cleanse_The_Murmur",
-      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrimedCleanseTheMurmurMod.png/300px-PrimedCleanseTheMurmurMod.png?3e762"
+      "wikiURL": "https://wiki.warframe.com/w/Operator/Customization#Facial_Accessories",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/Ki%27teerAtmosOculus.png/300px-Ki%27teerAtmosOculus.png?f1924"
     },
     {
       "itemName": "Ki'teer Shoulder Plates",
@@ -8120,41 +8177,16 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/KiTeerKubrowArmor.png/300px-KiTeerKubrowArmor.png?f68bf"
     },
     {
-      "itemName": "Ki'teer Atmos Oculus",
-      "itemType": "Cosmetic",
-      "itemSubType": "Operator",
-      "credits": 375000,
-      "ducats": 525,
+      "itemName": "Orokin Catalyst",
+      "itemType": "Consumable",
+      "itemSubType": null,
+      "credits": 400000,
+      "ducats": 700,
       "dates": [
-        "2025-08-22T13:00:00.000Z",
-        "2025-04-25T13:00:00.000Z",
-        "2025-03-21T13:00:00.000Z",
-        "2024-11-01T13:00:00.000Z",
-        "2024-10-18T13:00:00.000Z",
-        "2024-05-31T13:00:00.000Z",
-        "2023-10-20T13:00:00.000Z",
-        "2023-06-30T13:00:00.000Z",
-        "2023-02-24T13:00:00.000Z",
-        "2022-10-21T13:00:00.000Z",
-        "2022-08-26T13:00:00.000Z",
-        "2022-08-12T13:00:00.000Z",
-        "2022-07-29T13:00:00.000Z",
-        "2022-06-17T13:00:00.000Z",
-        "2022-03-11T13:00:00.000Z",
-        "2021-12-17T13:00:00.000Z",
-        "2021-07-30T13:00:00.000Z",
-        "2021-02-12T13:00:00.000Z",
-        "2020-09-11T13:00:00.000Z",
-        "2020-06-05T13:00:00.000Z",
-        "2020-02-14T13:00:00.000Z",
-        "2019-10-11T13:00:00.000Z",
-        "2019-05-03T13:00:00.000Z",
-        "2019-01-25T13:00:00.000Z",
-        "2018-10-19T13:00:00.000Z",
-        "2018-06-15T13:00:00.000Z"
+        "2016-01-22T13:00:00.000Z"
       ],
-      "wikiURL": "https://wiki.warframe.com/w/Operator/Customization#Facial_Accessories",
-      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/Ki%27teerAtmosOculus.png/300px-Ki%27teerAtmosOculus.png?f1924"
+      "wikiURL": "https://wiki.warframe.com/w/Orokin_Catalyst",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/OrokinCatalyst.png/300px-OrokinCatalyst.png?1d542"
     },
     {
       "itemName": "Reshantur Cult Spear Skin",
@@ -8163,6 +8195,7 @@
       "credits": 325000,
       "ducats": 350,
       "dates": [
+        "2025-10-17T13:00:00.000Z",
         "2025-02-07T13:00:00.000Z",
         "2024-08-23T13:00:00.000Z",
         "2024-03-08T13:00:00.000Z",
@@ -8173,20 +8206,6 @@
       ],
       "wikiURL": "https://wiki.warframe.com/w/Reshantur_Cult_Spear_Skin",
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/ReshanturCultSpearSkin.png/300px-ReshanturCultSpearSkin.png?71e32"
-    },
-    {
-      "itemName": "Javi Ophiuchus Scrawling",
-      "itemType": "Decoration",
-      "itemSubType": null,
-      "credits": 100000,
-      "ducats": 90,
-      "dates": [
-        "2025-07-25T13:00:00.000Z",
-        "2024-11-01T13:00:00.000Z",
-        "2024-01-26T13:00:00.000Z"
-      ],
-      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Miscellaneous",
-      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/JaviOphiuchusScrawling.png/300px-JaviOphiuchusScrawling.png?d6e56"
     },
     {
       "itemName": "Glaxion Vandal",
@@ -8212,6 +8231,28 @@
       ],
       "wikiURL": "https://wiki.warframe.com/w/Glaxion_Vandal",
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/GlaxionVandal.png/300px-GlaxionVandal.png?f5763"
+    },
+    {
+      "itemName": "Primed Fulmination",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
+      "credits": 175000,
+      "ducats": 350,
+      "dates": [
+        "2025-08-22T13:00:00.000Z",
+        "2025-05-16T13:00:00.000Z",
+        "2025-01-10T13:00:00.000Z",
+        "2024-07-12T13:00:00.000Z",
+        "2023-12-15T13:00:00.000Z",
+        "2023-06-30T13:00:00.000Z",
+        "2022-12-30T13:00:00.000Z",
+        "2022-05-20T13:00:00.000Z",
+        "2021-12-17T13:00:00.000Z",
+        "2021-07-16T13:00:00.000Z",
+        "2020-12-04T13:00:00.000Z"
+      ],
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Fulmination",
+      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedFulminationMod.png?7ce72"
     },
     {
       "itemName": "Karishh's Dinnerware",
@@ -8266,28 +8307,6 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrimedEosSpurs.png/300px-PrimedEosSpurs.png?d4018"
     },
     {
-      "itemName": "Primed Fulmination",
-      "itemType": "Mod",
-      "itemSubType": "Primed",
-      "credits": 175000,
-      "ducats": 350,
-      "dates": [
-        "2025-08-22T13:00:00.000Z",
-        "2025-05-16T13:00:00.000Z",
-        "2025-01-10T13:00:00.000Z",
-        "2024-07-12T13:00:00.000Z",
-        "2023-12-15T13:00:00.000Z",
-        "2023-06-30T13:00:00.000Z",
-        "2022-12-30T13:00:00.000Z",
-        "2022-05-20T13:00:00.000Z",
-        "2021-12-17T13:00:00.000Z",
-        "2021-07-16T13:00:00.000Z",
-        "2020-12-04T13:00:00.000Z"
-      ],
-      "wikiURL": "https://wiki.warframe.com/w/Primed_Fulmination",
-      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedFulminationMod.png?7ce72"
-    },
-    {
       "itemName": "Primed Flow",
       "itemType": "Mod",
       "itemSubType": "Primed",
@@ -8326,20 +8345,6 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/PrimedFlowMod.png?5f2d5"
     },
     {
-      "itemName": "Lunar Renewal Snake Emblem",
-      "itemType": "Cosmetic",
-      "itemSubType": "Emblem",
-      "credits": 1,
-      "ducats": null,
-      "dates": [
-        "2025-02-21T13:00:00.000Z",
-        "2025-02-07T13:00:00.000Z",
-        "2025-01-24T13:00:00.000Z"
-      ],
-      "wikiURL": "https://wiki.warframe.com/w/Warframe_Cosmetics#Other_Emblems",
-      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/LunarRenewalSnakeEmblem.png/300px-LunarRenewalSnakeEmblem.png?eed60"
-    },
-    {
       "itemName": "Primed Fever Strike",
       "itemType": "Mod",
       "itemSubType": "Primed",
@@ -8368,6 +8373,21 @@
       ],
       "wikiURL": "https://wiki.warframe.com/w/Primed_Fever_Strike",
       "wikiThumbnail": "https://wiki.warframe.com/images/PrimedFeverStrikeMod.png?3d976"
+    },
+    {
+      "itemName": "Lunar Renewal Snake Emblem",
+      "itemType": "Cosmetic",
+      "itemSubType": "Emblem",
+      "credits": 45000,
+      "ducats": 55,
+      "dates": [
+        "2025-10-17T13:00:00.000Z",
+        "2025-02-21T13:00:00.000Z",
+        "2025-02-07T13:00:00.000Z",
+        "2025-01-24T13:00:00.000Z"
+      ],
+      "wikiURL": "https://wiki.warframe.com/w/Warframe_Cosmetics#Other_Emblems",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/LunarRenewalSnakeEmblem.png/300px-LunarRenewalSnakeEmblem.png?eed60"
     },
     {
       "itemName": "Primed Fast Hands",
@@ -8400,6 +8420,24 @@
       ],
       "wikiURL": "https://wiki.warframe.com/w/Primed_Fast_Hands",
       "wikiThumbnail": "https://wiki.warframe.com/images/PrimedFastHandsMod.png?11d5d"
+    },
+    {
+      "itemName": "Noggle Statue - Erra",
+      "itemType": "Decoration",
+      "itemSubType": null,
+      "credits": 300000,
+      "ducats": 75,
+      "dates": [
+        "2025-03-07T13:00:00.000Z",
+        "2024-05-31T13:00:00.000Z",
+        "2023-08-25T13:00:00.000Z",
+        "2022-12-02T13:00:00.000Z",
+        "2022-08-26T13:00:00.000Z",
+        "2022-08-12T13:00:00.000Z",
+        "2022-07-29T13:00:00.000Z"
+      ],
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Noggles",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/BobbleheadErra.png/300px-BobbleheadErra.png?6251f"
     },
     {
       "itemName": "Xaku Prex",
@@ -8490,27 +8528,20 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrimedPistolGambitMod.png/300px-PrimedPistolGambitMod.png?3ede1"
     },
     {
-      "itemName": "Primed Expel Corpus",
+      "itemName": "Primed Deadly Efficiency",
       "itemType": "Mod",
       "itemSubType": "Primed",
-      "credits": 140000,
-      "ducats": 350,
+      "credits": 300000,
+      "ducats": 375,
       "dates": [
-        "2024-06-14T13:00:00.000Z",
-        "2023-12-01T13:00:00.000Z",
-        "2023-05-05T13:00:00.000Z",
-        "2022-09-23T13:00:00.000Z",
-        "2022-02-25T13:00:00.000Z",
-        "2021-05-21T13:00:00.000Z",
-        "2020-11-06T13:00:00.000Z",
-        "2020-04-24T13:00:00.000Z",
-        "2019-11-08T13:00:00.000Z",
-        "2019-06-28T13:00:00.000Z",
-        "2019-02-08T13:00:00.000Z",
-        "2018-10-05T13:00:00.000Z"
+        "2025-08-08T13:00:00.000Z",
+        "2025-05-02T13:00:00.000Z",
+        "2025-04-18T13:00:00.000Z",
+        "2024-12-27T13:00:00.000Z",
+        "2024-07-12T13:00:00.000Z"
       ],
-      "wikiURL": "https://wiki.warframe.com/w/Primed_Expel_Corpus",
-      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedExpelCorpusMod.png?99807"
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Deadly_Efficiency",
+      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedDeadlyEfficiencyMod.png?c8e7b"
     },
     {
       "itemName": "Pack Leader Emblem",
@@ -8569,20 +8600,22 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/KiTeerForosChestPlate.png/300px-KiTeerForosChestPlate.png?3827b"
     },
     {
-      "itemName": "Primed Deadly Efficiency",
-      "itemType": "Mod",
-      "itemSubType": "Primed",
-      "credits": 300000,
-      "ducats": 375,
+      "itemName": "Paris Abra Skin",
+      "itemType": "Cosmetic",
+      "itemSubType": "Weapon",
+      "credits": 275000,
+      "ducats": 315,
       "dates": [
-        "2025-08-08T13:00:00.000Z",
-        "2025-05-02T13:00:00.000Z",
+        "2025-06-13T13:00:00.000Z",
         "2025-04-18T13:00:00.000Z",
-        "2024-12-27T13:00:00.000Z",
-        "2024-07-12T13:00:00.000Z"
+        "2024-11-15T13:00:00.000Z",
+        "2024-10-18T13:00:00.000Z",
+        "2024-05-03T13:00:00.000Z",
+        "2023-12-01T13:00:00.000Z",
+        "2023-06-16T13:00:00.000Z"
       ],
-      "wikiURL": "https://wiki.warframe.com/w/Primed_Deadly_Efficiency",
-      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedDeadlyEfficiencyMod.png?c8e7b"
+      "wikiURL": "https://wiki.warframe.com/w/Paris_Abra_Skin",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/ParisAbraSkin.png/300px-ParisAbraSkin.png?201e7"
     },
     {
       "itemName": "5 x Corrupted Bombard Specter",
@@ -8656,28 +8689,13 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/HarkonarWraithCloak.png/300px-HarkonarWraithCloak.png?1e353"
     },
     {
-      "itemName": "Primed Convulsion",
-      "itemType": "Mod",
-      "itemSubType": "Primed",
-      "credits": 175000,
-      "ducats": 350,
-      "dates": [
-        "2025-07-25T13:00:00.000Z",
-        "2025-04-04T13:00:00.000Z",
-        "2024-11-29T13:00:00.000Z",
-        "2024-06-14T13:00:00.000Z",
-        "2023-12-29T13:00:00.000Z"
-      ],
-      "wikiURL": "https://wiki.warframe.com/w/Primed_Convulsion",
-      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedConvulsionMod.png?72f2e"
-    },
-    {
       "itemName": "Primed Continuity",
       "itemType": "Mod",
       "itemSubType": "Primed",
       "credits": 100000,
       "ducats": 350,
       "dates": [
+        "2025-10-17T13:00:00.000Z",
         "2025-03-21T13:00:00.000Z",
         "2024-12-27T13:00:00.000Z",
         "2024-11-29T13:00:00.000Z",
@@ -8712,6 +8730,18 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrimedContinuityMod.png/300px-PrimedContinuityMod.png?6a171"
     },
     {
+      "itemName": "Primed Cleanse The Murmur",
+      "itemType": "Mod",
+      "itemSubType": "Primed",
+      "credits": 130000,
+      "ducats": 375,
+      "dates": [
+        "2025-08-22T13:00:00.000Z"
+      ],
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Cleanse_The_Murmur",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrimedCleanseTheMurmurMod.png/300px-PrimedCleanseTheMurmurMod.png?3e762"
+    },
+    {
       "itemName": "Primed Expel Orokin",
       "itemType": "Mod",
       "itemSubType": "Primed",
@@ -8733,16 +8763,47 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/PrimedExpelOrokinMod.png?2497c"
     },
     {
-      "itemName": "Primed Bane of The Murmur",
-      "itemType": "Mod",
-      "itemSubType": "Primed",
-      "credits": 130000,
-      "ducats": 375,
+      "itemName": "Left Prisma Daedalus Knee Plates",
+      "itemType": "Cosmetic",
+      "itemSubType": "Armor",
+      "credits": 75000,
+      "ducats": 65,
       "dates": [
-        "2025-09-19T13:00:00.000Z"
+        "2025-09-05T13:00:00.000Z",
+        "2025-04-11T13:00:00.000Z",
+        "2024-12-27T13:00:00.000Z",
+        "2024-06-28T13:00:00.000Z",
+        "2023-12-15T13:00:00.000Z",
+        "2023-07-14T13:00:00.000Z",
+        "2023-02-10T13:00:00.000Z",
+        "2022-08-26T13:00:00.000Z",
+        "2022-08-12T13:00:00.000Z",
+        "2022-07-29T13:00:00.000Z",
+        "2022-07-15T13:00:00.000Z",
+        "2022-01-28T13:00:00.000Z",
+        "2021-09-10T13:00:00.000Z",
+        "2021-04-23T13:00:00.000Z",
+        "2020-12-18T13:00:00.000Z",
+        "2020-08-14T13:00:00.000Z",
+        "2020-04-10T13:00:00.000Z",
+        "2019-12-06T13:00:00.000Z",
+        "2019-11-22T13:00:00.000Z",
+        "2019-08-02T13:00:00.000Z",
+        "2019-04-19T13:00:00.000Z",
+        "2018-12-28T13:00:00.000Z",
+        "2018-09-21T13:00:00.000Z",
+        "2018-06-01T13:00:00.000Z",
+        "2018-02-09T13:00:00.000Z",
+        "2017-10-06T13:00:00.000Z",
+        "2017-06-02T13:00:00.000Z",
+        "2017-01-13T13:00:00.000Z",
+        "2016-08-26T13:00:00.000Z",
+        "2016-04-22T13:00:00.000Z",
+        "2015-09-18T13:00:00.000Z",
+        "2015-05-15T13:00:00.000Z"
       ],
-      "wikiURL": "https://wiki.warframe.com/w/Primed_Bane_of_The_Murmur",
-      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PrimedBaneofTheMurmurMod.png/300px-PrimedBaneofTheMurmurMod.png?2148d"
+      "wikiURL": "https://wiki.warframe.com/w/Armor_(Cosmetic)",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/LeftPrismaDaedalusShinGuard.png/300px-LeftPrismaDaedalusShinGuard.png?6e5e4"
     },
     {
       "itemName": "Primed Rifle Ammo Mutation",
@@ -8840,32 +8901,24 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/CoccystSugatra.png/300px-CoccystSugatra.png?2ecea"
     },
     {
-      "itemName": "Primed Bane of Grineer",
+      "itemName": "Primed Ammo Stock",
       "itemType": "Mod",
       "itemSubType": "Primed",
-      "credits": 140000,
-      "ducats": 400,
+      "credits": 200000,
+      "ducats": 280,
       "dates": [
-        "2025-01-10T13:00:00.000Z",
-        "2023-09-22T13:00:00.000Z",
-        "2023-02-24T13:00:00.000Z",
-        "2021-03-26T13:00:00.000Z",
-        "2020-09-25T13:00:00.000Z",
-        "2020-03-13T13:00:00.000Z",
-        "2019-09-27T13:00:00.000Z",
-        "2019-05-31T13:00:00.000Z",
-        "2019-01-25T13:00:00.000Z",
-        "2018-09-07T13:00:00.000Z",
-        "2018-04-20T13:00:00.000Z",
-        "2017-11-17T13:00:00.000Z",
-        "2017-06-30T13:00:00.000Z",
-        "2017-02-24T13:00:00.000Z",
-        "2016-10-21T13:00:00.000Z",
-        "2016-07-15T13:00:00.000Z",
-        "2016-01-22T13:00:00.000Z"
+        "2025-07-25T13:00:00.000Z",
+        "2025-04-18T13:00:00.000Z",
+        "2024-12-13T13:00:00.000Z",
+        "2024-03-22T13:00:00.000Z",
+        "2023-10-06T13:00:00.000Z",
+        "2023-04-21T13:00:00.000Z",
+        "2022-10-07T13:00:00.000Z",
+        "2022-03-11T13:00:00.000Z",
+        "2021-09-24T13:00:00.000Z"
       ],
-      "wikiURL": "https://wiki.warframe.com/w/Primed_Bane_of_Grineer",
-      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedBaneofGrineerMod.png?0218c"
+      "wikiURL": "https://wiki.warframe.com/w/Primed_Ammo_Stock",
+      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedAmmoStockMod.png?852bf"
     },
     {
       "itemName": "Ki'teer Straed Syandana",
@@ -8891,24 +8944,27 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/Ki%27teerStraedSyandana.png/300px-Ki%27teerStraedSyandana.png?a06b0"
     },
     {
-      "itemName": "Primed Ammo Stock",
-      "itemType": "Mod",
-      "itemSubType": "Primed",
-      "credits": 200000,
-      "ducats": 280,
+      "itemName": "Pedestal Umbra",
+      "itemType": "Decoration",
+      "itemSubType": null,
+      "credits": 1000000,
+      "ducats": null,
       "dates": [
-        "2025-07-25T13:00:00.000Z",
-        "2025-04-18T13:00:00.000Z",
-        "2024-12-13T13:00:00.000Z",
-        "2024-03-22T13:00:00.000Z",
-        "2023-10-06T13:00:00.000Z",
-        "2023-04-21T13:00:00.000Z",
-        "2022-10-07T13:00:00.000Z",
-        "2022-03-11T13:00:00.000Z",
-        "2021-09-24T13:00:00.000Z"
+        "2025-07-11T13:00:00.000Z",
+        "2024-09-20T13:00:00.000Z",
+        "2023-12-29T13:00:00.000Z",
+        "2023-04-07T13:00:00.000Z",
+        "2022-08-26T13:00:00.000Z",
+        "2022-08-12T13:00:00.000Z",
+        "2022-07-29T13:00:00.000Z",
+        "2022-06-17T13:00:00.000Z",
+        "2021-12-31T13:00:00.000Z",
+        "2021-07-02T13:00:00.000Z",
+        "2021-01-29T13:00:00.000Z",
+        "2020-08-14T13:00:00.000Z"
       ],
-      "wikiURL": "https://wiki.warframe.com/w/Primed_Ammo_Stock",
-      "wikiThumbnail": "https://wiki.warframe.com/images/PrimedAmmoStockMod.png?852bf"
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Miscellaneous",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/PedestalUmbra.png/300px-PedestalUmbra.png?9a06b"
     },
     {
       "itemName": "Primed Cryo Rounds",
@@ -8943,22 +8999,26 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/PrimedCryoRoundsMod.png?26fea"
     },
     {
-      "itemName": "Paris Abra Skin",
-      "itemType": "Cosmetic",
-      "itemSubType": "Weapon",
-      "credits": 275000,
-      "ducats": 315,
+      "itemName": "Parazon Poster",
+      "itemType": "Decoration",
+      "itemSubType": null,
+      "credits": 125000,
+      "ducats": 100,
       "dates": [
-        "2025-06-13T13:00:00.000Z",
-        "2025-04-18T13:00:00.000Z",
-        "2024-11-15T13:00:00.000Z",
-        "2024-10-18T13:00:00.000Z",
-        "2024-05-03T13:00:00.000Z",
-        "2023-12-01T13:00:00.000Z",
-        "2023-06-16T13:00:00.000Z"
+        "2025-05-02T13:00:00.000Z",
+        "2024-12-27T13:00:00.000Z",
+        "2024-04-05T13:00:00.000Z",
+        "2023-07-14T13:00:00.000Z",
+        "2022-09-23T13:00:00.000Z",
+        "2022-01-28T13:00:00.000Z",
+        "2021-07-30T13:00:00.000Z",
+        "2021-02-26T13:00:00.000Z",
+        "2020-10-09T13:00:00.000Z",
+        "2020-05-08T13:00:00.000Z",
+        "2020-01-03T13:00:00.000Z"
       ],
-      "wikiURL": "https://wiki.warframe.com/w/Paris_Abra_Skin",
-      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/ParisAbraSkin.png/300px-ParisAbraSkin.png?201e7"
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Posters",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/ParazonPoster.png/300px-ParazonPoster.png?9d6c4"
     },
     {
       "itemName": "Primed Pack Leader",
@@ -8986,18 +9046,6 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/PrimedPackLeaderMod.png?4e618"
     },
     {
-      "itemName": "Orokin Catalyst",
-      "itemType": "Consumable",
-      "itemSubType": null,
-      "credits": 400000,
-      "ducats": 700,
-      "dates": [
-        "2016-01-22T13:00:00.000Z"
-      ],
-      "wikiURL": "https://wiki.warframe.com/w/Orokin_Catalyst",
-      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/OrokinCatalyst.png/300px-OrokinCatalyst.png?1d542"
-    },
-    {
       "itemName": "Ordis Reified Statue",
       "itemType": "Decoration",
       "itemSubType": null,
@@ -9014,6 +9062,27 @@
       ],
       "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Miscellaneous",
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/OrdisReifiedStatue.png/300px-OrdisReifiedStatue.png?bdff2"
+    },
+    {
+      "itemName": "Opticor Vandal",
+      "itemType": "Weapon",
+      "itemSubType": null,
+      "credits": 550000,
+      "ducats": 650,
+      "dates": [
+        "2025-07-11T13:00:00.000Z",
+        "2025-03-07T13:00:00.000Z",
+        "2024-11-01T13:00:00.000Z",
+        "2024-05-03T13:00:00.000Z",
+        "2023-09-08T13:00:00.000Z",
+        "2023-03-10T13:00:00.000Z",
+        "2022-09-09T13:00:00.000Z",
+        "2022-03-25T13:00:00.000Z",
+        "2021-11-05T13:00:00.000Z",
+        "2021-07-02T13:00:00.000Z"
+      ],
+      "wikiURL": "https://wiki.warframe.com/w/Opticor_Vandal",
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/OpticorVandal.png/300px-OpticorVandal.png?64244"
     },
     {
       "itemName": "Rapier Tributaker Skin",
@@ -9045,37 +9114,22 @@
       "wikiThumbnail": "https://wiki.warframe.com/images/thumb/AxiRelicIntact.png/300px-AxiRelicIntact.png?6cadf"
     },
     {
-      "itemName": "Noggle Statue - Excalibur with Odonata",
+      "itemName": "Noggle Statue - The New War Veso-R",
       "itemType": "Decoration",
       "itemSubType": null,
-      "credits": 200000,
-      "ducats": 90,
+      "credits": 300000,
+      "ducats": 75,
       "dates": [
-        "2025-09-05T13:00:00.000Z",
-        "2025-05-02T13:00:00.000Z",
-        "2025-04-18T13:00:00.000Z",
-        "2024-11-29T13:00:00.000Z",
-        "2024-10-18T13:00:00.000Z",
-        "2024-02-09T13:00:00.000Z",
-        "2023-03-24T13:00:00.000Z",
+        "2025-05-30T13:00:00.000Z",
+        "2024-06-28T13:00:00.000Z",
+        "2023-07-14T13:00:00.000Z",
+        "2022-11-18T13:00:00.000Z",
         "2022-08-26T13:00:00.000Z",
         "2022-08-12T13:00:00.000Z",
-        "2022-07-29T13:00:00.000Z",
-        "2022-06-17T13:00:00.000Z",
-        "2021-12-31T13:00:00.000Z",
-        "2021-08-27T13:00:00.000Z",
-        "2021-04-09T13:00:00.000Z",
-        "2020-10-23T13:00:00.000Z",
-        "2020-06-05T13:00:00.000Z",
-        "2020-01-17T13:00:00.000Z",
-        "2019-08-16T13:00:00.000Z",
-        "2019-04-19T13:00:00.000Z",
-        "2018-12-28T13:00:00.000Z",
-        "2018-08-24T13:00:00.000Z",
-        "2018-04-06T13:00:00.000Z"
+        "2022-07-29T13:00:00.000Z"
       ],
       "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations#Noggles",
-      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/BobbleheadExcaliburArchwing.png/300px-BobbleheadExcaliburArchwing.png?29e9e"
+      "wikiThumbnail": "https://wiki.warframe.com/images/thumb/BobbleheadTheNewWarVeso-R.png/300px-BobbleheadTheNewWarVeso-R.png?441d0"
     },
     {
       "itemName": "Diriga Desert-Camo Skin",
@@ -10045,6 +10099,7 @@
       "credits": 275000,
       "ducats": 300,
       "dates": [
+        "2025-10-17T13:00:00.000Z",
         "2025-10-03T13:00:00.000Z",
         "2025-09-19T13:00:00.000Z",
         "2024-10-18T13:00:00.000Z",
@@ -10595,6 +10650,7 @@
       "credits": 100000,
       "ducats": 90,
       "dates": [
+        "2025-10-17T13:00:00.000Z",
         "2024-10-04T13:00:00.000Z",
         "2024-01-12T13:00:00.000Z"
       ],
