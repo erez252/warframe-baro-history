@@ -1,10 +1,17 @@
 const fs = require('fs').promises;
 const path = require('path');
+const https = require('https');
 const puppeteer = require('puppeteer');
 
-// Upgraded source targeting the Lua data module directly
-const TARGET_URL = process.env.TARGET_URL || 'https://wiki.warframe.com/w/Module:Baro/data';
+// Target URL with automatic fallback to modern Lua Module
+let TARGET_URL = process.env.TARGET_URL || 'https://wiki.warframe.com/w/Module:Baro/data';
 const BASE_URL = 'https://wiki.warframe.com';
+
+// AUTO-CORRECTION: If the workflow provides the old HTML trades page, redirect to Lua module
+if (TARGET_URL.includes('Baro_Ki%27Teer/Trades') || TARGET_URL.includes('Trades')) {
+    console.log("⚠️ Old HTML Trades URL detected. Auto-redirecting to Lua Module source: Module:Baro/data");
+    TARGET_URL = 'https://wiki.warframe.com/w/Module:Baro/data';
+}
 
 // Safely strips single-line and multi-line comments from raw Lua text
 function stripLuaComments(src) {
@@ -357,39 +364,85 @@ function transformLuaToTargetJSON(parsedObj) {
     };
 }
 
+// Simple direct HTTP downloader using Node native HTTPS modules
+function downloadRawText(url) {
+    return new Promise((resolve, reject) => {
+        const options = {
+            headers: {
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+            }
+        };
+        https.get(url, options, (res) => {
+            if (res.statusCode !== 200) {
+                reject(new Error(`Server returned status code: ${res.statusCode}`));
+                return;
+            }
+            let data = '';
+            res.on('data', (chunk) => data += chunk);
+            res.on('end', () => resolve(data));
+        }).on('error', reject);
+    });
+}
+
 (async () => {
-    console.log('🚀 Spawning browser container...');
-    const browser = await puppeteer.launch({
-        args: ['--no-sandbox', '--disable-setuid-sandbox']
-    });
-    const page = await browser.newPage();
+    let rawLua = '';
     
-    console.log(`📡 Loading target data module: ${TARGET_URL}`);
-    await page.goto(TARGET_URL, { waitUntil: 'networkidle2', timeout: 60000 });
+    // Attempt fast raw HTTP fetch first to avoid booting up heavy Chromium containers (highly efficient on GitHub Runners!)
+    try {
+        const rawActionUrl = `${TARGET_URL}?action=raw`;
+        console.log(`⚡ Attempting high-speed direct text fetch: ${rawActionUrl}`);
+        rawLua = await downloadRawText(rawActionUrl);
+        console.log('✅ Direct fetch successful!');
+    } catch (fetchErr) {
+        console.warn(`⚠️ Direct fetch failed or was blocked (${fetchErr.message}). Falling back to browser environment...`);
+        
+        const browser = await puppeteer.launch({
+            args: [
+                '--no-sandbox', 
+                '--disable-setuid-sandbox',
+                '--disable-dev-shm-usage',
+                '--disable-gpu',
+                '--no-zygote'
+            ]
+        });
+        const page = await browser.newPage();
+        
+        // Optimizing page load parameters to disable images/CSS blocks for fast DOM performance
+        await page.setRequestInterception(true);
+        page.on('request', (req) => {
+            const type = req.resourceType();
+            if (type === 'image' || type === 'stylesheet' || type === 'font') {
+                req.abort();
+            } else {
+                req.continue();
+            }
+        });
 
-    console.log('⌛ Waiting for Lua raw container elements...');
-    // Waits for any common code-container tag format to mount
-    await page.waitForFunction(() => {
-        return !!(document.querySelector(".mw-code") || 
-                  document.getElementById("wpTextbox1") || 
-                  document.querySelector("pre"));
-    }, { timeout: 20000 });
+        console.log(`📡 Opening browser targeting page: ${TARGET_URL}`);
+        await page.goto(TARGET_URL, { waitUntil: 'domcontentloaded', timeout: 45000 });
 
-    // Retrieve raw text contents
-    const rawLua = await page.evaluate(() => {
-        const codeElement = document.querySelector(".mw-code") || 
-                            document.getElementById("wpTextbox1") || 
-                            document.querySelector("pre");
-        return codeElement ? (codeElement.value || codeElement.innerText || codeElement.textContent) : '';
-    });
+        console.log('⌛ Resolving Lua data DOM container selectors...');
+        await page.waitForFunction(() => {
+            return !!(document.querySelector(".mw-code") || 
+                      document.getElementById("wpTextbox1") || 
+                      document.querySelector("pre"));
+        }, { timeout: 20000 });
 
-    await browser.close();
+        rawLua = await page.evaluate(() => {
+            const el = document.querySelector(".mw-code") || 
+                       document.getElementById("wpTextbox1") || 
+                       document.querySelector("pre");
+            return el ? (el.value || el.innerText || el.textContent) : '';
+        });
 
-    if (!rawLua.trim()) {
-        throw new Error('❌ Error: Retrieved raw Lua source code from module is empty.');
+        await browser.close();
     }
 
-    console.log('⚙️ Parsing Lua structures...');
+    if (!rawLua || !rawLua.trim()) {
+        throw new Error('❌ Error: Retrieved raw Lua code content is empty.');
+    }
+
+    console.log('⚙️ Compiling Lua modules through state-machine syntax parser...');
     const cleanLua = stripLuaComments(rawLua);
     const tokens = tokenizeLua(cleanLua);
     const rawParsedObj = parseLuaTokens(tokens);
@@ -398,7 +451,7 @@ function transformLuaToTargetJSON(parsedObj) {
         throw new Error('❌ Error: Lexical syntax compiler returned non-constructible data.');
     }
 
-    console.log('🔄 Mapping output fields to destination JSON schema...');
+    console.log('🔄 Transforming items into structured JSON target database schema...');
     const finalJSONOutput = transformLuaToTargetJSON(rawParsedObj);
     
     const dir = path.join(process.cwd(), 'data');
@@ -408,5 +461,5 @@ function transformLuaToTargetJSON(parsedObj) {
     await fs.writeFile(filename, JSON.stringify(finalJSONOutput, null, 2), 'utf8');
     
     console.log(`✅ Compilation successful! Total elements transformed: ${finalJSONOutput.items.length}`);
-    console.log('File successfully saved to:', filename);
+    console.log('Saved to:', filename);
 })();
