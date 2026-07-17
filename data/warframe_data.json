@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-07-10T16:48:48.937Z",
+  "scrapedAt": "2026-07-17T16:05:21.181Z",
   "source": "https://wiki.warframe.com/w/Module:Baro/data",
   "items": [
     {
@@ -201,7 +201,7 @@
         "2023-06-30T13:00:00.000Z",
         "2022-09-23T13:00:00.000Z"
       ],
-      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations%23Miscellaneous",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations%23Baro_Ki'Teer",
       "wikiThumbnail": "https://wiki.warframe.com/w/Special:FilePath/AgedClaretOfDenas.png"
     },
     {
@@ -636,7 +636,7 @@
         "2023-06-30T13:00:00.000Z",
         "2022-11-18T13:00:00.000Z"
       ],
-      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations%23Miscellaneous",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations%23Baro_Ki'Teer",
       "wikiThumbnail": "https://wiki.warframe.com/w/Special:FilePath/BekranZaft'sEquipment.png"
     },
     {
@@ -682,7 +682,7 @@
         "2023-10-06T13:00:00.000Z",
         "2023-02-10T13:00:00.000Z"
       ],
-      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations%23Miscellaneous",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations%23Baro_Ki'Teer",
       "wikiThumbnail": "https://wiki.warframe.com/w/Special:FilePath/KavatBust.png"
     },
     {
@@ -698,7 +698,7 @@
         "2023-08-25T13:00:00.000Z",
         "2023-01-27T13:00:00.000Z"
       ],
-      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations%23Miscellaneous",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations%23Baro_Ki'Teer",
       "wikiThumbnail": "https://wiki.warframe.com/w/Special:FilePath/BronzeKubrowBust.png"
     },
     {
@@ -772,7 +772,7 @@
         "2023-11-03T13:00:00.000Z",
         "2023-02-10T13:00:00.000Z"
       ],
-      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations%23Miscellaneous",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations%23Baro_Ki'Teer",
       "wikiThumbnail": "https://wiki.warframe.com/w/Special:FilePath/ClatharcPlanter.png"
     },
     {
@@ -1495,7 +1495,7 @@
       "ducats": 275,
       "dates": [],
       "wikiURL": "https://wiki.warframe.com/w/Elixis_Latron_Chest_Plate",
-      "wikiThumbnail": "https://wiki.warframe.com/w/Special:FilePath/ElixisLatronC.png"
+      "wikiThumbnail": "https://wiki.warframe.com/w/Special:FilePath/ElixisLatronChestPlate.png"
     },
     {
       "itemName": "Elixis Latron Leg Plate",
@@ -1505,7 +1505,7 @@
       "ducats": 300,
       "dates": [],
       "wikiURL": "https://wiki.warframe.com/w/Elixis_Latron_Leg_Plate",
-      "wikiThumbnail": "https://wiki.warframe.com/w/Special:FilePath/ElixisLatronL.png"
+      "wikiThumbnail": "https://wiki.warframe.com/w/Special:FilePath/ElixisLatronLegPlate.png"
     },
     {
       "itemName": "Elixis Latron Pistol Skin",
@@ -1527,6 +1527,16 @@
       ],
       "wikiURL": "https://wiki.warframe.com/w/Elixis_Latron_Pistol_Skin",
       "wikiThumbnail": "https://wiki.warframe.com/w/Special:FilePath/ElixisLatronPistolSkin.png"
+    },
+    {
+      "itemName": "Elixis Latron Shoulder Plate (Left)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Armor",
+      "credits": 220000,
+      "ducats": 325,
+      "dates": [],
+      "wikiURL": "https://wiki.warframe.com/w/Elixis_Latron_Shoulder_Plate_(Left)",
+      "wikiThumbnail": "https://wiki.warframe.com/w/Special:FilePath/ElixisLatronShoulderPlate.png"
     },
     {
       "itemName": "Eminence",
@@ -1643,7 +1653,7 @@
         "2015-02-20T13:00:00.000Z"
       ],
       "wikiURL": "https://wiki.warframe.com/w/Eos_Prime_Chest_Plate",
-      "wikiThumbnail": "https://wiki.warframe.com/w/Special:FilePath/PrimedEosChestPlate.png"
+      "wikiThumbnail": "https://wiki.warframe.com/w/Special:FilePath/EosPrimeChestPlate.png"
     },
     {
       "itemName": "Eskhatos Grimoire Skin",
@@ -1766,6 +1776,16 @@
       ],
       "wikiURL": "https://wiki.warframe.com/w/Exo-Sac_Archwing_Skin",
       "wikiThumbnail": "https://wiki.warframe.com/w/Special:FilePath/Exo-SacArchwingSkin.png"
+    },
+    {
+      "itemName": "Exploration Poster",
+      "itemType": "Decoration",
+      "itemSubType": null,
+      "credits": 2026,
+      "ducats": 20,
+      "dates": [],
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations%23Posters",
+      "wikiThumbnail": "https://wiki.warframe.com/w/Special:FilePath/ExplorationPoster.png"
     },
     {
       "itemName": "Fae Path Ephemera",
@@ -1958,7 +1978,7 @@
         "2022-07-29T13:00:00.000Z"
       ],
       "wikiURL": "https://wiki.warframe.com/w/Emblems%23Baro_Ki'Teer_Emblems",
-      "wikiThumbnail": "https://wiki.warframe.com/w/Special:FilePath/GlaringSigil.png"
+      "wikiThumbnail": "https://wiki.warframe.com/w/Special:FilePath/GlaringEmblem.png"
     },
     {
       "itemName": "Glaring Sigil",
@@ -2052,7 +2072,7 @@
         "2023-11-17T13:00:00.000Z",
         "2023-02-24T13:00:00.000Z"
       ],
-      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations%23Miscellaneous",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations%23Baro_Ki'Teer",
       "wikiThumbnail": "https://wiki.warframe.com/w/Special:FilePath/GravLifterFactory.png"
     },
     {
@@ -2461,7 +2481,7 @@
         "2024-07-26T13:00:00.000Z",
         "2023-12-01T13:00:00.000Z"
       ],
-      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations%23Miscellaneous",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations%23Baro_Ki'Teer",
       "wikiThumbnail": "https://wiki.warframe.com/w/Special:FilePath/JaviEvolutionScrawling.png"
     },
     {
@@ -2476,7 +2496,7 @@
         "2024-12-27T13:00:00.000Z",
         "2024-02-09T13:00:00.000Z"
       ],
-      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations%23Miscellaneous",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations%23Baro_Ki'Teer",
       "wikiThumbnail": "https://wiki.warframe.com/w/Special:FilePath/JaviGenomeScrawling.png"
     },
     {
@@ -2491,7 +2511,7 @@
         "2024-10-04T13:00:00.000Z",
         "2024-01-12T13:00:00.000Z"
       ],
-      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations%23Miscellaneous",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations%23Baro_Ki'Teer",
       "wikiThumbnail": "https://wiki.warframe.com/w/Special:FilePath/JaviLuminosityScrawling.png"
     },
     {
@@ -2506,7 +2526,7 @@
         "2024-11-01T13:00:00.000Z",
         "2024-01-26T13:00:00.000Z"
       ],
-      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations%23Miscellaneous",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations%23Baro_Ki'Teer",
       "wikiThumbnail": "https://wiki.warframe.com/w/Special:FilePath/JaviOphiuchusScrawling.png"
     },
     {
@@ -2576,7 +2596,7 @@
         "2023-12-15T13:00:00.000Z",
         "2023-04-07T13:00:00.000Z"
       ],
-      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations%23Miscellaneous",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations%23Baro_Ki'Teer",
       "wikiThumbnail": "https://wiki.warframe.com/w/Special:FilePath/Karishh'sDinnerware.png"
     },
     {
@@ -3097,7 +3117,7 @@
         "2023-10-20T13:00:00.000Z",
         "2023-01-27T13:00:00.000Z"
       ],
-      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations%23Miscellaneous",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations%23Baro_Ki'Teer",
       "wikiThumbnail": "https://wiki.warframe.com/w/Special:FilePath/Ki'TeerLuxPedestal.png"
     },
     {
@@ -3197,7 +3217,7 @@
         "2022-07-29T13:00:00.000Z"
       ],
       "wikiURL": "https://wiki.warframe.com/w/Emblems%23Baro_Ki'Teer_Emblems",
-      "wikiThumbnail": "https://wiki.warframe.com/w/Special:FilePath/Ki'Teer_Sekhara.png"
+      "wikiThumbnail": "https://wiki.warframe.com/w/Special:FilePath/Ki'TeerSekhara.png"
     },
     {
       "itemName": "Ki'Teer Sentinel Mask",
@@ -3492,16 +3512,6 @@
       "wikiThumbnail": "https://wiki.warframe.com/w/Special:FilePath/KuvaGlyph.png"
     },
     {
-      "itemName": "Left Elixis Latron Shoulder Plate",
-      "itemType": "Cosmetic",
-      "itemSubType": "Armor",
-      "credits": 220000,
-      "ducats": 325,
-      "dates": [],
-      "wikiURL": "https://wiki.warframe.com/w/Elixis_Latron_Shoulder_Plate_(Left)",
-      "wikiThumbnail": "https://wiki.warframe.com/w/Special:FilePath/ElixisLatronA.png"
-    },
-    {
       "itemName": "Left Eos Prime Shoulder Plates",
       "itemType": "Cosmetic",
       "itemSubType": "Armor",
@@ -3519,7 +3529,7 @@
         "2015-03-06T13:00:00.000Z"
       ],
       "wikiURL": "https://wiki.warframe.com/w/Left_Eos_Prime_Shoulder_Plates",
-      "wikiThumbnail": "https://wiki.warframe.com/w/Special:FilePath/PrimedEosShoulderPlate.png"
+      "wikiThumbnail": "https://wiki.warframe.com/w/Special:FilePath/EosPrimeShoulderPlates.png"
     },
     {
       "itemName": "Left Eos Prime Spurs",
@@ -3539,7 +3549,7 @@
         "2015-03-20T13:00:00.000Z"
       ],
       "wikiURL": "https://wiki.warframe.com/w/Left_Eos_Prime_Spurs",
-      "wikiThumbnail": "https://wiki.warframe.com/w/Special:FilePath/PrimedEosSpurs.png"
+      "wikiThumbnail": "https://wiki.warframe.com/w/Special:FilePath/EosPrimeSpurs.png"
     },
     {
       "itemName": "Left Prisma Daedalus Knee Plates",
@@ -3632,29 +3642,6 @@
       ],
       "wikiURL": "https://wiki.warframe.com/w/Left_Prisma_Edo_Shoulder_Plates",
       "wikiThumbnail": "https://wiki.warframe.com/w/Special:FilePath/LeftPrismaEdoShoulderPlates.png"
-    },
-    {
-      "itemName": "Left Prisma Latron Shoulder Plate",
-      "itemType": "Cosmetic",
-      "itemSubType": "Armor",
-      "credits": 220000,
-      "ducats": 325,
-      "dates": [
-        "2026-07-10T13:00:00.000Z",
-        "2026-01-09T13:00:00.000Z",
-        "2025-08-22T13:00:00.000Z",
-        "2025-04-11T13:00:00.000Z",
-        "2025-02-07T13:00:00.000Z",
-        "2024-12-27T13:00:00.000Z",
-        "2024-11-01T13:00:00.000Z",
-        "2024-08-09T13:00:00.000Z",
-        "2024-01-26T13:00:00.000Z",
-        "2023-08-25T13:00:00.000Z",
-        "2023-03-10T13:00:00.000Z",
-        "2022-09-09T13:00:00.000Z"
-      ],
-      "wikiURL": "https://wiki.warframe.com/w/Prisma_Latron_Shoulder_Plate_(Left)",
-      "wikiThumbnail": "https://wiki.warframe.com/w/Special:FilePath/PrismaLatronShoulderPlate.png"
     },
     {
       "itemName": "Lemnas Staff Skin",
@@ -4311,7 +4298,7 @@
       "dates": [
         "2025-11-07T13:00:00.000Z"
       ],
-      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations%23Miscellaneous",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations%23Baro_Ki'Teer",
       "wikiThumbnail": "https://wiki.warframe.com/w/Special:FilePath/NaberusFloatingCandles.png"
     },
     {
@@ -4660,7 +4647,7 @@
         "2022-08-12T13:00:00.000Z",
         "2022-07-29T13:00:00.000Z"
       ],
-      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations%23Miscellaneous",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations%23Baro_Ki'Teer",
       "wikiThumbnail": "https://wiki.warframe.com/w/Special:FilePath/OrdisReifiedStatue.png"
     },
     {
@@ -4708,7 +4695,7 @@
         "2022-10-07T13:00:00.000Z"
       ],
       "wikiURL": "https://wiki.warframe.com/w/Emblems%23Baro_Ki'Teer_Emblems",
-      "wikiThumbnail": "https://wiki.warframe.com/w/Special:FilePath/PackLeaderSigil.png"
+      "wikiThumbnail": "https://wiki.warframe.com/w/Special:FilePath/PackLeaderEmblem.png"
     },
     {
       "itemName": "Pack Leader Sigil",
@@ -4854,7 +4841,7 @@
         "2023-01-13T13:00:00.000Z",
         "2017-12-29T13:00:00.000Z"
       ],
-      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations%23Miscellaneous",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations%23Baro_Ki'Teer",
       "wikiThumbnail": "https://wiki.warframe.com/w/Special:FilePath/PedestalPrime.png"
     },
     {
@@ -4873,7 +4860,7 @@
         "2022-08-12T13:00:00.000Z",
         "2022-07-29T13:00:00.000Z"
       ],
-      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations%23Miscellaneous",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations%23Baro_Ki'Teer",
       "wikiThumbnail": "https://wiki.warframe.com/w/Special:FilePath/PedestalUmbra.png"
     },
     {
@@ -6466,6 +6453,29 @@
       "wikiThumbnail": "https://wiki.warframe.com/w/Special:FilePath/PrismaLatronLegPlate.png"
     },
     {
+      "itemName": "Prisma Latron Shoulder Plate (Left)",
+      "itemType": "Cosmetic",
+      "itemSubType": "Armor",
+      "credits": 220000,
+      "ducats": 325,
+      "dates": [
+        "2026-07-10T13:00:00.000Z",
+        "2026-01-09T13:00:00.000Z",
+        "2025-08-22T13:00:00.000Z",
+        "2025-04-11T13:00:00.000Z",
+        "2025-02-07T13:00:00.000Z",
+        "2024-12-27T13:00:00.000Z",
+        "2024-11-01T13:00:00.000Z",
+        "2024-08-09T13:00:00.000Z",
+        "2024-01-26T13:00:00.000Z",
+        "2023-08-25T13:00:00.000Z",
+        "2023-03-10T13:00:00.000Z",
+        "2022-09-09T13:00:00.000Z"
+      ],
+      "wikiURL": "https://wiki.warframe.com/w/Prisma_Latron_Shoulder_Plate_(Left)",
+      "wikiThumbnail": "https://wiki.warframe.com/w/Special:FilePath/PrismaLatronShoulderPlate.png"
+    },
+    {
       "itemName": "Prisma Lenz",
       "itemType": "Weapon",
       "itemSubType": null,
@@ -7160,7 +7170,7 @@
         "2023-12-01T13:00:00.000Z",
         "2023-03-10T13:00:00.000Z"
       ],
-      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations%23Miscellaneous",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations%23Baro_Ki'Teer",
       "wikiThumbnail": "https://wiki.warframe.com/w/Special:FilePath/ReshanturChild'sTablet.png"
     },
     {
@@ -7235,7 +7245,7 @@
         "2024-03-08T13:00:00.000Z"
       ],
       "wikiURL": "https://wiki.warframe.com/w/Sigils%23Event_Sigils",
-      "wikiThumbnail": "https://wiki.warframe.com/w/Special:FilePath/RhinoPalatineSigil.png"
+      "wikiThumbnail": "https://wiki.warframe.com/w/Special:FilePath/RhinoPalatineSigil(SxWhite).png"
     },
     {
       "itemName": "Right Eos Prime Shoulder Plates",
@@ -7255,7 +7265,7 @@
         "2015-03-06T13:00:00.000Z"
       ],
       "wikiURL": "https://wiki.warframe.com/w/Right_Eos_Prime_Shoulder_Plates",
-      "wikiThumbnail": "https://wiki.warframe.com/w/Special:FilePath/PrimedEosShoulderPlate.png"
+      "wikiThumbnail": "https://wiki.warframe.com/w/Special:FilePath/EosPrimeShoulderPlates.png"
     },
     {
       "itemName": "Right Eos Prime Spurs",
@@ -7275,7 +7285,7 @@
         "2015-03-20T13:00:00.000Z"
       ],
       "wikiURL": "https://wiki.warframe.com/w/Right_Eos_Prime_Spurs",
-      "wikiThumbnail": "https://wiki.warframe.com/w/Special:FilePath/PrimedEosSpurs.png"
+      "wikiThumbnail": "https://wiki.warframe.com/w/Special:FilePath/EosPrimeSpurs.png"
     },
     {
       "itemName": "Right Prisma Daedalus Knee Plates",
@@ -7502,7 +7512,7 @@
         "2022-08-12T13:00:00.000Z",
         "2022-07-29T13:00:00.000Z"
       ],
-      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations%23Miscellaneous",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations%23Baro_Ki'Teer",
       "wikiThumbnail": "https://wiki.warframe.com/w/Special:FilePath/SecretHistoryReplica.png"
     },
     {
@@ -7556,6 +7566,16 @@
       ],
       "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations%23Luxxum_Ornaments",
       "wikiThumbnail": "https://wiki.warframe.com/w/Special:FilePath/SimaLuxxumOrnament.png"
+    },
+    {
+      "itemName": "Singing Lotus Community Glyph",
+      "itemType": "Glyph",
+      "itemSubType": null,
+      "credits": 2026,
+      "ducats": 20,
+      "dates": [],
+      "wikiURL": "https://wiki.warframe.com/w/Glyph%23Other_Glyphs",
+      "wikiThumbnail": "https://wiki.warframe.com/w/Special:FilePath/SingingLotusCommunityGlyph.png"
     },
     {
       "itemName": "Sonicor Elixis Skin",
@@ -7701,7 +7721,7 @@
         "2022-11-04T13:00:00.000Z"
       ],
       "wikiURL": "https://wiki.warframe.com/w/Tannukai_Chest_Plate",
-      "wikiThumbnail": "https://wiki.warframe.com/w/Special:FilePath/TannukaiArmorChest.png"
+      "wikiThumbnail": "https://wiki.warframe.com/w/Special:FilePath/TannukaiChestPlate.png"
     },
     {
       "itemName": "Tannukai Leg Plates",
@@ -7721,7 +7741,7 @@
         "2022-11-04T13:00:00.000Z"
       ],
       "wikiURL": "https://wiki.warframe.com/w/Tannukai_Leg_Plates",
-      "wikiThumbnail": "https://wiki.warframe.com/w/Special:FilePath/TannukaiArmorLeg.png"
+      "wikiThumbnail": "https://wiki.warframe.com/w/Special:FilePath/TannukaiLegPlates.png"
     },
     {
       "itemName": "Tannukai Longsword Skin",
@@ -7761,7 +7781,7 @@
         "2022-11-04T13:00:00.000Z"
       ],
       "wikiURL": "https://wiki.warframe.com/w/Tannukai_Shoulder_Plates",
-      "wikiThumbnail": "https://wiki.warframe.com/w/Special:FilePath/TannukaiArmorArm.png"
+      "wikiThumbnail": "https://wiki.warframe.com/w/Special:FilePath/TannukaiShoulderPlates.png"
     },
     {
       "itemName": "Taxon Desert-Camo Skin",
@@ -7811,7 +7831,7 @@
         "2023-07-14T13:00:00.000Z",
         "2022-10-07T13:00:00.000Z"
       ],
-      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations%23Miscellaneous",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations%23Baro_Ki'Teer",
       "wikiThumbnail": "https://wiki.warframe.com/w/Special:FilePath/TelamonDanceOfDeath.png"
     },
     {
@@ -7847,7 +7867,7 @@
         "2023-11-03T13:00:00.000Z",
         "2023-02-24T13:00:00.000Z"
       ],
-      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations%23Miscellaneous",
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations%23Baro_Ki'Teer",
       "wikiThumbnail": "https://wiki.warframe.com/w/Special:FilePath/TennoKindredRug.png"
     },
     {
@@ -8149,6 +8169,16 @@
       ],
       "wikiURL": "https://wiki.warframe.com/w/Vermillion_Storm",
       "wikiThumbnail": "https://wiki.warframe.com/w/Special:FilePath/VermillionStormMod.png"
+    },
+    {
+      "itemName": "Verminia Cosplay Community Display",
+      "itemType": "Decoration",
+      "itemSubType": null,
+      "credits": 2026,
+      "ducats": 20,
+      "dates": [],
+      "wikiURL": "https://wiki.warframe.com/w/Orbiter_Decorations%23Displays",
+      "wikiThumbnail": "https://wiki.warframe.com/w/Special:FilePath/VerminiaCosplayCommunityDisplay.png"
     },
     {
       "itemName": "Vez Luxxum Ornament",
